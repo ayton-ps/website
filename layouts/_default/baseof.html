@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+{{- $p := .Page -}}
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }}</title>
+  {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
+  {{- $style := resources.Get "style.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options | resources.Fingerprint "md5" -}}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all">
+</head>
+<body>
+  <div id="site">
+    <header><img class="logo" src="/logo.svg"><a href="#footer">Contact details</a></header>
+    <main>
+      <article>
+        <h1>{{ .Title }}</h1>
+        <div class="cover-photo"><img src="{{ .Params.cover_photo }}"></div>
+        {{ .Content }}
+      </article>
+    </main>
+    <footer id="footer">
+      <ul class="contact">
+        {{ range .Site.Data.contact.details -}}
+          <li>
+            <div class="icon"><img src="{{ .icon }}"></div>
+            <div class="text">{{ $p.RenderString .content }}</div>
+          </li>
+        {{- end }}
+      </ul>
+    </footer>
+  </div>
+</body>
+</html>

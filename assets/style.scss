@@ -4,8 +4,8 @@ $bg: #bad6f8;
 $maroon: #8c374c;
 $green: #265e54;
 $pale: #cbb477;
-$text: #721919;
-$link: #0e273c;
+$link: #721919;
+$text: #0e273c;
 
 $lineHeight: 1.2;
 $fontSize: 5vw;
@@ -46,7 +46,15 @@ h1 {
   font-size: 2em;
 }
 
-h1, h2, h3 { font-family: 'Patrick Hand'; }
+h2 {
+  font-size: 1.6em;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Patrick Hand';
+  color: $red;
+}
 
 #site {
   box-sizing: border-box;
@@ -58,13 +66,25 @@ h1, h2, h3 { font-family: 'Patrick Hand'; }
   .logo {
     height: 5em;
   }
-  header {
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+  @media #{$firstBreakpointStr} {
+    font-size: 1.4em;
+  }
+  .contact {
+    list-style-type: none;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 2em;
-    @media #{$firstBreakpointStr} {
-      font-size: 1.4em;
+    img {
+      height: $lineHeight * 1em;
+    }
+    li {
+      padding-left: 0.5em;
     }
   }
 }
@@ -75,9 +95,28 @@ h1, h2, h3 { font-family: 'Patrick Hand'; }
 
 main {
   padding: 2em 0;
-  border-width: 0.6em 0;
-  border-style: solid;
-  border-color: $maroon;
+  h2 {
+    padding-top: 1.5em;
+    margin-top: 1.5em;
+  }
+  &, h2 { position: relative; }
+  &:after, &:before, h2:before {
+    position: absolute;
+    left: 0;
+    border-radius: 1em;
+    background-color: $maroon;
+    content: '';
+  }
+  &:after, &:before {
+    right: 0;
+    height: 0.5em;
+  }
+  h2:before {
+    width: 5em;
+    height: 0.25em;
+  }
+  &:after { bottom: 0; }
+  &:before, h2:before { top: 0 }
 }
 
 #footer {

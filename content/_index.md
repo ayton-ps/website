@@ -2,6 +2,7 @@
 title: "Welcome to Ayton Primary School!"
 date: 2022-03-21T14:46:17Z
 cover_photo: /school.jpg
+og: https://aytonps-draft.netlify.app/og.jpg
 ---
 
 Our school is for children in P1-P7 for children from Ayton and the surrounding
@@ -34,7 +35,7 @@ Information to follow
 
 ## School uniform
 
-Our uniform is worn on Mondays, Wednesdays and Fridays. Uniform with embroidered school logo is [**available from FPUniformz**](https://www.fpuniformz.com/product-category/schools/primary-school/ayton-primary-school/), but **is not required**.
+Our uniform is worn on Mondays, Wednesdays and Fridays. Uniform with embroidered school logo is [available from FPUniformz](https://www.fpuniformz.com/product-category/schools/primary-school/ayton-primary-school/), but **is not required**.
 
 * Maroon jumper or cardigan
 * light blue (or white) polo shirt (or shirt)

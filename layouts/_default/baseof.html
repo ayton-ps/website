@@ -8,10 +8,23 @@
   {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
   {{- $style := resources.Get "style.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options | resources.Fingerprint "md5" -}}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all">
+  <meta property="og:title" content="{{ .Page.Title }}">
+  <meta property="og:site_name" content="Ayton Primary School">
+  <meta property="og:type" content="article">
+  <meta property="og:type" content="article" />
+  <meta property="og:updated_time" content="{{ .Page.Lastmod.Unix }}">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" itemprop="image" content="{{- .Params.og -}}">
 </head>
 <body>
   <div id="site">
-    <header><img class="logo" src="/logo.svg"><a href="#footer">Contact details</a></header>
+    <header id="header">
+      <img class="logo" src="/logo.svg">
+      <ul class="contact">
+        {{ range .Site.Data.contact.quick -}}
+          <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ .icon }}"></a></li>
+        {{- end }}
+    </header>
     <main>
       <article>
         <h1>{{ .Title }}</h1>

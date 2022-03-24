@@ -59,7 +59,7 @@ collections:
             widget: list
             hint: the information that appears at the bottom of the page
             fields:
-              - label: icon:
+              - label: icon
                 name: icon
                 widget: image
               - label: Content

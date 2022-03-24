@@ -1,0 +1,67 @@
+---
+backend:
+  name: git-gateway
+  branch: master
+site_url: https://aytonps-draft.netlify.com
+media_folder: content/i/
+public_folder: /i/
+logo_url: /i/logo.svg
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: content
+    create: true
+    format: frontmatter
+    preview_path: "{{slug}}/"
+    editor: { preview: false }
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Main image
+        name: cover_photo
+        widget: image
+        description: Used at top of page. Images should be at least 2000 pixels wide
+      - label: Description
+        name: description
+        widget: string
+        description: Text used in search enginges and when sharing links on social media
+      - label: Content
+        name: body
+        widget: markdown
+  - label: Site settings
+    name: site_settings
+    delete: false
+    editor: { preview: false }
+    files:
+      - label: Contact info
+        name: contact_info
+        preview_path: ""
+        file: data/contact.yml
+        fields:
+          - label: Quick links
+            name: quick
+            widget: list
+            hint: The icons that appear at the top of the page
+            fields:
+              - label: Icon
+                name: icon
+                widget: image
+              - label: Link
+                name: link
+                widget: string
+              - label: title
+                name: title
+                widget: string
+          - label: Details
+            name: details
+            widget: list
+            hint: the information that appears at the bottom of the page
+            fields:
+              - label: icon:
+                name: icon
+                widget: image
+              - label: Content
+                name: content
+                widget: markdown

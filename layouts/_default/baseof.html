@@ -16,11 +16,13 @@
   <meta property="og:updated_time" content="{{ .Page.Lastmod.Unix }}">
   <meta property="og:locale" content="en_GB">
   <meta property="og:image" itemprop="image" content="{{- .Params.og -}}">
+  {{ block "head_extra" . -}}
+  {{- end }}
 </head>
 <body>
   <div id="site">
     <header id="header">
-      <img class="logo" src="/logo.svg">
+      <img class="logo" src="/i/logo.svg">
       <ul class="contact">
         {{ range .Site.Data.contact.quick -}}
           <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ .icon }}"></a></li>

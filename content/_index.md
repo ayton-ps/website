@@ -1,8 +1,8 @@
 ---
 title: "Welcome to Ayton Primary School!"
 date: 2022-03-21T14:46:17Z
-cover_photo: /school.jpg
-og: https://aytonps-draft.netlify.app/og.jpg
+cover_photo: /i/school.jpg
+og: https://aytonps-draft.netlify.app/i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 

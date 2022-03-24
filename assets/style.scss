@@ -26,6 +26,7 @@ $secondBreakpointStr: "(min-width: #{$secondBreakpoint})";
 
 body {
   background-color: $bg;
+  word-wrap: break-word;
   font-family: 'Atkinson Hyperlegible';
   font-size: $fontSize;
   color: $text;

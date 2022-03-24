@@ -19,8 +19,8 @@ We are part of the Eyemouth Learning Community – the children from Ayton, Cold
 
 Please note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'.
 
-* [This academic year's term dates(https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
-* [Next academic year's term dates(https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+* [This academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
+* [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
 
 
 ## School timings

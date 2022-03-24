@@ -39,7 +39,7 @@
       <ul class="contact">
         {{ range .Site.Data.contact.details -}}
           <li>
-            <div class="icon"><img src="{{ .icon }}"></div>
+            <div class="icon"><img src="{{ .icon }}" alt="{{ .title }}"></div>
             <div class="text">{{ $p.RenderString .content }}</div>
           </li>
         {{- end }}

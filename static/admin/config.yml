@@ -45,20 +45,23 @@ collections:
             widget: list
             hint: The icons that appear at the top of the page
             fields:
+              - label: Title
+                name: title
+                widget: string
               - label: Icon
                 name: icon
                 widget: image
               - label: Link
                 name: link
                 widget: string
-              - label: title
-                name: title
-                widget: string
           - label: Details
             name: details
             widget: list
             hint: the information that appears at the bottom of the page
             fields:
+              - label: Title
+                name: title
+                widget: string
               - label: icon
                 name: icon
                 widget: image

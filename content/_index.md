@@ -1,20 +1,17 @@
 ---
 title: Welcome to Ayton Primary School!
-date: 2022-03-21T14:46:17.000Z
 cover_photo: /i/school.jpg
 og: https://aytonps-draft.netlify.app/i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 
-Our school is for children in P1-P7 for children from Ayton and the surrounding
-area. Our headteacher is Ms Knox, and we are part of a three school headship
-with Coldingham and Cockburnspath Primary Schools.
+Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our headteacher is Ms Knox, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
 
 We currently have three classes and four teachers:
 
-* P1-2, taught by XX
+* P1-2, taught by [Mrs Pearson](mailto:gw17rodgeriona@glow.sch.uk)
 * P3-4, taught by [Mrs Sim](mailto:gw21simsharonsbc@glowmail.org.uk), and Miss Grossart on Thursdays
-* P5-7, taught Mr Swan and Ms XX
+* P5-7, taught by [Mrs Hunter](mailto:gw19hunterhannah@glow.sch.uk) and Mrs Brown
 
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.
 

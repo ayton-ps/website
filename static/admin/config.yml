@@ -1,7 +1,7 @@
 ---
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 site_url: https://aytonps-draft.netlify.com
 media_folder: content/i/
 public_folder: /i/

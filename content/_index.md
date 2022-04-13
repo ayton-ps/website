@@ -47,4 +47,4 @@ We occasionally have non-uniform or dress up days.
 
 ## Parent council
 
-Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. Our next meeting is 1 July in the bowling club. The current chair is Katherine Lymer, treasurer is Ellie Moriarty. You can contact us via <pcaytonprimaryschool@scottishborders.npfs.org.uk>.
+Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. Our next meeting is 1 June in the bowling club. The current chair is Katherine Lymer, treasurer is Ellie Moriarty. You can contact us via <pcaytonprimaryschool@scottishborders.npfs.org.uk>.

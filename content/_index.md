@@ -1,7 +1,7 @@
 ---
 title: Welcome to Ayton Primary School!
 cover_photo: /i/school.jpg
-og: https://aytonps-draft.netlify.app/i/og.jpg
+og: /i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 

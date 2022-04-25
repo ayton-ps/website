@@ -15,7 +15,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:updated_time" content="{{ .Page.Lastmod.Unix }}">
   <meta property="og:locale" content="en_GB">
-  <meta property="og:image" itemprop="image" content="{{- .Params.og -}}">
+  <meta property="og:image" itemprop="image" content="{{ .Site.BaseURL }}{{- .Params.og -}}">
   {{ block "head_extra" . -}}
   {{- end }}
 </head>

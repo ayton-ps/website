@@ -1,4 +1,4 @@
-baseURL = 'https://aytonps-draft.netlify.app'
+baseURL = 'https://aytonprimary.com'
 languageCode = 'en-gb'
 title = 'Ayton Primary School'
 disableKinds = ["taxonomy", "taxonomyTerm"]

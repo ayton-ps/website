@@ -11,7 +11,7 @@ We currently have three classes and four teachers:
 
 * P1-2, taught by [Mrs Pearson](mailto:gw17rodgeriona@glow.sch.uk)
 * P3-4, taught by [Mrs Sim](mailto:gw21simsharonsbc@glowmail.org.uk), and Miss Grossart on Thursdays
-* P5-7, taught by [Mrs Hunter](mailto:gw19hunterhannah@glow.sch.uk) and Mrs Brown
+* P5-7, taught by [Mr Swan](mailto:gw19swanpatrick@glow.sch.uk)
 
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.
 
@@ -47,4 +47,13 @@ We occasionally have non-uniform or dress up days.
 
 ## Parent council
 
-Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. Our next meeting is 1 June in the bowling club. The current chair is Katherine Lymer, treasurer is Ellie Moriarty. You can contact us via <pcaytonprimaryschool@scottishborders.npfs.org.uk>.
+Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The current chair is Katherine Lymer and current treasurer is Ellie Moriarty. You can contact us via <pfa@aytonprimary.com>.
+
+### Minutes from past meetings
+
+* [23 March](/PFAMeeting23March.pdf)
+
+### Upcoming meetings
+
+* Friday 29 April 9:00–10:15 in the bowling club
+* Wednesday 1 June 16:30–18:00 in the bowling club

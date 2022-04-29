@@ -15,6 +15,7 @@ We currently have three classes and four teachers:
 
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.
 
+
 ## Term dates
 
 Please note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'.
@@ -28,9 +29,10 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 Monday–Thursday: 08:45–15:10  
 Friday: 08:45–12:30
 
+
 ## Breakfast club
 
-Information to follow
+Breakfast club costs 20p and starts at 8am. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
 
 
 ## School uniform
@@ -45,9 +47,11 @@ Our uniform is worn on Mondays, Wednesdays and Fridays. Uniform with embroidered
 
 We occasionally have non-uniform or dress up days.
 
+
 ## Parent council
 
 Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The current chair is Katherine Lymer and current treasurer is Ellie Moriarty. You can contact us via <pfa@aytonprimary.com>.
+
 
 ### Minutes from past meetings
 

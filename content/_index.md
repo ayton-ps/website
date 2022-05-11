@@ -10,7 +10,7 @@ Our school is for children in P1-P7 for children from Ayton and the surrounding 
 We currently have three classes and four teachers:
 
 * P1-2, taught by [Mrs Pearson](mailto:gw17rodgeriona@glow.sch.uk)
-* P3-4, taught by [Mrs Sim](mailto:gw21simsharonsbc@glowmail.org.uk), and Miss Grossart on Thursdays
+* P3-4, taught by [Mrs Sim](mailto:gw21simsharonsbc@glowmail.org.uk)
 * P5-7, taught by [Mr Swan](mailto:gw19swanpatrick@glow.sch.uk)
 
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.

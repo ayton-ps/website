@@ -22,11 +22,12 @@
 <body>
   <div id="site">
     <header id="header">
-      <img class="logo" src="/i/logo.svg">
+      <a href="/"><img class="logo" src="/i/logo.svg"></a>
       <ul class="contact">
         {{ range .Site.Data.contact.quick -}}
           <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ .icon }}"></a></li>
         {{- end }}
+      </ul>
     </header>
     <main>
       <article>

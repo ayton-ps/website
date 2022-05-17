@@ -10,10 +10,10 @@ quick:
     link: https://www.facebook.com/aytonps/
     title: Visit our Facebook page
   - icon: /i/mail.svg
-    link: mailto:mcrowe@scotborders.gov.uk
+    link: mailto:aytonps@scotborders.gov.uk
     title: Email the school
   - icon: /i/more.svg
-    link: '#footer'
+    link: "#footer"
     title: See more contatct information
 details:
   - icon: /i/phone.svg
@@ -44,5 +44,5 @@ details:
 
       ## School Administrator
 
-      Mrs Michelle Crowe  
-      [mcrowe@scotborders.gov.uk](mailto:mcrowe@scotborders.gov.uk)
+      Hayley Blackie  
+      [aytonps@scotborders.gov.uk](mailto:aytonps@scotborders.gov.uk)

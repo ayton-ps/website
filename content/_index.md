@@ -56,7 +56,7 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. We r
 ### Minutes from past meetings
 
 * [23 March 2022](/PFAMeeting23March.pdf)
-* 29 April 2022 (coming soon)
+* [29 April 2022](/PFAMeeting29April.pdf)
 
 ### Upcoming meetings
 

@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: main
 site_url: https://aytonprimary.com
-media_folder: content/i/
+media_folder: content/i
 public_folder: /i/
 logo_url: /i/logo.svg
 collections:

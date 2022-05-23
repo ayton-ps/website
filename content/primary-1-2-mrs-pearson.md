@@ -1,6 +1,6 @@
 ---
 title: Primary 1/2 Mrs Pearson
-cover_photo: content/i/logo.svg
+cover_photo: /i/school.jpg
 description: Primary 1/2 Mrs Pearson
 ---
 Class Page

@@ -23,6 +23,10 @@ collections:
         name: cover_photo
         widget: image
         description: Used at top of page. Images should be at least 2000 pixels wide
+      - label: Social media image
+        name: og
+        widget: image
+        description: Used when sharing on social media.
       - label: Description
         name: description
         widget: string

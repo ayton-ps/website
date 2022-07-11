@@ -37,13 +37,19 @@ Breakfast club costs 20p and starts at 8am. Please make sure you receive message
 
 ## School uniform
 
-Our uniform is worn on Mondays, Wednesdays and Fridays. Uniform with embroidered school logo is [available from FPUniformz](https://www.fpuniformz.com/product-category/schools/primary-school/ayton-primary-school/), but **is not required**.
+Our **school uniform is worn on Mondays, Wednesdays and Fridays**. Uniform with embroidered school logo is [available from FPUniformz](https://www.fpuniformz.com/product-category/schools/primary-school/ayton-primary-school/), but *the embroidered logo is not required*.
 
+We wear:
+
+* Light blue (or white) polo shirt (or shirt)
+* Dark grey (or black) trousers, shorts, skirt or pinafore
 * Maroon jumper or cardigan
-* light blue (or white) polo shirt (or shirt)
-* dark grey (or black) trousers, shorts, skirt or pinafore
+* Primary 7 children may choose to wear a royal blue sweatshirt
 
-**On Tuesdays and Thursdays, children should come to school in comfortable active clothes and trainers** for PE. There is no need to bring school uniform.
+**On Tuesdays and Thursdays, children should come to school in PE kit.** There
+is no need to bring school uniform. The uniform for PE is black joggers or
+shorts and a plain t-shirt in your child’s House colour. Suitable footwear
+should also be worn.
 
 We occasionally have non-uniform or dress up days.
 

@@ -1,9 +1,11 @@
 ---
+{{ if eq hugo.Environment "development" }}local_backend: true
+{{ end -}}
 backend:
   name: git-gateway
   branch: main
-site_url: https://aytonprimary.com
-media_folder: content/i
+site_url: "{{ .Site.BaseURL }}"
+media_folder: assets/i
 public_folder: /i/
 logo_url: /i/logo.svg
 collections:
@@ -13,7 +15,7 @@ collections:
     folder: content
     create: true
     format: frontmatter
-    preview_path: "{{slug}}/"
+    preview_path: "{{ print "{{ slug }}" }}/"
     editor: { preview: false }
     fields:
       - label: Title

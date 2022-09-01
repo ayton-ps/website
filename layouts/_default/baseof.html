@@ -22,17 +22,17 @@
 <body>
   <div id="site">
     <header id="header">
-      <a href="/"><img class="logo" src="/i/logo.svg"></a>
+      <a href="/"><img class="logo" src="{{ (resources.Get "/i/logo.svg").RelPermalink }}"></a>
       <ul class="contact">
         {{ range .Site.Data.contact.quick -}}
-          <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ .icon }}"></a></li>
+          <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ (resources.Get .icon).RelPermalink }}"></a></li>
         {{- end }}
       </ul>
     </header>
     <main>
       <article>
         <h1>{{ .Title }}</h1>
-        <div class="cover-photo"><img src="{{ .Params.cover_photo }}"></div>
+        <div class="cover-photo"><img src="{{ (resources.Get .Params.cover_photo).RelPermalink }}"></div>
         {{ .Content }}
       </article>
     </main>
@@ -40,7 +40,7 @@
       <ul class="contact">
         {{ range .Site.Data.contact.details -}}
           <li>
-            <div class="icon"><img src="{{ .icon }}" alt="{{ .title }}"></div>
+            <div class="icon"><img src="{{ (resources.Get .icon).RelPermalink }}" alt="{{ .title }}"></div>
             <div class="text">{{ $p.RenderString .content }}</div>
           </li>
         {{- end }}

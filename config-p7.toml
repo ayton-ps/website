@@ -1,11 +1,11 @@
-baseURL = 'https://aytonprimary.com'
+baseURL = 'https://p7.aytonprimary.com'
 languageCode = 'en-gb'
-title = 'Ayton Primary School'
+title = 'Ayton Primary School P7 blog'
 disableKinds = ["taxonomy", "taxonomyTerm"]
 [module]
 [[module.mounts]]
 source = 'assets'
 target = 'assets'
 [[module.mounts]]
-source = 'cms/main.yml'
+source = 'cms/p7.yml'
 target = 'assets/admin/config.yml'

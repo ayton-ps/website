@@ -24,6 +24,9 @@ $secondBreakpointStr: "(min-width: #{$secondBreakpoint})";
 @font-face { font-family: 'Patrick Hand'; font-style: normal; font-weight: 300; src: local(''), url('/patrick-hand.woff2'); }
 
 
+img { max-width: 100%; }
+
+
 body {
   background-color: $bg;
   word-wrap: break-word;
@@ -65,15 +68,18 @@ h1, h2, h3 {
     width: $secondBreakpoint;
   }
   .logo {
-    height: 5em;
+    height: 4em;
   }
 }
 
 #header {
   display: flex;
+  font-family: 'Patrick Hand';
   justify-content: space-between;
   align-items: center;
   margin-bottom: 2em;
+  max-width: 100;
+  flex-wrap: wrap;
   @media #{$firstBreakpointStr} {
     font-size: 1.4em;
   }
@@ -86,6 +92,24 @@ h1, h2, h3 {
     }
     li {
       padding-left: 0.5em;
+    }
+  }
+
+  .blog-link {
+    padding: 0.5em;
+    text-decoration: none;
+    border: 0.1em solid $maroon;
+    border-radius: 0.3em;
+    transform: rotate(-3deg);
+    margin-left: auto;
+    transition: 0.2s ease-in-out background-color;
+    &:hover {
+      background-color: transparentize($maroon, .7);
+    }
+    @media #{$preFirstBreakpointStr} {
+      order: 3;
+      margin-right: auto;
+      margin-top: 1em;
     }
   }
 }
@@ -155,4 +179,59 @@ main {
       margin: 0;
     }
   }
+}
+
+.blogs {
+  display: flex;
+  padding: 0;
+  list-style-type: none;
+  max-width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  h3 { a { text-decoration: none; } }
+  > li {
+    width: 100%;
+    @media #{$firstBreakpointStr} {
+      width: 30%;
+    }
+    margin-bottom: 2em;
+  }
+  .summary {
+    margin: 1em 0;
+  }
+  .no-image {
+    width: 100%;
+    padding-bottom: 60%;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+}
+.other-posts {
+  padding: 0 1em;
+  margin-top: 2em;
+  position: relative;
+  &:before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 0.5em;
+    border-radius: 1em;
+    background-color: $maroon;
+    content: '';
+  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  > div { margin-top: 2em; }
+  .which {
+    font-size: 0.8em;
+    margin-top: 1em;
+  }
+  a { display: block; }
+  .older-post:only-child { margin-left: auto; }
+}
+h2 + .post-info {
+  margin-top: -0.5em;
+  margin-bottom: 2em;
+  font-style: italic;
 }

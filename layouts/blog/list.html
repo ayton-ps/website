@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <h1>P7 blog</h1>
+  <ul class="blogs">
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ with .Params.cover_photo }}
+          <img src="{{ (resources.GetMatch .).RelPermalink }}">
+        {{ else }}
+          {{ with .Params.og }}
+            <img src="{{ (resources.GetMatch .).RelPermalink }}">
+          {{ else }}
+            <div class="no-image"></div>
+          {{ end }}
+        {{ end }}</a>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <div class="summary">{{ .Summary }}</div>
+        <a href="{{ .RelPermalink }}">Read more</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

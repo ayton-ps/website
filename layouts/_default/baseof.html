@@ -5,6 +5,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
+{{- if eq .Site.Title "Ayton Primary School P7 blog" }}
+  <script>window.location.href = window.location.origin + '/admin/' + window.location.hash  </script>
+  </head><body></body></html>
+{{ else -}}
   {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
   {{- $style := resources.Get "style.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options | resources.Fingerprint "md5" -}}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all">
@@ -63,3 +67,4 @@
   </div>
 </body>
 </html>
+{{- end -}}

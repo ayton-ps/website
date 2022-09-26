@@ -1,6 +1,5 @@
 [build]
 publish = "public"
-command = "hugo --minify --environment=production"
 
 [build.processing.html]
 pretty_urls = true

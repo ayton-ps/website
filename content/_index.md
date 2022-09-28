@@ -67,6 +67,11 @@ We occasionally have non-uniform or dress up days.
 Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The current chair is Katherine Lymer and current treasurer is Ellie Moriarty. You can contact us via <pfa@aytonprimary.com>.
 
 
+### Next meeting
+
+**17:15 on 26 October 2022 at school**
+
+
 ### Minutes from past meetings
 
 * [23 March 2022](/PFAMeeting23March.pdf)

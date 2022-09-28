@@ -13,7 +13,7 @@ We currently have three classes and four teachers:
 * P5-6, taught by [Ms Yvette Herman](mailto:gw22hermanyvette@glow.sch.uk) (until Mrs Hunter returns from maternity leave)
 * P7, taught by [Mr Patrick Swan](mailto:gw19swanpatrick@glow.sch.uk)
 
-Katharine Bridgewater is our PE specialist.
+Katherine Bridgewater is our PE specialist.
 
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.
 

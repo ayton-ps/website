@@ -29,6 +29,7 @@
       <meta property="og:image" itemprop="image" content="{{ (resources.GetMatch .).Permalink }}">
     {{- end }}
   {{- end }}
+  {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">{{ end }}
   {{ block "head_extra" . -}}
   {{- end }}
 </head>

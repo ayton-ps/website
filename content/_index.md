@@ -10,7 +10,7 @@ Our school is for children in P1-P7 for children from Ayton and the surrounding 
 We currently have three classes and four teachers:
 
 * P1-4, taught by [Mrs Iona Pearson](mailto:gw17rodgeriona@glow.sch.uk) and Mrs Pauline Lannagan
-* P5-6, taught by [Ms Yvette Herman](mailto:gw22hermanyvette@glow.sch.uk) (until Mrs Hunter returns from maternity leave)
+* P5-6, taught by Mrs Debbie Higson (until Mrs Hunter returns from maternity leave)
 * P7, taught by [Mr Patrick Swan](mailto:gw19swanpatrick@glow.sch.uk)
 
 Katherine Bridgewater is our PE specialist.

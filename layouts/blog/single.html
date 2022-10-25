@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1><a href="{{ .Parent.RelPermalink }}">P7 blog</a></h1>
+  <h1><a href="{{ .Parent.RelPermalink }}">Blog</a></h1>
   <h2>{{ .Title }}</h2>
   <div class="post-info">
     {{ with .Params.author }}{{ . }}, {{ end }}{{ time.Format "2 Jan 2006" .PublishDate }}

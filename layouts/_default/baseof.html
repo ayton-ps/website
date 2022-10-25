@@ -37,7 +37,7 @@
   <div id="site">
     <header id="header">
       <a href="/"><img class="logo" src="{{ (resources.Get "/i/logo.svg").RelPermalink }}"></a>
-      <a href="/blog" class="blog-link">P7 blog</a>
+      <a href="/blog" class="blog-link">Blog</a>
       <ul class="contact">
         {{ range .Site.Data.contact.quick -}}
           <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ (resources.GetMatch .icon).RelPermalink }}"></a></li>

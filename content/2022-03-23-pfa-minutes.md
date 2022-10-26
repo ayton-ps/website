@@ -1,0 +1,131 @@
+---
+title: Minutes from PFA meeting held 23 March 2022
+og: /i/pfa-logo.png
+description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+---
+
+## Attendance
+
+**Present:** Katherine Lymer [Chair] (KL), Ashley Young (AY), Andrea Thacker (AT), Mandi Wright (MW), Trevor Smith (TS), Amy Meek (AM), Rachel Davidson (RD), Melanie Knox [Headteacher] (MK), Rachel Hendry (RH), Toby Foster (TF), Ellie Moriarty [Treasurer] (EM)
+
+**Apologies:** Tracey Dick
+
+## Minutes from last meeting
+
+Used as a basis for the agenda
+
+## Matters arising from last meeting
+
+### 1. Staffing
+
+MK gave an update on staff changes: Miss Morton had a baby boy just after her maternity leave started. Miss Caulfield left on Friday. Patrick Swan will start on the first day of the summer term. P1/2 have a consistent teacher until the Easter holidays before a new teacher is appointed. All posts are temporary as they are cover (maternity + Mrs Lannagan’s secondment).
+
+#### Action
+
+MK will update once post has been filled.
+
+### 2. Eyemouth campus
+
+EM gave update from SBC about options for Eyemouth campus – either a straight move for the primary school, or whether it will be a campus set-up like in Jedburgh, catering for ELC in Eyemouth, back to village schools for e.g. P1-5, then back to the Eyemouth campus P6 onwards. SBC looking for community feedback, how this might look, how the building may be used for the wider community. All children living in the Eyemouth High School catchment will be given the option to attend Eyemouth Primary School, and we discussed how this may impact Ayton, both in terms of school roll and financial opportunities. Discussion on how some parents prefer larger school without composite classes, others prefer smaller village school. Nothing been decided yet, still in early stages. Concerns that campus model not conducive for learning experience.
+
+#### Action
+
+EM to attend further meetings with SBC – speak with/send any thoughts to EM (Bertie’s mum). Parents to write letter to SBC?
+
+### 3. Physical state of school
+
+Discussion about new Eyemouth school led to discussion on current state of school in terms of paint, carpet, etc. MK informed that SBC inspected last year and said no updates were required. Children asking for new carpets and painted walls. Blinds that arrived in summer still not up.
+
+#### Action
+
+AY to write letter to SBC on behalf of parents, requesting another look.
+
+### 4. PE kit
+
+Support from both parents and teaching staff to continue to wear PE kit to school on set days. MK considering set PE kit (of e.g. simple maroon t-shirt and grey shorts), perhaps no football strips, TBC. There will be a new indoor shoe policy next school year, details to be discussed later.
+
+#### Action
+
+MK will update after discussion with staff.
+
+### 5. Newsletter
+
+KL thanked MK for her insightful newsletters. Other two schools in cluster have teacher taking responsibility social media, but MK doing herself for Ayton school and it is time-consuming. Hoping new teacher Mr Swan will take on this responsibility as showed enthusiasm at interview.
+
+### 6. Halloween/Christmas
+
+TS again offered use of Ayton Bowling Club. Suggestion of fancy dress/Christmas jumper swap in the next school year, perhaps as coffee morning.
+
+#### Action
+
+Discuss at next meeting. EM to ask Berwickshire Swap. (DONE)
+
+### 7. School website
+
+TF has developed website; domain name needs to be decided on and purchased.
+Consensus for Aytonprimary.com. Website will be developed over time, with opportunities for
+school children to update.
+
+#### Action
+
+TF to purchase domain name, liaise with MK. (DONE)
+
+### 8. General school update from MK
+
+New paper towel dispensers installed to discourage waste. Accelerated Reading (AR) programme going well, new books including access to 10,000 e-books purchased with funding from SBC for all three schools, 18 months initially. AM suggested information session for parents would be helpful. Literacy will follow a similar structure for all classes next year, using shared texts as a class/group.
+
+#### Action
+
+Information session next term for parents about AR.
+
+### 9. Garden
+
+RD has cleared and tidied outdoor area and purchased new toys, mud kitchen, sandpit. Children have been working in the garden. Would be great to celebrate their work. School been approached by Ayton Horticultural Society for venue for Ayton Fair event Saturday 3 September. School has joined Dandelion Project – MK to provide update in next newsletter. Support from parents and carers for the garden may be required over summer holidays.
+
+### 10. Scottish Government guidance
+
+Indicates that restrictions will end 18 April. Parents may be able to visit school. Details TBC.
+
+### 11. Hoodies
+
+Ordered and paid for. Discussion on whether/how to incorporate into school uniform. TBC.
+
+#### Action
+
+Ask forthcoming P7 parents in summer term.
+
+### 12. Book dedication scheme
+
+Needs promoting. Darren from shop will give cheque at photo op. Action: MW to take photo in shop. KL has press release ready, will liaise with MW/TS/Berwickshire News.
+
+### 13. Relationship policy
+
+MK will bring to next meeting. Not a huge policy, but information about what to expect, here’s the language we use at school, how we promote positive behaviour based on school values, etc.
+
+#### Action
+
+MK to share with PFA.
+
+### 14. Transition dates
+
+Details to come after Easter. Full transition process to happen this year, confirmed by SBC.
+
+### 15. Fundraising
+
+Yes, PFA can fund raise! Talk of tuck shop in future. Should now be able to book school for events. To discuss next meeting.
+
+### 16. Health and well-being survey
+
+EM gave update from SBC on survey and why it is being done. Mainly for high school ages, but all age-appropriate questions. SBC not asking questions about sexual health.
+
+## Next meetings
+
+### 9:00–10:15, Friday 29 April 2022, Ayton Bowling Club
+
+#### Agenda
+
+1. Fundraising (group?)
+2. Update from TS about Community Council
+3. EM – Lottery licence?
+
+### 16:30–18:00, Wednesday 1 June, Ayton Bowling Club

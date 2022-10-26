@@ -1,0 +1,143 @@
+---
+title: Minutes from PFA meeting held 21 September 2022
+og: /i/pfa-logo.png
+description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+---
+
+## Attendance
+
+**Present:** Amy Meek (AM), Andrea Thacker (AT), Ellie Moriarty [Treasurer] (EM), Jo Roberts (JR), Joyce Finley (JF), Katherine Lymer [Chair] (KL), Laura Cooksey (LC), Mandi Wright (MW), Melanie Knox [Headteacher] (MK), Sarah Woodbury (SW), Pauline Lannagan [teacher] (PL), Rachel Davidson (RD), Tracey Dick (TD).
+
+**Apologies:** Joanna Stewart, Toby Foster (TF)
+
+## Summary of Actions
+
+* **Projector H & S:** TD to get quote for new sign for the projector.
+* **Library:** Parent volunteers needed for library training. JR and SW offered to get trained in the system.
+* **School leadership groups:** under themes to be chosen and pupils assigned – MK/PL.
+* **School Calendar:** Calendar of school events letter to be sent out by end September – MK.
+* **Transport for trips:** AT to share bus pricing with MK.
+* **PFA Joining up:** Ayton PFA Office Bearers to connect with Coldingham/Co’Path PFAs to share info/joint possibilities.
+* **School Handbook:** Handbook to be circulated to parents – MK.
+* **School photography:** AT to check with High School photography students and update MK
+* **Music tuition at school:** KL to connect and check with cluster schools and sharing (inc. instruments).
+* **School community garden:** School and PFA to share with wider local community about damage to garden, but also that they are welcome to access and use the garden.
+* **Ayton Resilience Group:** MK to send out GroupCall message. Anyone who wishes to help should get in contact with RD
+
+### Headteacher’s update
+
+* **Renovations:** Renovation of the school going well. Roof was fixed in summer. Gym hall to be painted in October holidays **[Update: Easter holidays]**. Some things still to do, MK will chase Property.  
+    **Action:** TD to get quote for new sign for projector – observed that an independent event had used it to hang things from - needs to have a “DO NOT TOUCH” sign.
+* **Reading:** Started Accelerated Reading - the library is ready for children to go in. Thanks to parent helpers. A lot of books already banded, but Danielle McLeod (Principal Teacher) is hoping to train some parents in the system. EM asked how can we access the system from home and MK explained it was only available in school and that teachers can use the data to tailor what is taught.  
+    **Action:** Parent volunteers needed. JR and SW offered to get trained in the system.
+* **Leadership groups in school:** – there are five groups, working across classes and each headed by a different teacher on various initiatives. These are:
+    1. Community group (working title)
+    2. Green Fingers Gurus (gardening),
+    3. Digital Ninjas (website, code, online safety), 4. Healthy Heroes (healthy eating group),
+    5. Kindness Crew
+    
+    **Action:** Groups to be chosen and pupils assigned - MK/PL.
+
+While working on this, staff will work on maintaining Rights Respecting School status (paperwork changed over the pandemic).
+
+Assemblies are now on Mondays, as MK attends university in Edinburgh on Friday.
+
+TD asked how the role of House Captains is going to work e.g. lunch time clubs was part of one of their manifestos. Will talk about this at the next meeting.
+
+### School Calendar of Events to June
+
+Dates of calendar to June. There will be a letter out tomorrow. 5 theme weeks throughout year.
+
+* Maths week 21–25 Nov
+* E-safety week 6–10 Feb
+* Literacy week 27 Feb–3 Mar
+* Science week 13–17 Mar
+* Health & wellbeing week 22–26 May.
+* Christmas: There will be a P1-4 Nativity this year ‘tinsel and tea towels’. P5-7 later in the school year to have an event, perhaps at Easter.
+
+#### Action
+
+Calendar of events letter to be sent out by end September by MK.
+
+### Other trips/events
+
+Transport was highlighted by MK as expensive. Possibilities of working/splitting costs with the other cluster schools, Coldingham and Co’path. EM asked about possibilities locally on our doorstep, e.g Hirsel, Chain Bridge etc. Parents wish to support pupils to go on trips.
+
+MK raised concerns over transport costs. AT has secured good prices for transport for EHS and can share.
+
+#### Actions
+
+* AT to share bus pricing with MK
+* Ayton PFA Office Bearers to connect with Coldingham/Co-path PFAs to share info/joint possibilities
+
+### School Handbook
+
+This years’ Handbook is with printers (MK), but no date given yet as to when parents may receive it. Last year the handbook came out late in the year.
+
+#### Action
+
+Handbook to be circulated to parents (MK).
+
+### After school clubs
+
+A new after school club is being set up by parents (TF/TD), to run a pickleball group. This is very welcomed by parents (JR).
+
+### Outdoor Learning update
+
+PL updated on planning for Castle trips and call for parent helpers has gone out.
+
+PL informed us that the school garden is a community garden, so therefore to be accessible and used by the wider community. Unfortunately, the area has been quite damaged after school hours and it is disappointing how much wastage and vandalism has occurred.
+
+#### Action
+
+School and PFA to share with wider local community about damage to garden, but also that they are welcome to access and use the garden and produce.
+
+### School Photographs
+
+These have been booked for November, and individuals, P7 missed out for leavers last year. There wasn’t a great uptake last time and pupils reported that the previous company were not very polite to them. Photographs were expensive and no option to buy a digital copy.
+
+AT mentioned High school photography students may be able to do it. MK suggested could cancel the booking if we find another option.
+
+The talk about photos led to discussion about a potential fundraiser of a photo calendar to sell around Christmas.
+
+#### Actions
+
+* AT to check with High School photography students and update MK
+* Discuss calendar at next meeting
+
+### 50/50 draw
+
+EM to work on plan
+
+### Treasurer’s report
+
+We currently have roughly £800. No fundraising plans for now. There are 18 P7s this year, so appox £320 to be put aside for these, plus £40 for P7 library books. There are funding opportunities available if we have a plan/aim.
+
+### Halloween party discussion
+
+Not to be run by the PFA, but open to any parents who wish to coordinate a party after school.
+
+### Ayton Resilience Group
+
+RD gave an overview of what’s happening with this new group for the community.
+
+The new community café at the bowling club will be held every Tuesday through winter from 18 October through till end of March - Looking for volunteers, once a month, once a fortnight, teas and coffees from 3pm, hot meal and pudding 4:30 to 6:30. Loads of help coming in from Reston Larder, Splash, Morrison’s, Eyemouth Larder. For it to work, need volunteers.
+
+##### Action
+
+MK to send out GroupCall message. Anyone who wishes to help should get in contact with RD.
+
+### Music in the School
+
+Since Dot Mutch has retired, there hasn’t been a replacement for her excellent music programme. There are visiting music specialists who could provide tuition such as Graham Kennedy for brass (already visited Eyemouth PS). It might be a good plan for the PFA and/or the school to get in touch with Jeff Thompson at Earlston school who coordinates music in schools (AT). Music tuition is free.
+
+The Ayton P7 have John Jacobs teaching ukulele. There is a Simon who does violin at Coldingham. Possibilities again to join/share instruments with cluster school members.
+
+#### Action
+KL to connect and check.
+
+## Next meeting
+
+### 17:51, 26 October 2022, Ayton PS
+
+Dates for the next PFA meetings for the rest of the school year to be decided at the next PFA meeting. We now have a dedicated WhatsApp Group for the PFA membership.

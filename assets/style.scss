@@ -235,3 +235,9 @@ h2 + .post-info {
   margin-bottom: 2em;
   font-style: italic;
 }
+
+blockquote {
+  background-color: rgba(255, 255, 255, 0.6);
+  margin: ($lineHeight*1em) 0 ($lineHeight*1em) 3em;
+  padding: 1em;
+}

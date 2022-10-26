@@ -138,6 +138,6 @@ KL to connect and check.
 
 ## Next meeting
 
-### 17:51, 26 October 2022, Ayton PS
+### 17:15, 26 October 2022, Ayton PS
 
 Dates for the next PFA meetings for the rest of the school year to be decided at the next PFA meeting. We now have a dedicated WhatsApp Group for the PFA membership.

@@ -34,7 +34,7 @@ Friday: 08:45–12:30
 
 ## Breakfast club
 
-Breakfast club costs 20p and starts at 8am. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
 
 
 ## School uniform

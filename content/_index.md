@@ -18,6 +18,12 @@ Katherine Bridgewater is our PE specialist.
 We are part of the Eyemouth Learning Community – the children from Ayton, Coldingham and Cockburnspath move up to Eyemouth High School together with children from Reston Primary School and Eyemouth Primary School.
 
 
+## School timings
+
+Monday–Thursday: 08:45–15:10  
+Friday: 08:45–12:30
+
+
 ## Term dates
 
 Please note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'.
@@ -26,10 +32,14 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
 
 
-## School timings
+## November dates
 
-Monday–Thursday: 08:45–15:10  
-Friday: 08:45–12:30
+* **4th:** Curriculum overview published
+* **15th:** Flu vaccinations (morning)
+* **16th:** Individual and family photos (morning)
+* **17th:** Library van (morning)
+* **21st–25th:** Maths week
+* **28th–29th:** Holiday
 
 
 ## Breakfast club

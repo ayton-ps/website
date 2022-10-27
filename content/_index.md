@@ -74,7 +74,7 @@ We occasionally have non-uniform or dress up days.
 
 ## Parent council
 
-Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The chair is Katherine Lymer ([email](mailto:pfa-chair@aytonprimary.com)), the secretary is Jo Roberts ([email](mailto:pfa-secretary@aytonprimary.com)), and the treasurer is Ellie Moriarty ([email](mailto:pfa-treasurer@aytonprimary.com)). You can contact us all via <pfa@aytonprimary.com>.
+Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The chair is [Katherine Lymer](mailto:pfa-chair@aytonprimary.com), the secretary is [Jo Roberts](mailto:pfa-secretary@aytonprimary.com), and the treasurer is [Ellie Moriarty](mailto:pfa-treasurer@aytonprimary.com). You can contact us all via <pfa@aytonprimary.com>.
 
 
 ### Next meeting

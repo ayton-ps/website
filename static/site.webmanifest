@@ -1,0 +1,19 @@
+{
+    "name": "Ayton PS",
+    "short_name": "Ayton PS",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#7998c4",
+    "background_color": "#7998c4",
+    "display": "standalone"
+}

@@ -1,1 +1,1 @@
-{{- print ""}}<span class="md-image"><img src="{{ (resources.GetMatch .Destination).RelPermalink }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }}></span>{{ print "" -}}
+{{- print ""}}<span class="md-image"><img src="{{ ((resources.GetMatch .Destination).Fit "2000x2000").RelPermalink }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }}></span>{{ print "" -}}

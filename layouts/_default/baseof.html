@@ -22,13 +22,11 @@
   <meta property="og:type" content="article">
   <meta property="og:updated_time" content="{{ .Page.Lastmod.Unix }}">
   <meta property="og:locale" content="en_GB">
-  {{ with .Params.og -}}
-    <meta property="og:image" itemprop="image" content="{{ (resources.GetMatch .).Permalink }}">
-  {{- else -}}
-    {{ with .Params.cover_photo -}}
-      <meta property="og:image" itemprop="image" content="{{ (resources.GetMatch .).Permalink }}">
-    {{- end }}
-  {{- end }}
+  {{ $og := false -}}
+  {{- with .Params.og }}{{ $og = resources.GetMatch . -}}
+  {{- else }}{{ with .Params.cover_photo }}{{ $og = resources.GetMatch . -}}
+  {{- end}}{{ end -}}
+  {{- if $og }}<meta property="og:image" itemprop="image" content="{{ ($og.Fit "1000x1000").Permalink }}">{{- end }}
   {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">{{ end }}
   {{ block "head_extra" . -}}
   {{- end }}
@@ -49,7 +47,7 @@
         {{ block "main" . }}
           <h1>{{ .Title }}</h1>
           {{ with .Params.cover_photo }}
-            <div class="cover-photo"><img src="{{ (resources.GetMatch .).RelPermalink }}"></div>
+            <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart").RelPermalink }}"></div>
           {{ end }}
           {{ .Content }}
         {{ end }}

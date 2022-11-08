@@ -3,15 +3,16 @@
   <ul class="blogs">
     {{ range .Pages }}
       <li>
-        <a href="{{ .RelPermalink }}">{{ with .Params.cover_photo }}
-          <img src="{{ (resources.GetMatch .).RelPermalink }}">
-        {{ else }}
-          {{ with .Params.og }}
-            <img src="{{ (resources.GetMatch .).RelPermalink }}">
-          {{ else }}
+        <a href="{{ .RelPermalink }}">
+          {{- $img := false -}}
+          {{- with .Params.cover_photo }}{{ $img = resources.GetMatch . -}}
+          {{- else }}{{ with .Params.og }}{{ $img = resources.GetMatch . -}}
+          {{- end}}{{ end -}}
+          {{- if $img }}<img src="{{ ($img.Fill "600x400 Smart").RelPermalink }}">
+          {{- else }}
             <div class="no-image"></div>
           {{ end }}
-        {{ end }}</a>
+        </a>
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <div class="summary">{{ .Summary }}</div>
         <a href="{{ .RelPermalink }}">Read more</a>

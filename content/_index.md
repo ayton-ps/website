@@ -34,11 +34,10 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## November dates
 
-* **4th:** Curriculum overview published
-* **15th:** Flu vaccinations (morning)
-* **16th:** Individual and family photos (morning)
+* **15th:** Flu nasal sprays (morning)
+* **16th:** Individual and family photos (morning), P1-4 Outdoor Activities (afternoon)
 * **17th:** Library van (morning)
-* **21st–25th:** Maths week
+* **21st–25th:** Maths week, enrolment week
 * **28th–29th:** Holiday
 
 

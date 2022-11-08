@@ -78,7 +78,7 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. We r
 
 ### Next meeting
 
-**17:15 on 26 October 2022 at school** ([agenda](/2022-10-26-pfa-agenda))
+**EGM to elect new chair(s), 7:30pm, 9 November 2022, Zoom** – Contact PFA secretary for link
 
 
 ### Minutes from past meetings
@@ -87,3 +87,4 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. We r
 * [29 April 2022](/2022-04-29-pfa-minutes)
 * [01 June 2022](/2022-06-01-pfa-minutes)
 * [21 September 2022](/2022-09-21-pfa-minutes)
+* 26 October 2022 – coming soon ([agenda](/2022-10-26-pfa-agenda))

@@ -7,7 +7,7 @@ backend:
 site_url: "{{ .Site.BaseURL }}"
 media_folder: assets/i/blog
 public_folder: /i/blog/
-logo_url: {{ (resources.GetMatch "/i/logo.svg").RelPermalink }}
+logo_url: {{ (resources.GetMatch "/i/logo.svg" | resources.Fingerprint "md5").RelPermalink }}
 collections:
   - name: blog
     label: Blog

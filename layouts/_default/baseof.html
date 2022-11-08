@@ -26,7 +26,7 @@
   {{- with .Params.og }}{{ $og = resources.GetMatch . -}}
   {{- else }}{{ with .Params.cover_photo }}{{ $og = resources.GetMatch . -}}
   {{- end}}{{ end -}}
-  {{- if $og }}<meta property="og:image" itemprop="image" content="{{ ($og.Fit "1000x1000").Permalink }}">{{- end }}
+  {{- if $og }}<meta property="og:image" itemprop="image" content="{{ ($og.Fit "1000x1000" | resources.Fingerprint "md5").Permalink }}">{{- end }}
   {{ range .AlternativeOutputFormats }}<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">{{ end }}
   {{ block "head_extra" . -}}
   {{- end }}
@@ -34,11 +34,11 @@
 <body>
   <div id="site">
     <header id="header">
-      <a href="/"><img class="logo" src="{{ (resources.Get "/i/logo.svg").RelPermalink }}"></a>
+      <a href="/"><img class="logo" src="{{ (resources.Get "/i/logo.svg" | resources.Fingerprint "md5").RelPermalink }}"></a>
       <a href="/blog" class="blog-link">Blog</a>
       <ul class="contact">
         {{ range .Site.Data.contact.quick -}}
-          <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ (resources.GetMatch .icon).RelPermalink }}"></a></li>
+          <li><a href="{{ .link | safeURL }}" title="{{ .title }}" {{ if strings.HasPrefix .link "http" }} target="_blank" rel="noopener"{{ end }}><img src="{{ (resources.GetMatch .icon | resources.Fingerprint "md5").RelPermalink }}"></a></li>
         {{- end }}
       </ul>
     </header>
@@ -47,7 +47,7 @@
         {{ block "main" . }}
           <h1>{{ .Title }}</h1>
           {{ with .Params.cover_photo }}
-            <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart").RelPermalink }}"></div>
+            <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart" | resources.Fingerprint "md5").RelPermalink }}"></div>
           {{ end }}
           {{ .Content }}
         {{ end }}
@@ -57,7 +57,7 @@
       <ul class="contact">
         {{ range .Site.Data.contact.details -}}
           <li>
-            <div class="icon"><img src="{{ (resources.GetMatch .icon).RelPermalink }}" alt="{{ .title }}"></div>
+            <div class="icon"><img src="{{ (resources.GetMatch .icon | resources.Fingerprint "md5").RelPermalink }}" alt="{{ .title }}"></div>
             <div class="text">{{ $p.RenderString .content }}</div>
           </li>
         {{- end }}

@@ -6,7 +6,7 @@ quick:
   - icon: /i/map.svg
     link: https://goo.gl/maps/KgyZ1tQmYZdLQxZH8
     title: See our school on Google Maps
-  - icon: /i/facebook.svg
+  - icon: /i/fb.svg
     link: https://www.facebook.com/aytonps/
     title: Visit our Facebook page
   - icon: /i/mail.svg
@@ -30,7 +30,7 @@ details:
       TD14 5QZ
 
       ([Apple Maps](https://maps.apple.com/?address=Ayton%20Primary%20School,%20Beanburn,%20Ayton,%20Eyemouth,%20TD14%205QZ,%20Scotland&auid=8378994605630014980&ll=55.841906,-2.127921&lsp=9902&q=Ayton%20Primary%20School&_ext=CjMKBQgEEOEBCgQIBRADCgUIBhCrAgoECAoQAAoECFIQCAoECFUQEAoECFkQAQoFCKQBEAESJClxycxRPetLQDEB1kw4xRcBwDnvnvKtY+xLQEE1wGP+APcAwA%3D%3D), [Google Maps](https://goo.gl/maps/KgyZ1tQmYZdLQxZH8))
-  - icon: /i/facebook.svg
+  - icon: /i/fb.svg
     title: Facebook
     content: |-
       ## [/aytonps](https://www.facebook.com/aytonps/)

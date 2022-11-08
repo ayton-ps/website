@@ -28,8 +28,8 @@ Friday: 08:45–12:30
 
 Please note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'.
 
-* [This academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
-* [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+* [This academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+* [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
 
 
 ## November dates

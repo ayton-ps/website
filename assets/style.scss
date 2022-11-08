@@ -192,17 +192,20 @@ main {
   > li {
     width: 100%;
     @media #{$firstBreakpointStr} {
-      width: 30%;
+      width: 50%;
+      box-sizing: border-box;
+      border-bottom: 0.1em solid $maroon;
+      &:nth-child(2n+1) {
+        padding-right: 1em;
+        border-right: 0.1em solid $maroon;
+      }
+      &:nth-child(2n) { padding-left: 1em; }
+      &:last-child, &:nth-last-child(2):nth-child(2n+1) { border-bottom: 0; }
     }
-    margin-bottom: 2em;
+    padding-bottom: 2em;
   }
   .summary {
     margin: 1em 0;
-  }
-  .no-image {
-    width: 100%;
-    padding-bottom: 66.6666667%;
-    background-color: rgba(0, 0, 0, 0.3);
   }
 }
 .other-posts {

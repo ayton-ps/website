@@ -5,7 +5,7 @@ og: /i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 
-Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our headteacher is Ms Knox, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
+Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim headteacher is Mrs Horsburgh, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
 
 We currently have three classes and four teachers:
 
@@ -73,12 +73,22 @@ We occasionally have non-uniform or dress up days.
 
 ## Parent council
 
-Our parent council is called *Parents and Friends of Ayton Primary School*. We regularly meet as a group and with staff to chat about the school. All parents are part of the council! We would love for you to get involved. The chair is [Katherine Lymer](mailto:pfa-chair@aytonprimary.com), the secretary is [Jo Roberts](mailto:pfa-secretary@aytonprimary.com), and the treasurer is [Ellie Moriarty](mailto:pfa-treasurer@aytonprimary.com). You can contact us all via <pfa@aytonprimary.com>.
+Our parent council is called *Parents and Friends of Ayton Primary School*. You can email us at **<pfa@aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
+
+### Office bearers
 
 
-### Next meeting
+* Chair: Amy Meek, ([pfa-chair@aytonprimary.com](mailto:pfa-chair@aytonprimary.com))
+* Vice chair: Tracey Dick ([pfa-vice-chair@aytonprimary.com](mailto:pfa-vice-chair@aytonprimary.com))
+* Secretary: Jo Roberts ([pfa-secretary@aytonprimary.com](mailto:pfa-secretary@aytonprimary.com))
+* Treasurer: Ellie Moriarty ([pfa-treasurer@aytonprimary.com](mailto:pfa-treasurer@aytonprimary.com))
 
-**EGM to elect new chair(s), 7:30pm, 9 November 2022, Zoom** – Contact PFA secretary for link
+
+### Next meetings
+
+**[PROVISIONAL] 17:15, 01 December 2022, at school**
+
+**[PROVISIONAL] 9:00, 27 January 2023, at school**
 
 
 ### Minutes from past meetings
@@ -88,3 +98,4 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. We r
 * [01 June 2022](/2022-06-01-pfa-minutes)
 * [21 September 2022](/2022-09-21-pfa-minutes)
 * 26 October 2022 – coming soon ([agenda](/2022-10-26-pfa-agenda))
+* 09 November 2022 EGM – coming soon

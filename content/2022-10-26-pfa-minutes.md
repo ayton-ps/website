@@ -1,0 +1,284 @@
+---
+title: Minutes from PFA meeting held 26 October 2022
+og: /i/pfa-logo.png
+description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+type: minutes
+---
+
+## Attendance
+
+**Present:** Toby Foster (TF), Ellie Moriarty [Treasurer] (EM), Laura Cooksey (LC), Rachel Davidson (RD), Lianne Drummond (LD), Tracey Dick (TD), Mandi Wright (MW), Gillian McGregor (GM), Tetiana Polietukha (TP), Sarah Woodbury (SW), Katherine Lymer [Chair] (KL), Jo Roberts [Secretary] (JR), Geraint Roberts (GR)
+
+**Apologies:** Melanie Knox [Head Teacher] (MK), Andrea Thacker (AT), Joanna Stewart (JS), Katie Aitchison (KA), Pauline Lannagan [Teacher] (PL), Ashley Young (AY)
+
+## Minutes from last AGM
+
+There were a few points to discussion from last year. These were as follows:
+
+* An independent financial audit has taken place of the Accounts. Thanks to EM for organising.
+* A new website has new been set up for free by one of the parents (<https://aytonprimary.com/>). Thanks to TF for all his work. The P7s have started a blog on here as part of the new leadership groups, one of which is Digital Ninjas.
+* One action that was outstanding was about starting of a new fundraising initiative, the 50/50 Draw. See below.
+
+Minutes from last AGM: approved KL, seconded SW.
+
+
+## Matters from the last meeting (held 21 Sept 22)
+
+### School leadership groups
+
+RD gave an update on the new leadership groups which are up and running. There’s been a positive response from the pupils. KL asked if parents/family can get involved. See [Actions](#actions).
+
+### School Calendar
+
+The November Calendar has been sent home with the pupils. PFA could help to communicate a Calendar over a whole term? Discussion on a possible online calendar with school/office/school website. See [Actions](#actions).
+
+### School photography
+
+The school individual and family photography will be taking place in November. Following feedback from last year, a new photographer has been chosen. Following our last meeting, AT checked and it was too late to involve the High School photography students this time, but said it is possible to do it in future.
+
+### School community garden - vandalism
+
+School and PFA to share with wider local community about damage to garden, but also that they are welcome to access and use the garden. - Garden is still being damaged (RD), some of the kids have made a video to try to encourage the vandalism to stop. School grounds are open to all. See [Actions](#actions).
+
+## Matters/discussion at the AGM
+
+*Note: There was no Head Report available for this meeting.*
+
+### PFA Membership/New Office Bearers/Constitution
+
+* After a fantastic Chairship, KL is now standing down as the Chair of the PFA.
+* A new Chair role is now open for any parent to submit themselves for consideration for this role. The new Chair role may be possible to be run as either Co-Chairs or a Chair and Vice-Chair (KL).
+* A sub meeting will meet to appoint the new Committee Members (Office bearers), in early November.
+* EM and JR have agreed to carry on their respective roles as Treasurer and Secretary.
+* MW has agreed to take the role of Fundraising Rep as has been already doing lots of work on this, with getting sponsorship and donations for Halloween and Xmas.
+
+See [Actions](#actions).
+
+## Membership of the PFA
+
+It was agreed that members of the PFA should also be named so that we can have more of an official committee to attend meetings, when voting is needed, to take forward plans, and to ensure that the PFA office bearers are not overloaded (GR).
+
+Those attending the meeting asked if they’d like to become members and the parent community will be asked (JR). So, an up-to-date members list so far is:
+
+* Laura Cooksey
+* Ellie Moriarty (also PFA Treasurer)
+* Toby Foster
+* Rachel Davidson
+* Tracey Dick
+* Mandi Wright (Fundraising Rep)
+* Sarah Woodbury
+* Katherine Lymer
+* Geraint Roberts
+* Jo Roberts (also PFA Secretary)
+* Amy Meek
+* Joanna Stewart
+* Katie Aitchison
+
+There was a suggestion that some parents might feel that the PFA is a “closed shop” (LC), particularly as mainly mums who attend meetings. GR mentioned it was deficient on dads and it would be good to encourage a more male element to participate also. Perhaps could change time and location of meetings to accommodate this (LC). KL suggested Meet the Teacher event could meet more parents, especially dads, to encourage them to take part. Perhaps could be a presence at Parents Night to chat to parents and talk about what we do.
+
+See [Actions](#actions).
+
+## Treasurer’s Report
+
+EM presented a summary of the accounts for 21/22. Our income (£610) came from three sources: a grant from SBC, the Sports Day bake sale, and ongoing passive income from [Easy Fundraising](https://www.easyfundraising.org.uk/causes/aytonsch/). We now have a cash float of £50 for events.
+
+We spent just under £450 on: books and pantomime at Christmas, the lottery licence, P7 library books and hoodies, and sundries for meetings and events.
+
+Plans for 22/23: we have 20 P7s this year, so will allocate £360 for Leavers hoodies and £100 for books. We will also renew our raffle licence at £20. This leaves roughly £300 for the year, without taking into account any further fundraising.
+
+### Ayton PFA Annual Account Summary 2021-22
+
+#### Incomings
+
+| | |
+| :----- | -----: |
+| Easy Fundraising | £150.50 |
+| SBC Grant | £215.00 |
+| Sports Day | £245.15 |
+| **Total** | **£610.65** |
+
+
+#### Outgoings
+
+|  | |
+| :----- | -----: |
+| Christmas books | £132.98 |
+| SBC raffle licence | £20.00 |
+| Christmas pantomime | £60.00 |
+| P7 hoodies | £179.00 |
+| Library books | £24.80 |
+| Sports day tickets and bags | £6.24 |
+| Meeting refreshments | £16.59 |
+| **Total** | **£439.61** |
+
+
+#### Balance
+
+| | |
+| :-- | --: |
+| Brought forward | £583.47 |
+| Incomings | £610.65 |
+| Outgoings | £439.61 |
+| **Current balance** | **£754.51** |
+
+[Easy Fundraising](https://www.easyfundraising.org.uk/causes/aytonsch/) for Q2 2022 (£55.79) has come in, so the current actual balance is £810.30. This includes a £50 cash float so that we are prepared for the next event. See [Actions](#actions).
+
+## Discussion Points
+
+### PFA Constitution
+
+The PFA Constitution has not been updated in some time (EM) and JR gave a brief Constitution overview. The plan is to update this once the new PFA Office Bearers are in post. See [Actions](#actions).
+
+A suggestion to hold a PFA meeting during the school day so as to include school captains and get an idea as to what they would like fundraising for (KL).
+
+### Communications
+
+Newsletters: There hasn’t been a newsletter since we returned to school in August (TD). JR spoke with Louise in the office to help potentially with newsletters. See [Actions](#actions).
+
+### PFAs Joining up in the cluster
+
+Ayton PFA Office Bearers to connect with Coldingham/Co’path PFAs to share info/joint possibilities that might work across the cluster e.g. fundraising, shared transport.
+
+KL says the other 2 schools have funding from Foundation Scotland through the windfarm community funds, through the community councils. While Ayton is outwith the windfarm area, we could potentially still work on a joint application with the other schools. See [Actions](#actions).
+
+### School Handbook
+
+The Handbook will be circulated to parents. It was at the printers from last meeting (MK). Feedback as a P1 new parent was that the last handbook was a bit unclear for new starts (LD).
+
+There was discussion as to whether this could go digital in future and save the printing and environmental costs. See [Actions](#actions).
+
+### Sports Day & School Events
+
+Agreed that Sports Day was a very positive day. Some feedback from parents was that an introduction from school on the day would have been very helpful, and the same for Meet the Teachers and Parents eve. Some parents don’t yet know the senior staff team. The bake sale wasn’t entirely obvious to some parents (GM).
+
+**Action:** Moved to discuss at the next meeting as it’s closer to the event.
+
+### Halloween party
+
+AY, with some other amazing parents, has been organising this for the pupils. MW updated on the plan. MW has organised donations and we should formally thank them (KL). Although this isn’t a PFA event, it was noted that for events that we organise, we should state that it is a *suggested* donation for entry (KL).
+
+### PFA Programme of Events - after school Club
+
+There will be a new after school sports club, organised by TF and TD. Local charity, [BAVS](https://www.bavs.org.uk), have been supporting it and have offered the PFA £150 to buy equipment. Active Schools to support - providing PVG certs and first aid training for TD and TF. It will probably start with lunchtime taster sessions for the pupils, and parents will be invited to the sessions after school.
+
+**Discussion:** Coldingham has had a netball after school session running for years. Could there be a swap with Ayton (TD)? Agreed that the PFA will pay the deficit of £49 for the needed equipment. Perhaps there could be more fundraising for more sports equipment.
+
+See [Actions](#actions).
+
+### Parent helpers
+
+Breakfast club - This is working well with Mandi and Joanna doing regular mornings, but it could do with some more volunteers, and we could try to raise some financial support for it (JR). Laura and Amy have volunteered. RD/KL possibilities of linking with Reston Larder for support. See [Actions](#actions).
+
+Some concerns about helping out at school whereby parents are unclear as to what it entails, and had questions about safeguarding (i.e. nobody left with kids unsupervised).
+
+Policies - There is a school Inclusion Policy and a Volunteers Policy (TD/KL). Action: Review with school and share to website (MK/KL/EM). See [Actions](#actions).
+
+### Library system
+
+Library training - The library needs the books catalogued and entered onto the Accelerated Reading system online. It does take a bit of time to get them on, so volunteers are still welcome. JR and SW are now trained in using the system. SW and JR to connect to carry on work. TD volunteered too. SW offered to take home and do and she will check with school. See [Actions](#actions).
+
+## Any other business
+
+### 50/50 Draw
+
+EM is leading this and is a raffle that was originally thought up by parent, Trevor Smith, last year. It will be £1 per month to take part, standing orders or cash welcome. 50% to the winning entry (drawn at random), and 50% to the PFA funds. It would be good to communicate in the shop, and maybe the Community Council website (MW). Suggested to ask Graham Dolan in the village. See [Actions](#actions).
+
+### Xmas raffle
+
+Many prizes already sorted by MW. Lots of donations coming in for that, plus MW sorted donations of food/drink for the Halloween disco.
+
+### Carol singing
+
+GM suggested the kids could do that in the village.
+
+## Date of next meetings
+
+Proposed for January during the day - possibly a Friday morning. It was discussed to ask MK if a Friday works for her. Update: Following the meeting it has been suggested that we may propose to meet on a monthly basis with alternate day and evening meetings (as Coldingham PFA does). This would allow actions to be more achievable, shorter meetings, and minutes, and mean that a wider group may be able to attend at least some of the meetings. The next meeting will be to vote in the new Chairship in early November.
+
+## Actions
+
+| Actions | Who | By When |
+| :------ | :-- | :------ |
+| **General** |
+| **The Projector:** Health & Safety sign required Update after meeting: Done. | TD | End October |
+| **Library system:** Those trained in the system will connect to carry on with cataloguing the books onto the Accelerated Reading system. | Danielle Macleod (Deputy Head)/JR/SW/TD | End November |
+| **School leadership groups:** Can school let people know how families can get involved? | MK & staff | End November |
+| **School Calendar:** Discuss with school to help create a possible digital calender for the term. | MK and PFA | End November |
+| **Transport for trips:** This continues to be expensive, and AT is sharing information from High School with MK. Action carried over. | AT/MK | Ongoing |
+| **School Handbook:** To be sent to parents. Need to check with MK. | MK | TBC |
+| **Music tuition at school:** KL and MK to connect and check with cluster schools and sharing (inc. instruments). | KL/MK | December |
+| **Inclusion and Volunteering Policies:** To be reviewed and shared with parents | MK/KL/EM | End November |
+| **School community garden vandalism:** School to message all families to try to spread the word to take better care of it, garden, and remind them they can use it. Green Fingered Gurus can get involved. | School office (LA) & PFA (JR) | Mid November |
+| **Breakfast club volunteers:** Let people know to get in touch with Mandi to get in the pool of volunteers. Ask Logan at Reston Larder if they might be able to support the breakfast club with some cereals etc. | JR/MW RD | November, December |
+| **Communications** |
+| **PFA Joining up:** PFA office bearers to connect with C’ham and Co’path PFA groups. | KL | End November |
+| **School website:** PFA and school to promote more. Include in handbook. | PFA - JR, EM | November |
+| **Newsletters:** There hasn’t been a newsletter since summer. Action: KL to ask MK. | KL/MK | November |
+| **Visibility of the PFA:** PFA and school to promote at school events. | PFA office bearers | Ongoing |
+| **Events/Fundraising** |
+| **Xmas Raffle:** being organised and donations asked for. | MW | End November |
+| **Leavers Hoodies:** to be in place in time for the P7 residential | PFA | Next meeting |
+| **50/50 Draw:** set up and promote | EM/JR and PFA members | November |
+| **After school clubs:** TD and TF to continue working with Active Schools and PFA to promote. TF and TD to get PVGs and first aid training. Promote pickleball within school community. Connect with other schools to see if we can share resources. | TF/TD/JR/EM | Nov/Dec |
+| **Easy Fundraising:** Promote our involvement, passive way of fundraising. Look into a similar effort with Amazon Smile/Co-op funding. | PFA and school | Ongoing |
+| **PFA Management** |j
+| **Appointment of new Chair(s):** by Committee Members (Office bearers) and PFA Members. | PFA Members EM/JR | November sub meeting |
+| **Update the PFA Constitution:** JR/EM will work it through and once new Chair in post will send it out for approval to members. | JR/EM | December |
+| **Display Constitution and Members list in school** | JR/EM, Louise | When ready |
+
+
+## Chair Report - Katherine Lymer
+
+I welcome you to Ayton Primary School (APS) Parents and Friends Association’s (PFA) Annual General Meeting (AGM) and I am delighted to present my Chairperson’s report for the school session 2021-2022.
+
+In December 2021, Jo Roberts stepped down as Secretary (as she and her family moved to warmer climates) and Jo proved irreplaceable! Massive thanks to Jo for all her hard work while in post, and her continuing support as we move forward.
+
+Although we were unable to fill the role of Secretary, Ellie Moriarty (Treasurer) and I were delighted to have the support of other parents and carers throughout last year at our meetings, and to lead and support short-term projects (more details provided in the following pages). We understand the demands of life may prevent a long-term or regular commitment to the PFA, but these successes have clearly demonstrated the positive changes that can be achieved for our children and young people. In addition, there continues to be improvements in family engagement though use of our Facebook page and Messenger groups, but involving all our families continues to be a focus at Ayton PS.
+
+### Achievements
+
+In the continuing theme of Ayton PS being “small but mighty”, please join me in celebrating our recent achievements:
+
+#### 1. Pantomime
+
+Paid for the Christmas Pantomime (PantoOnline) and for Christmas presents for all our pupils (chosen by their class teachers) in the build up to Christmas 2021.
+
+#### 2. P7 “Leavers” Hoodies
+
+In keeping with our inclusive policy, Ayton PS PFA funded hoodies for all 10 of our P7 pupils. After consulting our families about their views on hoodies for this and next year’s P7s, it has been agreed that these will remain “Leavers’ Hoodies”, not P7 hoodies.
+
+#### 3. Library Books
+
+We were able to purchase 7 books for the school library on behalf of our P7s. Each book was dedicated to the individual who chose it and here are some of our P7s showing of the new books:
+
+![P7s holding their chosen books](/i/p7s-with-books.png)
+
+With further funding, we hope to be able to repeat this project annually as part of marking our P7’s time at Ayton PS before they transition to high school.
+
+#### 4. School Refurbishment
+
+Following discussion about the poor physical state of the school at our PFA meeting on 29th April, parent Joanna Stewart led a small team of parents to work with Ms Knox and representatives from SBC to establish a timeline of refurbishment. This led to the complete redecoration of the school (painting, new carpets and tiles) throughout the school, apart from the school hall (due to be decorated during the Easter break 2023). We are immensely grateful to all who helped, not only with correspondence and meetings, but with the moving of furniture / other preparations in advance of the school “make over”.
+
+#### 5. Sports Day: Bake Sale, Tombola and Ice-Cream
+
+To celebrate the return of families being able to watch their children participate in sport’s day, the PFA organised a tombola and bake sale. This was led by Cally Phillips and proved to be an outstanding success! Huge thanks to all to donated baked good and treats, and prizes for the tombola. Together, we raised £243.50.
+
+In another example of collaboration between school and community, Joanna Stewart arranged for Giacopazzi’s to provide ice-cream (free of charge) to all our pupils. Given that we were spoilt with a fine, summer’s day for our day’s events, I know that the ice-cream was particularly appreciated by our sporting heroes. Again, huge thanks to Joanna and Giacopazzi’s.
+
+![Giacopazzi’s at Sports Day](/i/giacopazzis-sports-day.png)
+
+#### 6. School Website
+
+We are now the proud owners of a school website: <https://aytonprimary.com/>, which is regularly updated by pupils on the P7 blog. We are extremely grateful to Toby Foster for all his hard work in creating this space and the associated PFA email addresses.
+
+### Looking Forward
+
+Firstly, we will continue to support the school in any way possible. We welcome opportunities to work with and support all members of our school community. We know that our school, and all its staff, continue to go “above and beyond” to support our children and young people and we are immensely grateful for all their hard work.
+
+Parental engagement continues to require our focus. Thank you to all who have attended our meetings. We know that they may not always be at a time that is convenient with you and so if you do have any ideas that you’d like to share (or issues to raise), please email <pfa@aytonprimary.com>, or speak with someone from the PFA at the school gates.
+
+As parents and carers, we are looking forward to working more closely with school e.g. the planned “World of Work”, and assisting with school activities (e.g. harvest festival) and volunteering on school trips.
+
+We need to consider our commitments and how we source funding to provide these. As a school community, we do not believe that it is appropriate to ask individual families for money (e.g. for dressing up in school). However, we do look to ideas for whole community fundraising. We will continue to be selective about the projects we support and inclusive in our methods of raising funds.
+
+We hope to be able to continue to work with the school in considering The Cost of the School Day and how we can support this in the work that we do as a Parent Council. This may lead to a wider review of our ethos and values. As a PFA, we also need to review and update our constitution. Although this isn’t the most exciting of tasks, it is an essential one and we welcome all input and support from any many families as possible to make this a fair reflection of our school community.

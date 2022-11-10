@@ -2,11 +2,12 @@
 title: Minutes from PFA meeting held 21 September 2022
 og: /i/pfa-logo.png
 description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+type: minutes
 ---
 
 ## Attendance
 
-**Present:** Amy Meek (AM), Andrea Thacker (AT), Ellie Moriarty [Treasurer] (EM), Jo Roberts (JR), Joyce Finley (JF), Katherine Lymer [Chair] (KL), Laura Cooksey (LC), Mandi Wright (MW), Melanie Knox [Headteacher] (MK), Sarah Woodbury (SW), Pauline Lannagan [teacher] (PL), Rachel Davidson (RD), Tracey Dick (TD).
+**Present:** Amy Meek (AM), Andrea Thacker (AT), Ellie Moriarty [Treasurer] (EM), Jo Roberts (JR), Joyce Finley (JF), Katherine Lymer [Chair] (KL), Laura Cooksey (LC), Mandi Wright (MW), Melanie Knox [Head Teacher] (MK), Sarah Woodbury (SW), Pauline Lannagan [teacher] (PL), Rachel Davidson (RD), Tracey Dick (TD).
 
 **Apologies:** Joanna Stewart, Toby Foster (TF)
 
@@ -24,7 +25,7 @@ description: Parents & Friends Associations (PFAs) are constituted bodies, which
 * **School community garden:** School and PFA to share with wider local community about damage to garden, but also that they are welcome to access and use the garden.
 * **Ayton Resilience Group:** MK to send out GroupCall message. Anyone who wishes to help should get in contact with RD
 
-### Headteacher’s update
+### Head Teacher’s update
 
 * **Renovations:** Renovation of the school going well. Roof was fixed in summer. Gym hall to be painted in October holidays **[Update: Easter holidays]**. Some things still to do, MK will chase Property.  
     **Action:** TD to get quote for new sign for projector – observed that an independent event had used it to hang things from - needs to have a “DO NOT TOUCH” sign.

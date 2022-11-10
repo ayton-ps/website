@@ -2,11 +2,12 @@
 title: Minutes from PFA meeting held 23 March 2022
 og: /i/pfa-logo.png
 description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+type: minutes
 ---
 
 ## Attendance
 
-**Present:** Katherine Lymer [Chair] (KL), Ashley Young (AY), Andrea Thacker (AT), Mandi Wright (MW), Trevor Smith (TS), Amy Meek (AM), Rachel Davidson (RD), Melanie Knox [Headteacher] (MK), Rachel Hendry (RH), Toby Foster (TF), Ellie Moriarty [Treasurer] (EM)
+**Present:** Katherine Lymer [Chair] (KL), Ashley Young (AY), Andrea Thacker (AT), Mandi Wright (MW), Trevor Smith (TS), Amy Meek (AM), Rachel Davidson (RD), Melanie Knox [Head Teacher] (MK), Rachel Hendry (RH), Toby Foster (TF), Ellie Moriarty [Treasurer] (EM)
 
 **Apologies:** Tracey Dick
 

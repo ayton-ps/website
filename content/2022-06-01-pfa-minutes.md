@@ -2,13 +2,14 @@
 title: Minutes from PFA meeting held 01 June 2022
 og: /i/pfa-logo.png
 description: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.
+type: minutes
 ---
 
 ## Attendance
 
 **Present:** Ashley Young (AY), Cally Philips (CP), Ellie Moriarty [Treasurer] (EM), Gill Be (GB), Gillian McGregor (GM), Joanna Stewart (JS), Katherine Lymer [Chair] (KL), Louise Buglass (LB), Mandi Wright (MW), Rachel Davidson (RD), Rachel Hendry (RH), Tracey Dick (TD)
 
-**Apologies:** Melanie Knox [Headteacher] (MK), Andrea Thacker (AT), Trevor Smith (TS), Adele Richardson (AR)
+**Apologies:** Melanie Knox [Head Teacher] (MK), Andrea Thacker (AT), Trevor Smith (TS), Adele Richardson (AR)
 
 ## Meeting
 

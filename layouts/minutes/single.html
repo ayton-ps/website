@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ if gt .WordCount 400 }}
+    <div id="toc-wrapper">
+      <input type="checkbox" id="toc-toggle">
+      <label for="toc-toggle">Table of contents</label>
+      {{ .TableOfContents }}
+    </div>
+  {{ end }}
+  {{ .Content }}
+{{ end }}

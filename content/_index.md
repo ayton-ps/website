@@ -5,7 +5,7 @@ og: /i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 
-Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim headteacher is Mrs Horsburgh, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
+Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim head teacher is Mrs Horsburgh, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
 
 We currently have three classes and four teachers:
 
@@ -86,7 +86,7 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. You 
 
 ### Next meetings
 
-**[PROVISIONAL] 17:15, 01 December 2022, at school**
+**17:15, 01 December 2022, at school**
 
 **[PROVISIONAL] 9:00, 27 January 2023, at school**
 
@@ -97,5 +97,5 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. You 
 * [29 April 2022](/2022-04-29-pfa-minutes)
 * [01 June 2022](/2022-06-01-pfa-minutes)
 * [21 September 2022](/2022-09-21-pfa-minutes)
-* 26 October 2022 – coming soon ([agenda](/2022-10-26-pfa-agenda))
-* 09 November 2022 EGM – coming soon
+* [26 October 2022](/2022-10-26-pfa-minutes)
+* [09 November 2022 (EGM to elect new chair)](/2022-11-09-pfa-minutes)

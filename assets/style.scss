@@ -244,3 +244,51 @@ blockquote {
   margin: ($lineHeight*1em) 0 ($lineHeight*1em) 3em;
   padding: 1em;
 }
+
+#toc-wrapper {
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 2em;
+}
+
+#toc-toggle {
+  display: none;
+  visibility: hidden;
+}
+
+#TableOfContents {
+  height: 0;
+  overflow: hidden;
+}
+
+#toc-toggle + label {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight: bold;
+}
+
+#toc-toggle + label:before { content: '[+] '; }
+#toc-toggle:checked + label:before { content: '[–] '; }
+
+#toc-toggle:checked ~ #TableOfContents { height: auto; }
+
+article table {
+  td, th {
+    padding: 0.5em;
+  }
+  thead {
+    border-bottom: 0.2em solid $red;
+    tr {
+      margin-bottom: 1em;
+    }
+  }
+  tbody {
+    tr:not(:last-child) {
+      border-bottom: 0.05em solid $red;
+    }
+  }
+}

@@ -1,7 +1,10 @@
 baseURL = 'https://aytonprimary.com'
 languageCode = 'en-gb'
+disableHugoGeneratorInject = true
 title = 'Ayton Primary School'
 disableKinds = ["taxonomy", "taxonomyTerm"]
+[markup.goldmark.renderer]
+unsafe = true
 [module]
 [[module.mounts]]
 source = 'assets'

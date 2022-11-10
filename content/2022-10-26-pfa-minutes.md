@@ -197,6 +197,8 @@ Proposed for January during the day - possibly a Friday morning. It was discusse
 
 ## Actions
 
+<div style="max-width:100%;overflow-x:auto">
+
 | Actions | Who | By When |
 | :------ | :-- | :------ |
 | **General** |
@@ -226,6 +228,7 @@ Proposed for January during the day - possibly a Friday morning. It was discusse
 | **Update the PFA Constitution:** JR/EM will work it through and once new Chair in post will send it out for approval to members. | JR/EM | December |
 | **Display Constitution and Members list in school** | JR/EM, Louise | When ready |
 
+</div>
 
 ## Chair Report - Katherine Lymer
 

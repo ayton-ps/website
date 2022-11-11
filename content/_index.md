@@ -20,7 +20,7 @@ We are part of the Eyemouth Learning Community – the children from Ayton, Cold
 
 ## School timings
 
-Monday–Thursday: 08:45–15:10  
+Monday–Thursday: 08:45–15:10, lunch 12:15–12:55  
 Friday: 08:45–12:30
 
 

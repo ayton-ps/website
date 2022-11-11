@@ -78,8 +78,8 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. You 
 ### Office bearers
 
 
-* Chair: Amy Meek, ([pfa-chair@aytonprimary.com](mailto:pfa-chair@aytonprimary.com))
-* Vice chair: Tracey Dick ([pfa-vice-chair@aytonprimary.com](mailto:pfa-vice-chair@aytonprimary.com))
+* Chair: Amy Meek ([pfa-chairs@aytonprimary.com](mailto:pfa-chairs@aytonprimary.com))
+* Vice chair: Tracey Dick ([pfa-chairs@aytonprimary.com](mailto:pfa-chairs@aytonprimary.com))
 * Secretary: Jo Roberts ([pfa-secretary@aytonprimary.com](mailto:pfa-secretary@aytonprimary.com))
 * Treasurer: Ellie Moriarty ([pfa-treasurer@aytonprimary.com](mailto:pfa-treasurer@aytonprimary.com))
 

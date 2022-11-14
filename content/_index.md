@@ -73,15 +73,15 @@ We occasionally have non-uniform or dress up days.
 
 ## Parent council
 
-Our parent council is called *Parents and Friends of Ayton Primary School*. You can email us at **<pfa@aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
+Our parent council is called *Parents and Friends of Ayton Primary School*. You can email us at **<hello@pfa.aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
 
 ### Office bearers
 
 
-* Chair: Amy Meek ([pfa-chairs@aytonprimary.com](mailto:pfa-chairs@aytonprimary.com))
-* Vice chair: Tracey Dick ([pfa-chairs@aytonprimary.com](mailto:pfa-chairs@aytonprimary.com))
-* Secretary: Jo Roberts ([pfa-secretary@aytonprimary.com](mailto:pfa-secretary@aytonprimary.com))
-* Treasurer: Ellie Moriarty ([pfa-treasurer@aytonprimary.com](mailto:pfa-treasurer@aytonprimary.com))
+* Chair: Amy Meek (<chairs@pfa.aytonprimary.com>)
+* Vice chair: Tracey Dick (<chairs@pfa.aytonprimary.com>)
+* Secretary: Jo Roberts (<secretary@pfa.aytonprimary.com>)
+* Treasurer: Ellie Moriarty (<treasurer@pfa.aytonprimary.com>)
 
 
 ### Next meetings

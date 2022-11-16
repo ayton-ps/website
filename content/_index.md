@@ -86,7 +86,7 @@ Our parent council is called *Parents and Friends of Ayton Primary School*. You 
 
 ### Next meetings
 
-**17:15, 01 December 2022, at school**
+**18:00, 01 December 2022, at school**
 
 **[PROVISIONAL] 9:00, 27 January 2023, at school**
 

@@ -36,6 +36,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 * **18th:** Pyjamas (or own clothes) to school
 * **21st–25th:** Maths week, enrolment week
+* **24th: SCHOOL CLOSED**
 * **28th–29th:** Holiday
 
 

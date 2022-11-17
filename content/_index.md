@@ -5,7 +5,7 @@ og: /i/og.jpg
 description: The homepage for Ayton Primary School
 ---
 
-Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim head teacher is Mrs Horsburgh, and we are part of a three school headship with Coldingham and Cockburnspath Primary Schools.
+Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim head teacher is Mrs Horsburgh, who is the head teacher of Reston Primary School.
 
 We currently have three classes and four teachers:
 
@@ -23,6 +23,7 @@ We are part of the Eyemouth Learning Community – the children from Ayton, Cold
 Monday–Thursday: 08:45–15:10, lunch 12:15–12:55  
 Friday: 08:45–12:30
 
+PE days are Tuesdays and Thursdays.
 
 ## Term dates
 
@@ -57,7 +58,7 @@ We wear:
 * Alternatively, blue, summer gingham dresses can be worn
 * Primary 7 children may choose to wear a royal blue sweatshirt
 
-**On days with PE, children should come to school in PE kit. There
+**On Tuesdays and Thursdays, children should come to school in PE kit. There
 is no need to bring school uniform.** The uniform for PE is:
 
 * School sweatshirt as above

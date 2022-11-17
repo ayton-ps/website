@@ -34,9 +34,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## November dates
 
-* **15th:** Flu nasal sprays (morning)
-* **16th:** Individual and family photos (morning), P1-4 Outdoor Activities (afternoon)
-* **17th:** Library van (morning)
+* **18th:** Pyjamas (or own clothes) to school
 * **21st–25th:** Maths week, enrolment week
 * **28th–29th:** Holiday
 

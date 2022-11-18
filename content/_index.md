@@ -39,6 +39,24 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * **21st–25th:** Maths week, enrolment week
 * **24th: SCHOOL CLOSED**
 * **28th–29th:** Holiday
+* **30th:** Wear something tartan
+
+## December dates
+
+* **1st:** 2:30pm–3:05pm P1–7 Learning Together
+* **1st:** 6pm–7pm Ayton PS PFA meeting in school
+* **4th:** 4pm Christmas lights switch on at village square
+* **7th:** Online panto
+* **8th:** 11:30am Mrs Holt's Christmas Crafts
+* **12th:** Dress rehearsal (pm)
+* **12th:** 5:30pm–6:30pm P5/6/7 Christmas Cracker
+* **13th:** 5:30pm–6:30pm P1–4 Christmas Performance
+* **14th:** 1:45pm–2:45pm P1–4 Christmas Performance
+* **15th:** 6:00pm–8:00pm Eyemouth High School Christmas Showcase
+* **20th:** P5/6 Christmas Party/P7 Christmas Party (am)
+* **20th:** P1–4 Christmas Party (1:15pm)
+* **21st:** Christmas Lunch
+* **21st:** Church Service (1:30pm)
 
 
 ## Breakfast club

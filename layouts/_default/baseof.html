@@ -44,7 +44,7 @@
   <div id="site">
     <header id="header">
       <a href="{{ .Site.Home.RelPermalink }}"><img class="logo" src="{{ (resources.Get "/i/logo.svg" | resources.Fingerprint "md5").RelPermalink }}"></a>
-      <input type="checkbox" id="show-menu-toggle" {{- if .Page.IsHome }} checked="checked" {{- end }}>
+      <input type="checkbox" id="show-menu-toggle" {{- if or .Page.IsHome (eq .Page.RelPermalink "/pfa/") }} checked="checked" {{- end }}>
       <a href="{{ (.GetPage "/pfa").RelPermalink }}"><img class="logo" src="{{ (resources.Get "/i/pfa-logo.svg" | resources.Fingerprint "md5").RelPermalink }}"></a>
       <nav id="main-nav">
         <ul>

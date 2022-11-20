@@ -1,8 +1,11 @@
 {{ define "main" }}
 {{ .Content }}
+{{ if hasPrefix .Page.RelPermalink "/pfa/minutes" }}
+{{- /* TODO work out why content/pfa/minutes/_index.md uses this file */ -}}
 <ul class="minutes">
   {{ range (.Pages.ByParam "meeting_date").Reverse -}}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{- end }}
 </ul>
+{{ end }}
 {{ end }}

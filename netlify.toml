@@ -1,6 +1,9 @@
 [build]
 publish = "public"
 
+[build.environment]
+HUGO_VERSION = "0.106.0"
+
 [build.processing.html]
 pretty_urls = true
 

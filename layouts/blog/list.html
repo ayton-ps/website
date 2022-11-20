@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>Blog</h1>
+  {{ .Content }}
   <ul class="blogs">
     {{ range .Pages }}
       <li>
@@ -7,7 +7,7 @@
         <a href="{{ .RelPermalink }}">
           {{- $img := false -}}
           {{- with .Params.cover_photo }}{{ $img = resources.GetMatch . -}}
-          {{- else }}{{ with .Params.og }}{{ $img = resources.GetMatch . -}}
+          {{- else }}{{ with .Params.meta.image }}{{ $img = resources.GetMatch . -}}
           {{- end}}{{ end -}}
           {{- if $img }}<img src="{{ ($img.Fill "900x600 Smart" | resources.Fingerprint "md5").RelPermalink }}">{{ end -}}
         </a>

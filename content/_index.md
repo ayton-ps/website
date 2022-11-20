@@ -1,9 +1,20 @@
 ---
 title: Welcome to Ayton Primary School!
-cover_photo: /i/school.jpg
-og: /i/og.jpg
-description: The homepage for Ayton Primary School
+meta:
+  image: /i/og.jpg
+  description: The homepage for Ayton Primary School
+type: page
+menu:
+  main:
+    name: Welcome
+    weight: 1
 ---
+
+# Welcome to Ayton Primary School!
+
+{{<aside side="center">}}
+![A photo of our school](/i/school.jpg)
+{{</aside>}}
 
 Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim head teacher is Mrs Horsburgh, who is the head teacher of Reston Primary School.
 
@@ -23,7 +34,8 @@ We are part of the Eyemouth Learning Community – the children from Ayton, Cold
 Monday–Thursday: 08:45–15:10, lunch 12:15–12:55  
 Friday: 08:45–12:30
 
-PE days are Tuesdays and Thursdays.
+**PE days are Tuesdays and Thursdays.**
+
 
 ## Term dates
 
@@ -62,58 +74,3 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 ## Breakfast club
 
 Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
-
-
-## School uniform
-
-Uniform with embroidered school logo is [available from FPUniformz](https://www.fpuniformz.com/product-category/schools/primary-school/ayton-primary-school/), but *the embroidered logo is not required*.
-
-We wear:
-
-* Light blue polo shirt (with or without school badge)
-* Grey (or black) trousers, shorts, skirt or pinafore
-* Burgundy jumper, cardigan or sweatshirt (with or without school badge)
-* Alternatively, blue, summer gingham dresses can be worn
-* Primary 7 children may choose to wear a royal blue sweatshirt
-
-**On Tuesdays and Thursdays, children should come to school in PE kit. There
-is no need to bring school uniform.** The uniform for PE is:
-
-* School sweatshirt as above
-* Black, grey or navy joggers or shorts
-* Plain t-shirt in your child’s House colour (Robin: red, Sparrow: yellow, Wren: green)
-* Sensible trainers/gym shoes
-
-Earrings should be taped up or removed on PE days.
-
-We occasionally have non-uniform or dress up days.
-
-
-## Parent council
-
-Our parent council is called *Parents and Friends of Ayton Primary School*. You can email us at **<hello@pfa.aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
-
-### Office bearers
-
-
-* Chair: Amy Meek (<chairs@pfa.aytonprimary.com>)
-* Vice chair: Tracey Dick (<chairs@pfa.aytonprimary.com>)
-* Secretary: Jo Roberts (<secretary@pfa.aytonprimary.com>)
-* Treasurer: Ellie Moriarty (<treasurer@pfa.aytonprimary.com>)
-
-
-### Next meetings
-
-**18:00, 01 December 2022, at school**
-
-**[PROVISIONAL] 9:00, 27 January 2023, at school**
-
-
-### Minutes from past meetings
-
-* [23 March 2022](/2022-03-23-pfa-minutes)
-* [29 April 2022](/2022-04-29-pfa-minutes)
-* [01 June 2022](/2022-06-01-pfa-minutes)
-* [21 September 2022](/2022-09-21-pfa-minutes)
-* [26 October 2022](/2022-10-26-pfa-minutes)
-* [09 November 2022 (EGM to elect new chair)](/2022-11-09-pfa-minutes)

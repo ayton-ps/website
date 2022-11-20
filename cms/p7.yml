@@ -15,6 +15,7 @@ collections:
     folder: content/blog
     create: true
     format: frontmatter
+    summary: '{{ print "{{" }}day}}/{{ print "{{" }}month}}/{{ print "{{" }}year}} — {{ print "{{" }}title}}'
     preview_path: "{{ print "{{ slug }}" }}/"
     editor: { preview: false }
     fields:
@@ -44,13 +45,18 @@ collections:
         name: summary
         required: false
         hint: If left blank, will use the beginning of the blog post
-      - label: Social media image
-        name: og
-        widget: image
-        required: false
-        hint: Used when sharing on social media.
-      - label: Description
-        name: description
-        widget: string
-        required: false
-        hint: Text used in search enginges and when sharing links on social media
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media

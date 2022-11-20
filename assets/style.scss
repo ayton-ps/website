@@ -6,6 +6,7 @@ $green: #265e54;
 $pale: #cbb477;
 $link: #721919;
 $text: #0e273c;
+$pfaBg: #fcfae7;
 
 $lineHeight: 1.2;
 $fontSize: 5vw;
@@ -15,6 +16,8 @@ $secondBreakpoint: 1111px;
 $preFirstBreakpointStr: "(max-width: #{$firstBreakpoint - 1})";
 $firstBreakpointStr: "(min-width: #{$firstBreakpoint})";
 $secondBreakpointStr: "(min-width: #{$secondBreakpoint})";
+
+$bigSeparatorHeight: 0.3em;
 
 @import "scss/normalize.scss";
 
@@ -28,7 +31,9 @@ img { max-width: 100%; }
 
 
 body {
-  background-color: $bg;
+  &:not(.pfa) { background-color: $bg; }
+  &.pfa { background-color: $pfaBg; }
+
   word-wrap: break-word;
   font-family: 'Atkinson Hyperlegible';
   font-size: $fontSize;
@@ -42,12 +47,23 @@ body {
   }
 }
 
+label {
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 a {
   color: $link;
 }
 
 h1 {
   font-size: 2em;
+  text-align: center;
 }
 
 h2 {
@@ -60,6 +76,14 @@ h1, h2, h3 {
   color: $red;
 }
 
+hr {
+  border: 0;
+  height: 0.2em;
+  border-radius: 0.1em;
+  background-color: $maroon;
+  margin: 2em 0;
+}
+
 #site {
   box-sizing: border-box;
   padding: 0 1em 1em 1em;
@@ -67,50 +91,129 @@ h1, h2, h3 {
   @media #{$secondBreakpointStr} {
     width: $secondBreakpoint;
   }
-  .logo {
-    height: 4em;
-  }
 }
 
 #header {
+  $headerPadding: 1em;
+  img.logo { height: 5em; }
+  flex-wrap: wrap;
   display: flex;
   font-family: 'Patrick Hand';
   justify-content: space-between;
-  align-items: center;
-  padding: 1em 0;
-  max-width: 100;
+  padding: $headerPadding 0;
+  max-width: 100%;
   flex-wrap: wrap;
+  @media #{$firstBreakpointStr} { flex-wrap: nowrap; }
+  flex-direction: row;
+  > a {
+    &:nth-of-type(1) { order: 1; }
+    &:nth-of-type(2) { order: 4; }
+  }
   @media #{$firstBreakpointStr} {
     font-size: 1.4em;
   }
-  .contact {
+  ul {
+    padding: 0;
+    @media #{$preFirstBreakpointStr} { padding-top: $headerPadding; }
+    @media #{$firstBreakpointStr} { padding-left: $headerPadding; }
+    margin: 0;
     list-style-type: none;
-    display: flex;
-    align-items: center;
-    img {
-      height: $lineHeight * 1em;
-    }
     li {
-      padding-left: 0.5em;
+      padding: 0 0.5em;
+      margin-bottom: 0.5em;
+      font-size: 0.8em;
     }
   }
-
-  .blog-link {
-    padding: 0.5em;
-    text-decoration: none;
-    border: 0.1em solid $maroon;
-    border-radius: 0.3em;
-    transform: rotate(-3deg);
-    margin-left: auto;
-    transition: 0.2s ease-in-out background-color;
-    &:hover {
-      background-color: transparentize($maroon, .7);
-    }
+  nav {
+    display: flex;
+    flex-direction: column;
+    &:nth-of-type(2) { text-align: right; }
     @media #{$preFirstBreakpointStr} {
-      order: 3;
-      margin-right: auto;
-      margin-top: 1em;
+      &:nth-of-type(1) { order: 5; }
+      &:nth-of-type(2) { order: 6; }
+      width: 50%;
     }
+    @media #{$firstBreakpointStr} {
+      flex-grow: 1;
+      flex-direction: row;
+      &:nth-of-type(1) { order: 2; }
+      &:nth-of-type(2) {
+        order: 3;
+        flex-direction: row-reverse;
+        ul {
+          padding: 0 1em;
+        }
+      }
+    }
+  }
+  #show-menu-toggle, #show-menu-label {
+    display: none;
+    visibility: hidden;
+  }
+  @media #{$preFirstBreakpointStr} {
+    nav, nav ul, nav li {
+      transition: 0.2s ease-in-out all;
+      line-height: $lineHeight * 1em;
+    }
+    #show-menu-toggle:not(:checked) {
+      ~ nav, ~nav ul, ~nav li {
+        line-height: 0em;
+        opacity: 0;
+        padding: 0;
+        margin: 0;
+        pointer-events: none;
+      }
+    }
+    #show-menu-toggle:checked {
+      ~ #show-menu-label-wrapper {
+        margin-top: 1em;
+        #show-menu-label {
+          margin-top: 1em;
+          &:before { transform: rotate(45deg); }
+          &:after { transform: rotate(-45deg); }
+        }
+      }
+    }
+    align-items: center;
+    #show-menu-label-wrapper {
+      order: 9;
+      width: 100%;
+      text-align: center;
+      margin-bottom: -$headerPadding;
+    }
+    #show-menu-label {
+      $padding: 0.4em;
+      position: relative;
+      top: 0;
+      transition: 0.2s ease-in-out top;
+      padding: $padding $padding $padding (1.2em + $padding);
+      border-radius: ($bigSeparatorHeight/2) ($bigSeparatorHeight/2) 0 0;
+      color: #fff;
+      background-color: $maroon;
+      font-family: 'Atkinson Hyperlegible';
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 0.7em;
+      display: inline;
+      visibility: visible;
+      &:before,
+      &:after {
+        position: absolute;
+        top: $padding + 0.5em - 0.05em;
+        left: $padding;
+        height: 0.1em;
+        width: 0.8em;
+        content: '';
+        background-color: #fff;
+        border-radius: 0.5em;
+      }
+      &:before { transform: translateY(-0.15em); }
+      &:after { transform: translateY(0.15em); }
+    }
+  }
+  a.active {
+    color: $text;
+    text-decoration: none;
   }
 }
 
@@ -134,7 +237,7 @@ main {
   }
   &:after, &:before {
     right: 0;
-    height: 0.3em;
+    height: $bigSeparatorHeight;
   }
   h2:before {
     width: 5em;
@@ -145,45 +248,28 @@ main {
 }
 
 #footer {
-  margin-top: 2em;
-  padding-top: 2em;
-  .contact {
-    display: flex;
+  .icon-links {
     list-style-type: none;
-    @media #{$preFirstBreakpointStr} {
-      flex-direction: column;
-      li:nth-child(2n+1) .icon img {
-        float: left;
-        margin-right: 0.6em*$lineHeight;
-      }
-      li:nth-child(2n) .icon img {
-        float: right;
-        margin-left: 0.6em*$lineHeight;
-      }
-    }
-    @media #{$firstBreakpointStr} {
-      justify-content: space-between;
-    }
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 0;
-    li {
-      flex-grow: 1;
-      margin-bottom: 2em*$lineHeight;
-      .icon img {
-        height: 2.5em*$lineHeight;
-        margin-bottom: 0.6em*$lineHeight;
-      }
+    margin: 0;
+    img {
+      height: $lineHeight * 1em;
     }
-    h2 {
-      font-size: 1.5em;
-      padding: 0.4em 0;
-      margin: 0;
+    li:not(:first-child) {
+      padding-left: 1em;
     }
+    font-size: 1.5em;
   }
+  padding-top: 2em;
 }
 
 .blogs {
   display: flex;
   padding: 0;
+  margin-top: 3em;
   list-style-type: none;
   max-width: 100%;
   flex-wrap: wrap;
@@ -191,22 +277,27 @@ main {
   h3 { a { text-decoration: none; } }
   > li {
     width: 100%;
+    border-bottom: 0.1em solid $maroon;
+    &:last-child { border-bottom: 0; }
     @media #{$firstBreakpointStr} {
       width: 50%;
       box-sizing: border-box;
-      border-bottom: 0.1em solid $maroon;
       &:nth-child(2n+1) {
         padding-right: 1em;
         border-right: 0.1em solid $maroon;
       }
       &:nth-child(2n) { padding-left: 1em; }
-      &:last-child, &:nth-last-child(2):nth-child(2n+1) { border-bottom: 0; }
+      &:nth-last-child(2):nth-child(2n+1) { border-bottom: 0; }
     }
     padding-bottom: 2em;
   }
   .summary {
     margin: 1em 0;
   }
+}
+.go-back {
+  text-align: center;
+  font-size: 0.8em;
 }
 .other-posts {
   padding: 0 1em;
@@ -233,9 +324,10 @@ main {
   a { display: block; }
   .older-post:only-child { margin-left: auto; }
 }
-h2 + .post-info {
+.post-info {
   margin-top: -0.5em;
   margin-bottom: 2em;
+  text-align: center;
   font-style: italic;
 }
 
@@ -246,9 +338,13 @@ blockquote {
 }
 
 #toc-wrapper {
-  display: inline-block;
   background-color: #ffffff;
   padding: 2em;
+  margin: 1em auto 2em;
+  @media #{$firstBreakpointStr} {
+    display: table;
+    max-width: 80%;
+  }
 }
 
 #toc-toggle {
@@ -276,6 +372,28 @@ blockquote {
 
 #toc-toggle:checked ~ #TableOfContents { height: auto; }
 
+article aside {
+  padding: 1em;
+  background-color: rgba(0,0,0,0.1);
+  &.center { background-color: #fff; }
+  p:first-child { margin-top: 0; }
+  p:last-child { margin-bottom: 0; }
+  @media #{$firstBreakpointStr} {
+    &.left {
+      float: left;
+      margin: 0 1em 0.5em 0;
+    }
+    &.center {
+      max-width: 50%;
+      margin: 1em auto 2em;
+    }
+    &.right {
+      float: right;
+      margin: 0 0 0.5em 1em;
+    }
+  }
+}
+
 article table {
   td, th {
     padding: 0.5em;
@@ -290,5 +408,17 @@ article table {
     tr:not(:last-child) {
       border-bottom: 0.05em solid $red;
     }
+  }
+}
+
+.md-image {
+  &:not(.svg) img {
+    max-width: 100%;
+    height: auto;
+  }
+  &.svg img {
+    height: 1em * $lineHeight;
+    width: auto;
+    vertical-align: bottom;
   }
 }

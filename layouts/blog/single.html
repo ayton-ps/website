@@ -1,6 +1,6 @@
 {{ define "main" }}
-  <h1><a href="{{ .Parent.RelPermalink }}">Blog</a></h1>
-  <h2>{{ .Title }}</h2>
+  <div class="go-back">&larr; <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></div>
+  <h1>{{ .Title }}</h1>
   <div class="post-info">
     {{ with .Params.author }}{{ . }}, {{ end }}{{ time.Format "2 Jan 2006" .PublishDate }}
   </div>

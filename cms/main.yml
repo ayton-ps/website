@@ -12,6 +12,8 @@ collections:
   - name: pages
     label: Pages
     label_singular: Page
+    filter: { field: type, value: page }
+    nested: { depth: 3 }
     folder: content
     create: true
     format: frontmatter
@@ -21,29 +23,57 @@ collections:
       - label: Title
         name: title
         widget: string
-      - label: Main image
-        name: cover_photo
-        widget: image
-        required: false
-        hint: Used at top of page. Images should be at least 2000 pixels wide
       - label: Content
         name: body
         widget: markdown
-      - label: Social media image
-        name: og
-        widget: image
-        hint: Used when sharing on social media.
+      - label: Type
+        name: type
+        widget: hidden
+        value: page
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media
+      - label: Menu placement
+        name: menu
+        widget: object
         required: false
-      - label: Description
-        name: description
-        widget: string
-        required: false
-        hint: Text used in search enginges and when sharing links on social media
+        fields:
+          - label: Main menu
+            name: main
+            widget: object
+            required: false
+            fields:
+              - label: Name
+                name: name
+                widget: string
+                required: false
+              - label: Weight
+                name: weight
+                widget: number
+                value_type: int
+                min: -100
+                max: 999
+                required: true
+                hint: Where in the menu the link should be. Smaller numbers come first. Set to 999 to hide
   - name: blog
     label: Blog
     label_singular: Blog post
     folder: content/blog
     create: true
+    filter: { field: type, value: blog }
+    summary: '{{ print "{{" }}day}}/{{ print "{{" }}month}}/{{ print "{{" }}year}} — {{ print "{{" }}title}}'
     format: frontmatter
     preview_path: "{{ print "{{ slug }}" }}/"
     editor: { preview: false }
@@ -77,30 +107,35 @@ collections:
         name: summary
         required: false
         hint: If left blank, will use the beginning of the blog post
-      - label: Social media image
-        name: og
-        required: false
-        widget: image
-        hint: Used when sharing on social media.
-      - label: Description
-        name: description
-        required: false
-        widget: string
-        hint: Text used in search enginges and when sharing links on social media
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media
   - label: Site settings
     name: site_settings
     delete: false
     editor: { preview: false }
     files:
-      - label: Contact info
-        name: contact_info
-        preview_path: ""
-        file: data/contact.yml
+      - label: Footer
+        name: footer
+        preview_path: "/"
+        file: data/footer.yml
         fields:
-          - label: Quick links
-            name: quick
+          - label: Icon links
+            name: icon_links
             widget: list
-            hint: The icons that appear at the top of the page
+            hint: The icons that appear at the bottom of the page
             fields:
               - label: Title
                 name: title
@@ -111,17 +146,3 @@ collections:
               - label: Link
                 name: link
                 widget: string
-          - label: Details
-            name: details
-            widget: list
-            hint: the information that appears at the bottom of the page
-            fields:
-              - label: Title
-                name: title
-                widget: string
-              - label: icon
-                name: icon
-                widget: image
-              - label: Content
-                name: content
-                widget: markdown

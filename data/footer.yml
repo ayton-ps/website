@@ -1,0 +1,14 @@
+---
+icon_links:
+  - icon: /i/phone.svg
+    link: tel:+441890781350
+    title: Call the school
+  - icon: /i/map.svg
+    link: https://goo.gl/maps/KgyZ1tQmYZdLQxZH8
+    title: See our school on Google Maps
+  - icon: /i/fb.svg
+    link: https://www.facebook.com/aytonps/
+    title: Visit our Facebook page
+  - icon: /i/mail.svg
+    link: mailto:aytonps@scotborders.gov.uk
+    title: Email the school

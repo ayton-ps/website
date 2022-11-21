@@ -91,6 +91,10 @@ collections:
       - label: Author
         name: author
         widget: string
+      - label: Type
+        name: type
+        widget: hidden
+        value: blog
       - label: Draft
         name: draft
         widget: boolean

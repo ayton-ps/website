@@ -13,6 +13,7 @@ collections:
     label: Blog
     label_singular: Blog post
     folder: main/content/blog
+    filter: { field: type, value: blog }
     create: true
     format: frontmatter
     summary: '{{ print "{{" }}day}}/{{ print "{{" }}month}}/{{ print "{{" }}year}} — {{ print "{{" }}title}}'
@@ -25,6 +26,10 @@ collections:
       - label: Author
         name: author
         widget: string
+      - label: Type
+        name: type
+        widget: hidden
+        value: blog
       - label: Draft
         name: draft
         widget: hidden

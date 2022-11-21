@@ -1,7 +1,7 @@
 [build]
 publish = "public"
 command = "hugo --minify --environment=production"
-ignore = "[ -n \"$CACHED_COMMIT_REF\" ] && git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF . ../common/"
+ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF . ../common/"
 
 [build.environment]
 HUGO_VERSION = "0.106.0"

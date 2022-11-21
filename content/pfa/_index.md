@@ -3,7 +3,7 @@ title: Parents and Friends Association of Ayton Primary School
 meta:
   image: /i/pfa/logo.png
   description: About our parent council at Ayton Primary School
-type: pfa
+author: PFA
 menu:
   pfa:
     name: Parents & Friends Association

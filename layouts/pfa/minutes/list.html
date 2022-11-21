@@ -1,9 +1,0 @@
-{{ define "main" }}
-  {{ .Content }}
-  hello
-  <ul class="minutes">
-    {{ range .Pages -}}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{- end }}
-  </ul>
-{{ end }}

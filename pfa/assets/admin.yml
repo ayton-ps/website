@@ -73,3 +73,47 @@ collections:
                 max: 999
                 required: true
                 hint: Where in the menu the link should be. Smaller numbers come first. Set to 999 to hide
+  - name: minutes
+    label: Minutes
+    label_singular: Minutes
+    filter: { field: type, value: pfa-minutes }
+    folder: main/content/pfa/minutes
+    create: true
+    format: frontmatter
+    preview_path: "/pfa/minutes/{{ print "{{ year }}" }}-{{ print "{{ month }}" }}--{{ print "{{ day }}" }}/"
+    editor: { preview: false }
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        default: 'Minutes from PFA meeting held '
+      - label: Draft?
+        name: draft
+        widget: boolean
+        required: false
+        default: true
+      - label: Date held
+        name: date
+        widget: date
+      - label: Type
+        name: type
+        widget: hidden
+        default: pfa-minutes
+      - label: Content
+        name: body
+        widget: markdown
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media

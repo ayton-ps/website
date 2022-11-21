@@ -20,7 +20,6 @@ menu:
 * Secretary: Jo Roberts ([secretary@pfa.aytonprimary.com](mailto:secretary@pfa.aytonprimary.com))
 * Treasurer: Ellie Moriarty ([treasurer@pfa.aytonprimary.com](mailto:treasurer@pfa.aytonprimary.com))
 
-![](/i/pfa/logo.png)
-- - -
+---
 
 **See also: [Contact the school](/contact/)**

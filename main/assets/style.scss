@@ -153,7 +153,8 @@ hr {
   }
   @media #{$preFirstBreakpointStr} {
     nav, nav ul, nav li {
-      transition: 0.2s ease-in-out all;
+      transition: 0.2s ease-in-out;
+      transition-property: line-height, opacity, padding, margin;
       line-height: $lineHeight * 1em;
     }
     #show-menu-toggle:not(:checked) {
@@ -199,6 +200,7 @@ hr {
       visibility: visible;
       &:before,
       &:after {
+        transition: transform 0.2s 0.2s ease-in-out;
         position: absolute;
         top: $padding + 0.5em - 0.05em;
         left: $padding;

@@ -1,0 +1,12 @@
+baseURL = 'https://p7.aytonprimary.com'
+languageCode = 'en-gb'
+title = 'Digital Ninjas'
+disableKinds = ["taxonomy", "taxonomyTerm", "home"]
+disableHugoGeneratorInject = true
+[module]
+[[module.mounts]]
+source = 'layouts'
+target = 'layouts'
+[[module.mounts]]
+source = '../common/cms.html'
+target = 'layouts/cms/baseof.html'

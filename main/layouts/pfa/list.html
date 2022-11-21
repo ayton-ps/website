@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $firstSection := true -}}
+  {{- range (.Pages.GroupByDate "2006").Reverse -}}
+    {{ if not $firstSection -}}
+      <h3>{{ .Key }}</h3>
+    {{ else -}}
+      {{- $firstSection = false }}
+    {{ end }}
+    <ul>
+      {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  {{- end }}
+{{ end }}

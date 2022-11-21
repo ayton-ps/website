@@ -1,0 +1,16 @@
+baseURL = 'https://aytonprimary.com'
+languageCode = 'en-gb'
+disableHugoGeneratorInject = true
+title = 'Ayton Primary School'
+disableKinds = ['taxonomy', 'taxonomyTerm']
+[permalinks]
+pfa-minutes = '/pfa/minutes/:year-:month-:day'
+[markup.goldmark.renderer]
+unsafe = true
+[module]
+[[module.mounts]]
+source = 'layouts'
+target = 'layouts'
+[[module.mounts]]
+source = '../common/cms.html'
+target = 'layouts/cms/baseof.html'

@@ -1,0 +1,12 @@
+[build]
+publish = "public"
+command = "hugo --minify --environment=production"
+
+[build.environment]
+HUGO_VERSION = "0.106.0"
+
+[build.processing.html]
+pretty_urls = true
+
+[build.processing.images]
+compress = true

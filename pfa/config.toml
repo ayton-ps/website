@@ -1,0 +1,12 @@
+baseURL = 'https://pfa.aytonprimary.com'
+languageCode = 'en-gb'
+title = 'Ayton Primary School PFA'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+disableHugoGeneratorInject = true
+[module]
+[[module.mounts]]
+source = 'layouts'
+target = 'layouts'
+[[module.mounts]]
+source = '../common/cms.html'
+target = 'layouts/cms/baseof.html'

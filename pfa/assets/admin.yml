@@ -1,0 +1,75 @@
+---
+{{ if eq hugo.Environment "development" }}local_backend: true
+{{ end -}}
+backend:
+  name: git-gateway
+  branch: main
+site_url: "https://aytonprimary.com/"
+media_folder: main/assets/i/pfa
+public_folder: /i/pfa/
+logo_url: {{ (resources.GetMatch "/cms-logo.svg" | resources.Fingerprint "md5").RelPermalink }}
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    filter: { field: author, value: PFA }
+    nested: { depth: 3 }
+    folder: main/content/pfa
+    create: true
+    format: frontmatter
+    preview_path: "pfa/{{ print "{{ slug }}" }}/"
+    editor: { preview: false }
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Content
+        name: body
+        widget: markdown
+      - label: Type
+        name: author
+        widget: hidden
+        value: PFA
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media
+      - label: URL
+        name: url
+        widget: string
+        required: false
+        pattern: ['^/pfa/', "Must start with ‘/pfa/’"]
+        hint: Use this to change the default URL generated. Should start with '/pfa/'
+      - label: Menu placement
+        name: menu
+        widget: object
+        required: false
+        fields:
+          - label: Main menu
+            name: pfa
+            widget: object
+            required: false
+            fields:
+              - label: Name
+                name: name
+                widget: string
+                required: false
+              - label: Weight
+                name: weight
+                widget: number
+                value_type: int
+                min: -100
+                max: 999
+                required: true
+                hint: Where in the menu the link should be. Smaller numbers come first. Set to 999 to hide

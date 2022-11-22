@@ -12,7 +12,7 @@ clean: clean_main clean_p7 clean_pfa
 clean_main clean_p7 clean_pfa:
 	rm -rf $(subst clean_,,$@)/public
 
-dev: HUGO_SOURCE=$@
+dev:
 	npx run-pty % \
 		npx netlify-cms-proxy-server % \
 		hugo server --port=1313 --source=main % \

@@ -57,13 +57,13 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * **1st:** 2:30pm–3:05pm P1–7 Learning Together
 * **1st:** 6pm–7pm Ayton PS PFA meeting in school
 * **4th:** 4pm Christmas lights switch on at village square
-* **7th:** Online panto
+* **7th:** 11:30–12:30 Makastory online panto
 * **8th:** 11:30am Mrs Holt's Christmas Crafts
-* **12th:** Dress rehearsal (pm)
-* **12th:** 5:30pm–6:30pm P5/6/7 Christmas Cracker
-* **13th:** 5:30pm–6:30pm P1–4 Christmas Performance
+* **12th:** 6pm–7pm P1–4 Christmas Performance
 * **14th:** 1:45pm–2:45pm P1–4 Christmas Performance
-* **15th:** 6:00pm–8:00pm Eyemouth High School Christmas Showcase
+* **15th:** 6pm–8pm Eyemouth High School Christmas Showcase
+* **18th:** 4:30pm Santa visits at Clock Tower
+* **19th:** 6pm–7pm P5/6/7 Christmas Cracker
 * **20th:** P5/6 Christmas Party/P7 Christmas Party (am)
 * **20th:** P1–4 Christmas Party (1:15pm)
 * **21st:** Christmas Lunch

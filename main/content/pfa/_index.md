@@ -20,17 +20,17 @@ Our parent council is called *Parents and Friends Association of Ayton Primary S
 
 #### Agenda
 
-1. Welcome & Introductions
+1. Welcome & introductions
 2. Apologies for absence
-3. Minutes from last meeting
-4. PFA Update
-    1. What we do (and don’t do), communications.
-    2. The Constitution
+3. [Minutes from last meeting](/pfa/minutes/2022-10-26/)
+4. PFA update
+    1. What we do (and don’t do), communications
+    2. Constitution
 5. Discussion points from parents
 6. Treasurer’s update
 7. Headteacher’s update
-8. AOB
+8. Any other business
 9. Dates for the rest of 2022/23 school year
-10. 50/50 Draw takes place (live!)
+10. [50/50 Draw](/pfa/5050) takes place (live!)
 
 ### [PROVISIONAL] 9:00, 27 January 2023, at school

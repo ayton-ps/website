@@ -54,7 +54,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 * **1st:** 2:30pm–3:05pm P1–7 Learning Together
 * **1st:** [50-50 draw](/pfa/5050/) winner announced
-* **1st:** 6pm–7pm Ayton PS PFA meeting in school
+* **1st:** 6pm–7pm Ayton PS PFA meeting in school ([agenda](/pfa/#agenda))
 * **4th:** 4pm Christmas lights switch on at village square
 * **7th:** 11:30–12:30 Makastory panto
 * **8th:** 11:30am Mrs Holt's Christmas Crafts

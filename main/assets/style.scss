@@ -375,6 +375,20 @@ blockquote {
 
 #toc-toggle:checked ~ #TableOfContents { height: auto; }
 
+.banner-message {
+  font-size: 0.7em;
+  background-color: #fff;
+  padding: 0.5em;
+  box-sizing: border-box;
+  text-align: center;
+  > p {
+    margin: 1em auto;
+    @media #{$secondBreakpointStr} {
+      width: $secondBreakpoint;
+    }
+  }
+}
+
 article {
   &::after {
     display: block;

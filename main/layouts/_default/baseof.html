@@ -37,6 +37,11 @@
   <meta name="theme-color" content="{{ cond (hasPrefix .Page.Type "pfa") "#ffffff" "#7998c4" }}">
 </head>
 <body class="{{ replace .Page.Type "-" " " }}">
+      {{ range .Params.banner_messages -}}
+        <div class="banner-message">
+          {{- $.Page.RenderString (dict "display" "block") . -}}
+        </div>
+      {{ end }}
   <div id="site">
     <header id="header">
       <a href="{{ .Site.Home.RelPermalink }}"><img class="logo" src="{{ (resources.Get "/i/logo.svg" | resources.Fingerprint "md5").RelPermalink }}"></a>

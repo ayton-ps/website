@@ -1,5 +1,4 @@
-{{- print "" -}}
-{{- $src := .Destination -}}
+{{- $src := strings.TrimPrefix site.BaseURL .Destination }}
 {{- $media := "external-image" -}}
 {{- if not (hasPrefix .Destination "http") -}}
   {{- $img := resources.GetMatch .Destination }}

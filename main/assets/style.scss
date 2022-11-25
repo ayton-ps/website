@@ -375,19 +375,27 @@ blockquote {
 
 #toc-toggle:checked ~ #TableOfContents { height: auto; }
 
+article {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
+
 article aside {
   padding: 1em;
-  background-color: rgba(0,0,0,0.1);
-  &.center { background-color: #fff; }
+  background-color: #fff;
+  box-sizing: border-box;
   p:first-child { margin-top: 0; }
   p:last-child { margin-bottom: 0; }
   @media #{$firstBreakpointStr} {
+    max-width: 50%;
     &.left {
       float: left;
       margin: 0 1em 0.5em 0;
     }
     &.center {
-      max-width: 50%;
       margin: 1em auto 2em;
     }
     &.right {

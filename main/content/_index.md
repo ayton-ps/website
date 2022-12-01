@@ -48,16 +48,8 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
 
 
-## November dates
-
-* **28th–29th:** Holiday
-* **30th:** Wear something tartan
-
 ## December dates
 
-* **1st:** 2:30pm–3:05pm P1–7 Learning Together
-* **1st:** [50-50 draw](/pfa/5050/) winner announced
-* **1st:** 6pm–7pm Ayton PS PFA meeting in school ([agenda](/pfa/#agenda))
 * **4th:** 4pm Christmas lights switch on at village square
 * **7th:** 11:30–12:30 Makastory panto
 * **8th:** 11:30am Mrs Holt's Christmas Crafts
@@ -67,7 +59,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * **15th:** 6pm–8pm Eyemouth High School Christmas Showcase
 * **18th:** 4:30pm Santa visits at Clock Tower
 * **19th:** 6pm–7pm P5/6/7 Christmas Cracker
-* **19th:** [Christmas Raffle](/pfa/christmas-raffle/) winners announced
+* **20th:** [Christmas Raffle](/pfa/christmas-raffle/) winners announced
 * **20th:** Party clothes
 * **20th:** P5/6 Christmas Party/P7 Christmas Party (am)
 * **20th:** P1–4 Christmas Party (1:15pm)

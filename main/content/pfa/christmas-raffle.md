@@ -36,4 +36,4 @@ menu:
 **Plus many more amazing prizes**
 
 
-To be drawn on Monday 19th December 2022
+To be drawn on Tuesday 20th December 2022

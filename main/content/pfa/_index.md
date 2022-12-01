@@ -14,23 +14,6 @@ menu:
 
 Our parent council is called *Parents and Friends Association of Ayton Primary School*. You can email us at **<hello@pfa.aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
 
-## Next meetings
+## Next meeting
 
-### 18:00, 01 December 2022, at school
-
-#### Agenda
-
-1. Welcome & introductions
-2. Apologies for absence
-3. [Minutes from last meeting](/pfa/minutes/2022-10-26/)
-4. PFA update
-    1. What we do (and don’t do), communications
-    2. Constitution
-5. Discussion points from parents
-6. Treasurer’s update
-7. Headteacher’s update
-8. Any other business
-9. Dates for the rest of 2022/23 school year
-10. [50/50 Draw](/pfa/5050) takes place (live!)
-
-### [PROVISIONAL] 9:00, 27 January 2023, at school
+### 22 February 2023, 3:15pm at school

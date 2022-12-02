@@ -55,6 +55,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * **8th:** 11:30am Mrs Holt's Christmas Crafts
 * **8th:** School library van
 * **12th:** 6pm–7pm P1–4 Christmas Performance, "Behind the Stable Door"
+* **13th:** P1 health checks
 * **14th:** 1:45pm–2:45pm P1–4 Christmas Performance, "Behind the Stable Door"
 * **15th:** 6pm–8pm Eyemouth High School Christmas Showcase
 * **18th:** 4:30pm Santa visits at Clock Tower

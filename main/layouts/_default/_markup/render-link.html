@@ -8,5 +8,5 @@
     {{- $destination = (resources.Fingerprint "md5" .).RelPermalink }}
   {{- end }}
 {{- end }}
-<a href="{{ $destination | safeURL }}" {{- with $title}} title="{{ . }}" {{- end }}{{- if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener" {{- end }}>{{- .Text | safeHTML -}}</a>
+<a href="{{ $destination | safeURL }}" {{- with $title}} title="{{ . }}" {{- end }}{{- if or (strings.HasPrefix .Destination "http") (strings.HasSuffix .Destination ".pdf") }} target="_blank" rel="noopener" {{- end }}>{{- .Text | safeHTML -}}</a>
 {{- print "" -}}

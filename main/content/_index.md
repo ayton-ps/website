@@ -67,3 +67,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 ## Breakfast club
 
 Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+
+## School handbook
+
+The school handbook can be downloaded [here](/handbook-22-proof2.pdf).

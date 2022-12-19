@@ -50,10 +50,6 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## December dates
 
-* **13th:** P1 health checks
-* **14th:** 1:45pm–2:45pm P1–4 Christmas Performance, "Behind the Stable Door"
-* **15th:** 6pm–8pm Eyemouth High School Christmas Showcase
-* **18th:** 4:30pm Santa visits at Clock Tower
 * **19th:** 6pm–7pm P5/6/7 Christmas Cracker
 * **20th:** [Christmas Raffle](/pfa/christmas-raffle/) winners announced
 * **20th:** Party clothes

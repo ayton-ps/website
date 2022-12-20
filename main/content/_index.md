@@ -50,7 +50,6 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## December dates
 
-* **19th:** 6pm–7pm P5/6/7 Christmas Cracker
 * **20th:** [Christmas Raffle](/pfa/christmas-raffle/) winners announced
 * **20th:** Party clothes
 * **20th:** P5/6 Christmas Party/P7 Christmas Party (am)

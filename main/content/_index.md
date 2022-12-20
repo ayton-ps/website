@@ -4,9 +4,6 @@ type: page
 meta:
   image: /i/og.jpg
   description: The homepage for Ayton Primary School
-banner_messages:
-  - Tickets for the [Christmas raffle](/pfa/christmas-raffle/) are now on sale
-    at Ayton Mini Market and from the school reception!
 menu:
   main:
     name: Welcome

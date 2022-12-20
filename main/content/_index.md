@@ -57,7 +57,7 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * **20th:** P1–4 Christmas Party (1:15pm)
 * **21st:** Christmas Lunch
 * **21st:** Wear something Christmassy
-* **21st:** Church Service (1:30pm)
+* **22nd:** Church Service (1:30pm)
 
 
 ## Breakfast club

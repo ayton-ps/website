@@ -45,17 +45,6 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 * [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
 
 
-## December dates
-
-* **20th:** [Christmas Raffle](/pfa/christmas-raffle/) winners announced
-* **20th:** Party clothes
-* **20th:** P5/6 Christmas Party/P7 Christmas Party (am)
-* **20th:** P1–4 Christmas Party (1:15pm)
-* **21st:** Christmas Lunch
-* **21st:** Wear something Christmassy
-* **22nd:** Church Service (1:30pm)
-
-
 ## Breakfast club
 
 Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.

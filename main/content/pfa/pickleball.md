@@ -10,9 +10,9 @@ menu:
     weight: 30
 ---
 
-{{<aside side="right">}}
-<img src="/i/pfa/pickleball-club.svg" alt="Ayton PS Pickleball Club" style="width:10em;height:auto">
-{{</aside>}}
+# Pickleball Club
+
+<img src="/i/pfa/pickleball-club.svg" alt="Ayton PS Pickleball Club" style="width:25%;height:auto;float:right;margin-left:1em;margin-bottom:1em;">
 
 Starting 26 January, there will be an after-school pickleball club for P5–6s. The club is run by two parents of the school, with generous support from [BAVS](https://www.bavs.org.uk) for setting up the group, and help from [Active Schools](https://sportscotland.org.uk/schools/active-schools/) in arranging sign-ups and background checks.
 

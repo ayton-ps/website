@@ -47,13 +47,6 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## Dates for your diary
 
-**Thursday 2nd February:** Pickleball after school for those who have signed up. 3.15pm – 4.15pm
-**Friday 3rd February:** P1-4 Extra P.E.
-**Thursday 9th February:** Pickleball – 3.15pm – 4.15pm
-**Thursday 9th February:** Library Van
-**Thursday 9th February:** P7 Residential payment due
-**Friday 10th February:** P5-7 Extra P.E.
-**Monday 13th – Friday 17th February:** School closed to ALL – February break
 **Monday 20th February:** In Service Day, school closed to pupils
 **Tuesday 21st February:** School open to all
 **Wednesday 22nd February:** Cross Country for P5, 6 and 7
@@ -61,7 +54,12 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 **Thursday 23rd February:** Pickleball – 3.15pm – 4.15pm
 **Thursday 2nd March:** World Book Day
 **Thursday 2nd March:** Dental Checks for P1 and P7
+**Thursday 2nd March:** Pickleball – 3.15pm – 4.15pm
+**Thursday 9th March:** Pickleball – 3.15pm – 4.15pm
+**Thursday 16th March:** Pickleball – 3.15pm – 4.15pm
 **Friday 17th March:** Red Nose Day – More information to follow
+**Thursday 23th March:** Pickleball – 3.15pm – 4.15pm
+**Thursday 30th March:** Pickleball – 3.15pm – 4.15pm
 **Friday 31st March:** Last day of term for pupils and staff
 **Monday 17th April:** All resume
 

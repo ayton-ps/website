@@ -17,3 +17,17 @@ Our parent council is called *Parents and Friends Association of Ayton Primary S
 ## Next meeting
 
 ### 22 February 2023, 3:15pm at school
+
+#### Agenda
+
+1. Welcome & Introductions
+2. Apologies for absence
+3. Minutes from last meeting
+4. PFA Update - For Approval
+    1. What we do
+    2. The Constitution
+5. Discussion points from parents
+6. Treasurer’s update
+7. Headteacher’s update
+8. AOB
+9. Dates for the rest of 2022/23 school year

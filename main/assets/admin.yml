@@ -77,6 +77,63 @@ collections:
                 max: 999
                 required: true
                 hint: Where in the menu the link should be. Smaller numbers come first. Set to 999 to hide
+  - name: news
+    label: News
+    label_singular: News item
+    folder: main/content/news
+    create: true
+    filter: { field: type, value: news }
+    summary: '{{ print "{{" }}day}}/{{ print "{{" }}month}}/{{ print "{{" }}year}} — {{ print "{{" }}title}}'
+    format: frontmatter
+    preview_path: "{{ print "{{ slug }}" }}/"
+    editor: { preview: false }
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Author
+        name: author
+        widget: string
+      - label: Type
+        name: type
+        widget: hidden
+        value: news
+      - label: Draft
+        name: draft
+        widget: boolean
+        value: true
+        required: false
+      - label: Publish date
+        name: publishDate
+        widget: datetime
+        hint: "Note: This cannot be used to schedule publishing"
+      - label: Main image
+        name: cover_photo
+        required: false
+        widget: image
+        hint: Used at top of page. Images should be at least 2000 pixels wide
+      - label: Content
+        name: body
+        widget: markdown
+      - label: Summary
+        name: summary
+        required: false
+        hint: If left blank, will use the beginning of the blog post
+      - label: Social Media/Searching
+        name: meta
+        widget: object
+        summary: 'Description: {{ print "{{" }}fields.description}}'
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            hint: Used when sharing on social media
+            required: false
+          - label: Description
+            name: description
+            widget: string
+            required: false
+            hint: Text used in search enginges and when sharing links on social media
   - name: blog
     label: Blog
     label_singular: Blog post

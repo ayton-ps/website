@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <div class="go-back">&larr; <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></div>
+  <h1>{{ .Title }}</h1>
+  <div class="post-info">
+    {{ with .Params.author }}{{ . }}, {{ end }}{{ time.Format "2 Jan 2006" .PublishDate }}
+  </div>
+  {{ with .Params.cover_photo }}
+    <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart" | resources.Fingerprint "md5").RelPermalink }}"></div>
+  {{ end }}
+  {{ .Content }}
+  <div class="other-posts">
+    {{ with .NextInSection }}
+      <div class="newer-post">
+        <span class="which">Next post</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+    {{ with .PrevInSection }}
+      <div class="older-post">
+        <span class="which">Previous post</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

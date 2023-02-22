@@ -2,6 +2,7 @@
 title: February Newsletter
 author: Louise McAskill
 publishDate: 2023-02-20T12:13:24.048Z
+type: news
 ---
 
 

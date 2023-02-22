@@ -47,21 +47,17 @@ Please note the additional holidays listed under the 'Eyemouth' section of 'Casu
 
 ## Dates for your diary
 
-**Monday 20th February:** In Service Day, school closed to pupils
-**Tuesday 21st February:** School open to all
-**Wednesday 22nd February:** Cross Country for P5, 6 and 7
-**Wednesday 22nd February:** Parent Council Meeting at 3:15pm
-**Thursday 23rd February:** Pickleball – 3.15pm – 4.15pm
-**Thursday 2nd March:** World Book Day
-**Thursday 2nd March:** Dental Checks for P1 and P7
-**Thursday 2nd March:** Pickleball – 3.15pm – 4.15pm
-**Thursday 9th March:** Pickleball – 3.15pm – 4.15pm
-**Thursday 16th March:** Pickleball – 3.15pm – 4.15pm
-**Friday 17th March:** Red Nose Day – More information to follow
-**Thursday 23th March:** Pickleball – 3.15pm – 4.15pm
-**Thursday 30th March:** Pickleball – 3.15pm – 4.15pm
-**Friday 31st March:** Last day of term for pupils and staff
-**Monday 17th April:** All resume
+* **Thursday 23rd February:** Pickleball – 3.15pm – 4.15pm
+* **Thursday 2nd March:** World Book Day
+* **Thursday 2nd March:** Dental Checks for P1 and P7
+* **Thursday 2nd March:** Pickleball – 3.15pm – 4.15pm
+* **Thursday 9th March:** Pickleball – 3.15pm – 4.15pm
+* **Thursday 16th March:** Pickleball – 3.15pm – 4.15pm
+* **Friday 17th March:** Red Nose Day – More information to follow
+* **Thursday 23th March:** Pickleball – 3.15pm – 4.15pm
+* **Thursday 30th March:** Pickleball – 3.15pm – 4.15pm
+* **Friday 31st March:** Last day of term for pupils and staff
+* **Monday 17th April:** All resume
 
 ## Breakfast club
 

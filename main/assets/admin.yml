@@ -9,6 +9,102 @@ media_folder: main/assets/i
 public_folder: /i/
 logo_url: {{ (resources.Get "cms-logo.svg" | resources.Fingerprint "md5").RelPermalink }}
 collections:
+  - name: homepage
+    label: Homepage
+    label_singular: Homepage
+    delete: false
+    editor: { preview: false }
+    files:
+      - label: Homepage
+        name: homepage
+        preview_path: "/"
+        file: main/content/_index.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Banner messages
+            name: banner_messages
+            widget: list
+            summary: '{{ print "{{" }}fields.message}}'
+            field: {label: Message, name: message, widget: markdown}
+          - label: Content
+            name: body
+            widget: markdown
+          - label: Sections
+            name: sections
+            widget: list
+            types:
+              - label: Text
+                name: text
+                summary: '{{ print "{{" }}fields.content | truncate(70, "…")}}'
+                widget: object
+                fields:
+                  - label: "Content"
+                    name: "content"
+                    widget: "markdown"
+              - label: Recent news
+                name: news
+                widget: object
+                summary: '{{ print "{{" }}fields.title}}'
+                fields:
+                  - label: "Title"
+                    name: "title"
+                    widget: "string"
+              - label: Recent blog
+                name: blog
+                summary: '{{ print "{{" }}fields.title}}'
+                widget: object
+                fields:
+                  - label: "Title"
+                    name: "title"
+                    widget: "string"
+          - label: Type
+            name: type
+            widget: hidden
+            value: homepage
+          - label: Social Media/Searching
+            name: meta
+            widget: object
+            summary: 'Description: {{ print "{{" }}fields.description}}'
+            fields:
+              - label: Image
+                name: image
+                widget: image
+                hint: Used when sharing on social media
+                required: false
+              - label: Description
+                name: description
+                widget: string
+                required: false
+                hint: Text used in search enginges and when sharing links on social media
+          - label: URL
+            name: url
+            widget: string
+            required: false
+            hint: Use this to change the default URL generated. Should start with a '/'
+          - label: Menu placement
+            name: menu
+            widget: object
+            required: false
+            fields:
+              - label: Main menu
+                name: main
+                widget: object
+                required: false
+                fields:
+                  - label: Name
+                    name: name
+                    widget: string
+                    required: false
+                  - label: Weight
+                    name: weight
+                    widget: number
+                    value_type: int
+                    min: -100
+                    max: 999
+                    required: true
+                    hint: Where in the menu the link should be. Smaller numbers come first. Set to 999 to hide
   - name: pages
     label: Pages
     label_singular: Page

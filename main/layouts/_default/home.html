@@ -1,1 +1,35 @@
-{{ define "head_extra" }}<script>if (window.location.hash.indexOf('token') > -1) window.location.href = window.location.origin + '/admin/' + window.location.hash;</script>{{ end }}
+{{ define "head_extra" }}
+<script>if (window.location.hash.indexOf('token') > -1) window.location.href = window.location.origin + '/admin/' + window.location.hash;</script>
+{{ end }}
+{{ define "main" }}
+{{ .Content }}
+<div class="sections">
+  {{ range .Params.sections }}
+  <section>
+    {{ if eq .type "text" }}
+    {{- $.Page.RenderString (dict "display" "block") .content -}}
+    {{ else if eq .type "news" }}
+    <h2><a href="/news" class="no-text-decoration">{{ .title }}</a></h2>
+    {{- range first 1 (sort (where site.Pages "Type" "news") "Date" "desc") -}}
+    <h3><a href="{{ .RelPermalink }}" class="no-text-decoration">{{ .Title }}</a></h3>
+    <div>
+      {{ .Summary }}
+    </div>
+    <h4><a href="{{ .RelPermalink }}">Read more</a></h4>
+    {{ end }}
+    {{ else if eq .type "blog" }}
+    <h2><a href="/blog" class="no-text-decoration">{{ .title }}</a></h2>
+    {{- range first 1 (sort (where site.Pages "Type" "blog") "Date" "desc") -}}
+    <h3><a href="{{ .RelPermalink }}" class="no-text-decoration">{{ .Title }}</a></h3>
+    <div>
+      {{ .Summary }}
+    </div>
+    <h4><a href="{{ .RelPermalink }}">Read more</a></h4>
+    {{ end }}
+    {{ else }}
+    {{ errorf "Unknown section type: %s" .type }}
+    {{ end }}
+  </section>
+  {{ end }}
+</div>
+{{ end }}

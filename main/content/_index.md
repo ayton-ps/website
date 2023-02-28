@@ -38,6 +38,7 @@ sections:
 
       ***Mondays:*** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
 
+
       ***Thursdays:*** 🏓 [Pickleball Club](/pfa/pickleball) P5/6 @3:15
   - type: text
     content: >-

@@ -3,6 +3,7 @@ languageCode = 'en-gb'
 disableHugoGeneratorInject = true
 title = 'Ayton Primary School'
 disableKinds = ['taxonomy', 'taxonomyTerm']
+summaryLength = 25
 [permalinks]
 pfa-minutes = '/pfa/minutes/:year-:month-:day'
 [markup.goldmark.renderer]

@@ -9,22 +9,16 @@
     {{ if eq .type "text" }}
     {{- $.Page.RenderString (dict "display" "block") .content -}}
     {{ else if eq .type "news" }}
-    <h2><a href="/news" class="no-text-decoration">{{ .title }}</a></h2>
-    {{- range first 1 (sort (where site.Pages "Type" "news") "Date" "desc") -}}
-    <h3><a href="{{ .RelPermalink }}" class="no-text-decoration">{{ .Title }}</a></h3>
-    <div>
-      {{ .Summary }}
-    </div>
-    <h4><a href="{{ .RelPermalink }}">Read more</a></h4>
+    <h2><a href="/news">{{ .title }}</a></h2>
+    {{- range first 2 (sort (where site.Pages "Type" "news") "Date" "desc") -}}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div>{{ .Summary }}</div>
     {{ end }}
     {{ else if eq .type "blog" }}
-    <h2><a href="/blog" class="no-text-decoration">{{ .title }}</a></h2>
-    {{- range first 1 (sort (where site.Pages "Type" "blog") "Date" "desc") -}}
-    <h3><a href="{{ .RelPermalink }}" class="no-text-decoration">{{ .Title }}</a></h3>
-    <div>
-      {{ .Summary }}
-    </div>
-    <h4><a href="{{ .RelPermalink }}">Read more</a></h4>
+    <h2><a href="/blog">{{ .title }}</a></h2>
+    {{- range first 2 (sort (where site.Pages "Type" "blog") "Date" "desc") -}}
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <div>{{ .Summary }}</div>
     {{ end }}
     {{ else }}
     {{ errorf "Unknown section type: %s" .type }}

@@ -12,15 +12,15 @@ sections:
       head teacher of Reston Primary School.
 
 
-      We currently have three classes: P1–4, P5–5, and P7. See our [staff page](/staff) for more information.
+      We currently have three classes: P1–4, P5–6, and P7. See our [staff page](/staff) for more information.
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up to together Eyemouth High School.
   - type: blog
-    title: Digital Ninjas' blog 🥷💻
+    title: Digital Ninjas blog 🥷💻
   - type: text
     content: >-
-      ## Dates for your diary
+      ## Dates for your diary 🗓️
 
 
       * **Thursday 2nd March:** 📚 World Book Day
@@ -36,24 +36,24 @@ sections:
       * **Monday 17th April:** 🎓 All resume
 
 
-      ***Mondays:*** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
+      ### Clubs
+
+      * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
+
+      * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
 
 
-      ***Thursdays:*** 🏓 [Pickleball Club](/pfa/pickleball) P5/6 @3:15
+      ### Term dates
+
+      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+
+      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
+
+
+      *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
   - type: text
     content: >-
-      ## Term dates
-
-
-      Please note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'.
-
-
-      * [This academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
-
-      * [Next academic year's term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
-
-
-      ## School timings
+      ## School timings 🕣
 
 
       Monday–Thursday: 08:45–15:10, lunch 12:15–12:55\
@@ -64,13 +64,13 @@ sections:
       **PE days are Tuesdays and Thursdays.**
 
 
-      ## Breakfast club
+      ## Breakfast club 🥣
 
 
       Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
 
 
-      ## School handbook
+      ## School handbook 📘
 
 
       The school handbook can be downloaded [here](/handbook-22-proof2.pdf).

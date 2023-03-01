@@ -18,7 +18,7 @@ sections:
       We currently have three classes: P1–4, P5–6, and P7. See our [staff page](/staff) for more information.
 
 
-      We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up to together Eyemouth High School.
+      We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
   - type: blog
     title: Digital Ninjas blog 🥷💻
   - type: text

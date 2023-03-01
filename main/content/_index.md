@@ -7,6 +7,9 @@ sections:
     title: News from school 📚
   - type: text
     content: >-
+      ## 👋
+
+
       Our school is for children in P1-P7 for children from Ayton and the
       surrounding area. Our interim head teacher is Mrs Horsburgh, who is the
       head teacher of Reston Primary School.

@@ -72,17 +72,6 @@ sections:
 
       * 🎓 All resume
 
-      ### Clubs
-
-      * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
-      * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
-
-      ### Term dates
-
-      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
-      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
-
-      *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
   - type: text
     content: >-
       ## School timings 🕣
@@ -95,6 +84,17 @@ sections:
 
       **PE days are Tuesdays and Thursdays.**
 
+      ### Sports Clubs
+
+      * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
+      * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
+
+      ### Term dates
+
+      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
+
+      *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
 
       ## Breakfast club 🥣
 

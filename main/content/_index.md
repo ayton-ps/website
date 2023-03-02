@@ -30,6 +30,7 @@ sections:
       * 📚 World Book Day  
       * 🚚 Library van  
       * 🦷 Dental Checks for P1 and P7
+      * 🆕🏐🏀🏈 P4-7 Active Schools – Future Stars Athletics first week at Eyemouth High School
 
       #### Monday 6 March
 
@@ -84,12 +85,12 @@ sections:
 
       **PE days are Tuesdays and Thursdays.**
 
-      ### Sports Clubs
+      ## Sports Clubs 🏟️
 
       * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
       * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
 
-      ### Term dates
+      ## Term dates 🗓️
 
       * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
       * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)

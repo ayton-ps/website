@@ -22,36 +22,65 @@ sections:
   - type: blog
     title: Digital Ninjas blog 🥷💻
   - type: text
-    content: >-
+    content: |-
       ## Dates for your diary 🗓️
 
+      #### Thursday 2 March
 
-      * **Thursday 2nd March:** 📚 World Book Day
+      * 📚 World Book Day  
+      * 🚚 Library van  
+      * 🦷 Dental Checks for P1 and P7
 
-      * **Thursday 2nd March:** 🦷 Dental Checks for P1 and P7
+      #### Monday 6 March
 
-      * **Monday 6th March: 🆕🏐🏀🏈** New P1-4 Active Schools Fitness Club ([sign up here](https://form.jotform.com/221362733415349))
+      * 🆕🏐🏀🏈 New P1-4 Active Schools Fitness Club ([sign up here](https://form.jotform.com/221362733415349))  
+      * 🏰 P1-4 Walk to the Castle
 
-      * **Friday 17th March:** 🔴 Red Nose Day – More information to follow
+      #### Monday 13 March
 
-      * **Friday 31st March:** 🐣 Last day of term for pupils and staff
+      * 🔬 Generation Science Workshops in School
 
-      * **Monday 17th April:** 🎓 All resume
+      #### Wednesday 15 March
 
+      * ☢️ P7 Trip to Torness  
+      * ⚗️ Generation Science Workshops in School  
+      * ⛪️ P1-4 Visit to the Church
+
+      #### Friday 17 March
+
+      * 🔴 [Red Nose Day](/news/march-newsletter/#red-nose-day)
+
+      #### Wednesday 22 March
+
+      * 🏫 P7 Pupils to Eyemouth High School – AM  
+      * 🛏️ P7 Residential Parents Evening at Eyemouth High School
+
+      #### Friday 24 March
+
+      * 📋 P1 – P7 school reports issued.
+
+      #### Wednesday 29 March
+
+      * ⛲️ P1-4 Visit to Paxton House  
+      * 🧑‍🏫 Drop in session to discuss your child’s report.
+
+      #### Friday 31 March
+
+      * 🐣 Last day of term for pupils and staff
+
+      #### Monday 17 April
+
+      * 🎓 All resume
 
       ### Clubs
 
       * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
-
       * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
-
 
       ### Term dates
 
       * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
-
       * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
-
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
   - type: text

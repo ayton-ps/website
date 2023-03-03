@@ -73,6 +73,10 @@ sections:
 
       * 🎓 All resume
 
+      #### Thursday 18 May
+
+      * 👩‍👦👨‍👧 [PFA](/pfa) meeting, 6:30pm
+
   - type: text
     content: >-
       ## School timings 🕣

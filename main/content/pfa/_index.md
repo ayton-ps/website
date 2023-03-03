@@ -13,3 +13,7 @@ menu:
 # Parents and Friends Association
 
 Our parent council is called *Parents and Friends Association of Ayton Primary School*. You can email us at **<hello@pfa.aytonprimary.com>**. We regularly meet as a group and with staff to chat about the school. All parents are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
+
+## Next meeting
+
+### 6:30pm, 18 May 2023, school

@@ -2,7 +2,7 @@
   {{ .Content }}
   {{ $firstSection := true -}}
   {{- if not (eq .RelPermalink "/pfa/") -}}
-    {{- range (.Pages.GroupByDate "2006").Reverse -}}
+    {{- range (.Pages.GroupByDate "2006") -}}
       {{ if not $firstSection -}}
         <h3>{{ .Key }}</h3>
       {{ else -}}

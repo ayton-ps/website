@@ -25,41 +25,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Thursday 2 March
-
-      * 📚 World Book Day  
-      * 🚚 Library van  
-      * 🦷 Dental Checks for P1 and P7
-      * 🆕🏐🏀🏈 P4-7 Active Schools – Future Stars Athletics first week at Eyemouth High School
-
-      #### Monday 6 March
-
-      * 🆕🏐🏀🏈 New P1-4 Active Schools Fitness Club ([sign up here](https://form.jotform.com/221362733415349))  
-      * 🏰 P1-4 Walk to the Castle
-
-      #### Monday 13 March
-
-      * 🔬 Generation Science Workshops in School
-
-      #### Wednesday 15 March
-
-      * ☢️ P7 Trip to Torness  
-      * ⚗️ Generation Science Workshops in School  
-      * ⛪️ P1-4 Visit to the Church
-
-      #### Friday 17 March
-
-      * 🔴 [Red Nose Day](/news/march-newsletter/#red-nose-day)
-
-      #### Wednesday 22 March
-
-      * 🏫 P7 Pupils to Eyemouth High School – AM  
-      * 🛏️ P7 Residential Parents Evening at Eyemouth High School
-
-      #### Friday 24 March
-
-      * 📋 P1 – P7 school reports issued.
-
       #### Wednesday 29 March
 
       * ⛲️ P1-4 Visit to Paxton House  

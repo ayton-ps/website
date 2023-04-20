@@ -53,6 +53,9 @@ sections:
       #### Tuesday 16th May
       Primary 5 pupils Countryside Day, Springwood Park, Kelso
 
+      #### Thursday 18th May
+      [PFA](/pfa/) meeting, 6:30pm
+
       #### Wednesday 31st May
       * New P1 pupils visiting their new classroom - PM
       * Parent consultations – information on booking process to follow.

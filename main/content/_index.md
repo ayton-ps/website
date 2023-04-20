@@ -25,23 +25,74 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Wednesday 29 March
+      #### Thursday 27th April
+      Final instalment for the P7 residential due to be paid
 
-      * ⛲️ P1-4 Visit to Paxton House  
-      * 🧑‍🏫 Drop in session to discuss your child’s report.
+      #### Friday 28th April
+      Curriculum Overviews will be issued
 
-      #### Friday 31 March
+      #### Monday 1st May
+      Bank Holiday Monday – school closed to pupils and staff
 
-      * 🐣 Last day of term for pupils and staff
+      #### Tuesday 2nd May
+      In-service Day – school closed to pupils
 
-      #### Monday 17 April
+      #### Thursday 4th May
+      * King Charles III Coronation Celebratory lunch in school
+      * Library van to visit school
 
-      * 🎓 All resume
+      #### Monday 8th May
+      School closed to staff and pupils – Coronation of King Charles III
 
-      #### Thursday 18 May
+      #### Monday 8th to Wednesday 10th May
+      P7 Residential at Dukeshouse Wood
 
-      * 👩‍👦👨‍👧 [PFA](/pfa) meeting, 6:30pm
+      #### Monday 15th May
+      Walk to School Week
 
+      #### Tuesday 16th May
+      Primary 5 pupils Countryside Day, Springwood Park, Kelso
+
+      #### Wednesday 31st May
+      * New P1 pupils visiting their new classroom - PM
+      * Parent consultations – information on booking process to follow.
+
+      #### Thursday 25th May
+      Primary 7 pupils transition to Eyemouth High School – AM
+
+      #### Tuesday 30th May
+      * Primary 6 pupils Inspire Learning Day, Springwood Park, Kelso
+      * P7 open evening at Eyemouth High School
+
+      #### Tuesday 6th June
+      Primary 6 pupils at Coldingham for their Priory Live event.
+
+      #### Wednesday 7th June
+      New P1 pupils visiting their new classroom - PM
+
+      #### Thursday 8th June
+      Primary 7 pupils transition to Eyemouth High School – AM
+
+      #### Tuesday 13th June and Wednesday 14th June
+      Primary 7 pupils transition days at Eyemouth High School – transport will be provided
+
+      #### Wednesday 14th June
+      New P1 pupils visiting their new classroom – PM
+
+      #### Thursday 15th June
+      Information session for parents / carers of new P1 pupils at 3.15pm
+
+      #### Thursday 22st June
+      Sports Day in the school field for start (Reserve Sports Date is Tuesday 27th June)
+
+      #### Monday 14th August
+      In-service day for staff
+
+      #### Tuesday 15th August
+      In-service day for staff
+
+      #### Wednesday 16th August
+      New session starts for pupils.
   - type: text
     content: >-
       ## School timings 🕣
@@ -53,11 +104,6 @@ sections:
 
 
       **PE days are Tuesdays and Thursdays.**
-
-      ## Sports Clubs 🏟️
-
-      * **Mondays:** 🏐🏀🏈 Active Schools Fitness Club P1-4 @3:15
-      * **Thursdays:** 🏓 [Pickleball Club](/pfa/pickleball) P5–6 @3:15
 
       ## Term dates 🗓️
 

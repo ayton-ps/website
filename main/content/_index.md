@@ -56,16 +56,16 @@ sections:
       #### Thursday 18th May
       [PFA](/pfa/) meeting, 6:30pm
 
-      #### Wednesday 31st May
-      * New P1 pupils visiting their new classroom - PM
-      * Parent consultations – information on booking process to follow.
-
       #### Thursday 25th May
       Primary 7 pupils transition to Eyemouth High School – AM
 
       #### Tuesday 30th May
       * Primary 6 pupils Inspire Learning Day, Springwood Park, Kelso
       * P7 open evening at Eyemouth High School
+
+      #### Wednesday 31st May
+      * New P1 pupils visiting their new classroom - PM
+      * Parent consultations – information on booking process to follow.
 
       #### Tuesday 6th June
       Primary 6 pupils at Coldingham for their Priory Live event.
@@ -85,7 +85,7 @@ sections:
       #### Thursday 15th June
       Information session for parents / carers of new P1 pupils at 3.15pm
 
-      #### Thursday 22st June
+      #### Thursday 22nd June
       Sports Day in the school field for start (Reserve Sports Date is Tuesday 27th June)
 
       #### Monday 14th August

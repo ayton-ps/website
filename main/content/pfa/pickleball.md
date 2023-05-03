@@ -16,7 +16,9 @@ menu:
 
 Ayton PS Pickleball Club is run by two parents of the school, with generous support from [BAVS](https://www.bavs.org.uk) for setting up the group, and help from [Active Schools](https://sportscotland.org.uk/schools/active-schools/) in organisation and admin.
 
-The club's initial session was a great success, and we are in the process arranging the next session for more children. Information will be sent out by email and posted on this page.
+The club's second session will start 18 May and run for 6 weeks. It is currently only open to P7s.
+
+### [Register here](https://form.jotform.com/231141710530338)
 
 ## What is pickleball?
 

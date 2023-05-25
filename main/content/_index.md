@@ -25,40 +25,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Thursday 27th April
-      Final instalment for the P7 residential due to be paid
-
-      #### Friday 28th April
-      Curriculum Overviews will be issued
-
-      #### Monday 1st May
-      Bank Holiday Monday – school closed to pupils and staff
-
-      #### Tuesday 2nd May
-      In-service Day – school closed to pupils
-
-      #### Thursday 4th May
-      * King Charles III Coronation Celebratory lunch in school
-      * Library van to visit school
-
-      #### Monday 8th May
-      School closed to staff and pupils – Coronation of King Charles III
-
-      #### Monday 8th to Wednesday 10th May
-      P7 Residential at Dukeshouse Wood
-
-      #### Monday 15th May
-      Walk to School Week
-
-      #### Tuesday 16th May
-      Primary 5 pupils Countryside Day, Springwood Park, Kelso
-
-      #### Thursday 18th May
-      [PFA](/pfa/) meeting, 6:30pm
-
-      #### Thursday 25th May
-      Primary 7 pupils transition to Eyemouth High School – AM
-
       #### Tuesday 30th May
       * Primary 6 pupils Inspire Learning Day, Springwood Park, Kelso
       * P7 open evening at Eyemouth High School

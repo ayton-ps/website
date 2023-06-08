@@ -25,20 +25,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Tuesday 30th May
-      * Primary 6 pupils Inspire Learning Day, Springwood Park, Kelso
-      * P7 open evening at Eyemouth High School
-
-      #### Wednesday 31st May
-      * New P1 pupils visiting their new classroom - PM
-      * Parent consultations – information on booking process to follow.
-
-      #### Tuesday 6th June
-      Primary 6 pupils at Coldingham for their Priory Live event.
-
-      #### Wednesday 7th June
-      New P1 pupils visiting their new classroom - PM
-
       #### Thursday 8th June
       Primary 7 pupils transition to Eyemouth High School – AM
 

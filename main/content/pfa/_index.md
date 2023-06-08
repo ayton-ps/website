@@ -16,4 +16,4 @@ Our parent council is called *Parents and Friends Association of Ayton Primary S
 
 ## Next meeting
 
-### 6:30pm, 18 May 2023, school
+### 6:30pm, 14 September 2023, school [AGM]

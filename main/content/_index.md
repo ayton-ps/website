@@ -15,7 +15,7 @@ sections:
       head teacher of Reston Primary School.
 
 
-      We currently have three classes: P1–4, P5–6, and P7. See our [staff page](/staff) for more information.
+      Next year we will have three classes: P1–3, P4–5, and P6–7. See our [staff page](/staff) for more information.
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
@@ -25,20 +25,8 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Thursday 8th June
-      Primary 7 pupils transition to Eyemouth High School – AM
-
-      #### Tuesday 13th June and Wednesday 14th June
-      Primary 7 pupils transition days at Eyemouth High School – transport will be provided
-
-      #### Wednesday 14th June
-      New P1 pupils visiting their new classroom – PM
-
-      #### Thursday 15th June
-      Information session for parents / carers of new P1 pupils at 3.15pm
-
       #### Thursday 22nd June
-      Sports Day in the school field for start (Reserve Sports Date is Tuesday 27th June)
+      Sports Day in the school field 1pm
 
       #### Monday 14th August
       In-service day for staff
@@ -62,8 +50,9 @@ sections:
 
       ## Term dates 🗓️
 
-      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
-      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
+      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
+      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+      * [2024–25 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
 

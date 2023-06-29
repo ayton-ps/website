@@ -15,7 +15,7 @@ sections:
       head teacher of Reston Primary School.
 
 
-      Next year we will have three classes: P1–3, P4–5, and P6–7. See our [staff page](/staff) for more information.
+      For the 2023–24 academic year we will have three classes: P1–3, P4–5, and P6–7. See our [staff page](/staff) for more information.
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
@@ -24,9 +24,6 @@ sections:
   - type: text
     content: |-
       ## Dates for your diary 🗓️
-
-      #### Thursday 22nd June
-      Sports Day in the school field 1pm
 
       #### Monday 14th August
       In-service day for staff

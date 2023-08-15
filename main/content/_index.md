@@ -25,14 +25,11 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Monday 14th August
-      In-service day for staff
-
-      #### Tuesday 15th August
-      In-service day for staff
-
       #### Wednesday 16th August
       New session starts for pupils.
+
+      #### Thursday 31st August
+      14:15 – Open afternoon. Come along and experience some learning in your child’s classroom
   - type: text
     content: >-
       ## School timings 🕣
@@ -43,20 +40,27 @@ sections:
       Friday: 08:45–12:30
 
 
+      The playground is staffed from 08:30.
+
+
       **PE days are Tuesdays and Thursdays.**
 
       ## Term dates 🗓️
 
+
       * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
+
       * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+
       * [2024–25 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
+
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
 
       ## Breakfast club 🥣
 
 
-      Breakfast club starts at 8am, and has a suggested donation of 20p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+      Breakfast club runs from 08:00 to 08:30, and costs 50p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
 
 
       ## School handbook 📘

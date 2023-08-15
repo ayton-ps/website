@@ -31,3 +31,9 @@ Cat Stout
 Mrs MacLeod (P6–7 teacher)  
 Miss Morton (P6–7 teacher on Wednesdays)  
 Miss Katherine Bridgewater (PE specialist)
+
+### ANAs
+
+Miss Rachel Davidson  
+Mrs Katy Virtue  
+Miss Dawn Sword

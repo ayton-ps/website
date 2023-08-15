@@ -27,7 +27,7 @@ is no need to bring school uniform.** The uniform for PE is:
 
 * School sweatshirt as above
 * Black, grey or navy joggers or shorts
-* Plain t-shirt in your child’s House colour (Robin: red, Sparrow: yellow, Wren: green)
+* Plain t-shirt
 * Sensible trainers/gym shoes
 
 Earrings should be taped up or removed on PE days.

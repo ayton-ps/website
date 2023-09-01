@@ -25,11 +25,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      #### Wednesday 16th August
-      New session starts for pupils.
-
-      #### Thursday 31st August
-      14:15 – Open afternoon. Come along and experience some learning in your child’s classroom
   - type: text
     content: >-
       ## School timings 🕣
@@ -47,8 +42,6 @@ sections:
 
       ## Term dates 🗓️
 
-
-      * [2022–23 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates)
 
       * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
 

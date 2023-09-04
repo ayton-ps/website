@@ -25,6 +25,56 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
+      ### Friday 1st September
+
+      Curriculum Overviews will be issued
+
+      ### Thursday 14th September
+
+      Parent Friends Association Meeting 6.30pm in school
+
+      ### Monday 18th September
+
+      Parents Evening Booking System (PEBS) goes live at 8am
+
+      ### Thursday 21st September
+
+      Library Van visiting 
+
+      ### Friday 22nd September
+
+      P6-7 St Abbs Festival
+
+      ### Tuesday 26th September
+
+      P5 Rugby & P6/7 Hockey Festival
+
+      PEBS closes for parents evening bookings at 3pm
+
+      ### Tuesday 3rd October
+
+      Parents Consultations
+
+      ### Wednesday 4th October
+
+      Parents Consultations
+
+      ### Friday 6th October
+
+      Harvest Assembly in School Hall
+
+      ### Monday 9th to Friday 13th October
+
+      October Holiday
+
+      ### Monday 16th October
+
+      Staff In-service Day – school closed to pupils
+
+      ### Tuesday 17th October
+
+      Pupils resume
+
   - type: text
     content: >-
       ## School timings 🕣

@@ -103,12 +103,6 @@ sections:
 
 
       Breakfast club runs from 08:00 to 08:30, and costs 50p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
-
-
-      ## School handbook 📘
-
-
-      W﻿e are currently renewing this years hand book. It will be available shortly.
 type: homepage
 meta:
   image: /i/og.jpg

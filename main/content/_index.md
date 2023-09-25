@@ -10,9 +10,7 @@ sections:
       ## 👋
 
 
-      Our school is for children in P1-P7 for children from Ayton and the
-      surrounding area. Our interim head teacher is Mrs Horsburgh, who is the
-      head teacher of Reston Primary School.
+      Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our interim head teacher is Mrs Horsburgh, who is the head teacher of Reston Primary School.
 
 
       For the 2023–24 academic year we will have three classes: P1–3, P4–5, and P6–7. See our [staff page](/staff) for more information.
@@ -74,7 +72,6 @@ sections:
       ### Tuesday 17th October
 
       Pupils resume
-
   - type: text
     content: >-
       ## School timings 🕣
@@ -90,6 +87,7 @@ sections:
 
       **PE days are Tuesdays and Thursdays.**
 
+
       ## Term dates 🗓️
 
 
@@ -100,6 +98,7 @@ sections:
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
 
+
       ## Breakfast club 🥣
 
 
@@ -109,7 +108,7 @@ sections:
       ## School handbook 📘
 
 
-      The school handbook can be downloaded [here](/handbook-22-proof2.pdf).
+      W﻿e are currently renewing this years hand book. It will be available shortly.
 type: homepage
 meta:
   image: /i/og.jpg

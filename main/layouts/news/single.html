@@ -12,16 +12,14 @@
   {{ with .Params.author }}{{ . }}, {{ end }}{{ time.Format "2 Jan 2006" .PublishDate }}
 </div>
 {{ with .Params.cover_photo }}
-<div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill " 2000x1000 Smart" | resources.Fingerprint "md5"
-    ).RelPermalink }}"></div>
+<div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart" | resources.Fingerprint "md5").RelPermalink }}"></div>
 {{ end }}
 {{ .Content }}
 {{ with .Params.attachments }}
 <h2>Attachments</h2>
 <ul>
   {{ range . }}
-  {{ $attachment := resources.GetMatch . }}
-  <li><a href="{{ $attachment.RelPermalink }}" target="_blank">{{ path.BaseName . }}</a></li>
+  <li><a href="{{ (resources.Get . | resources.Fingerprint "md5").RelPermalink }}" target="_blank">{{ path.BaseName . }}</a></li>
   {{ end }}
 </ul>
 {{ end }}

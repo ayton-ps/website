@@ -20,7 +20,8 @@
 <h2>Attachments</h2>
 <ul>
   {{ range . }}
-  <li><a href="{{ . }}" target="_blank">{{ path.BaseName . }}</a></li>
+  {{ $attachment := resources.GetMatch . }}
+  <li><a href="{{ $attachment.RelPermalink }}" target="_blank">{{ path.BaseName . }}</a></li>
   {{ end }}
 </ul>
 {{ end }}

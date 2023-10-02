@@ -219,6 +219,10 @@ collections:
         name: attachments
         required: false
         widget: file
+        media_library:
+          allow_multiple: true
+          config:
+            multiple: true
       - label: Social Media/Searching
         name: meta
         widget: object

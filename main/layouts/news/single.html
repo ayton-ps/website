@@ -16,6 +16,14 @@
     ).RelPermalink }}"></div>
 {{ end }}
 {{ .Content }}
+{{ with .Params.attachments }}
+<h2>Attachments</h2>
+<ul>
+  {{ range . }}
+  <li><a href="{{ . }}" target="_blank">{{ path.BaseName . }}</a></li>
+  {{ end }}
+</ul>
+{{ end }}
 <div class="other-posts">
   {{ with .NextInSection }}
   <div class="newer-post">

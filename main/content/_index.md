@@ -23,32 +23,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      ### Friday 1st September
-
-      Curriculum Overviews will be issued
-
-      ### Thursday 14th September
-
-      Parent Friends Association Meeting 6.30pm in school
-
-      ### Monday 18th September
-
-      Parents Evening Booking System (PEBS) goes live at 8am
-
-      ### Thursday 21st September
-
-      Library Van visiting 
-
-      ### Friday 22nd September
-
-      P6-7 St Abbs Festival
-
-      ### Tuesday 26th September
-
-      P5 Rugby & P6/7 Hockey Festival
-
-      PEBS closes for parents evening bookings at 3pm
-
       ### Tuesday 3rd October
 
       Parents Consultations
@@ -72,6 +46,18 @@ sections:
       ### Tuesday 17th October
 
       Pupils resume
+
+      ### Friday 27th October
+
+      Curriculum Overviews issued to parents / carers.
+
+      ### Friday 27th October
+
+      PFA Halloween Disco. P1-4 6pm-7pm. P5-7 7.30pm-8.30pm 
+
+      ### Monday 30th October
+
+      P5-6 – Bikeability Week
   - type: text
     content: >-
       ## School timings 🕣
@@ -103,6 +89,14 @@ sections:
 
 
       Breakfast club runs from 08:00 to 08:30, and costs 50p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+
+      ## School handbook & plans 📚
+
+      * [School handbook](/i/ayton-primary-school-handbook-23-24-002-.54cd4ff304b08d63457d51cf175d5793.pdf)
+
+      * [School improvement plan](/i/final-ayton-sip-2023-2024-pdf.55d6c53b878b29592136ce2690c8fe54.pdf)
+
+      * [School improvement report](/i/ayton-sbc-sir-2022-23.55a5772b96b38de31114e826d9435eea.pdf)
 type: homepage
 meta:
   image: /i/og.jpg

@@ -2,6 +2,7 @@
 title: School Improvement Report
 author: Louise McAskill
 publishDate: 2023-10-02T09:04:28.304Z
+type: news
 ---
 School Improvement Report
 

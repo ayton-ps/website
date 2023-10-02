@@ -62,7 +62,7 @@ collections:
           - label: Type
             name: type
             widget: hidden
-            value: homepage
+            default: homepage
           - label: Social Media/Searching
             name: meta
             widget: object
@@ -130,7 +130,7 @@ collections:
       - label: Type
         name: type
         widget: hidden
-        value: page
+        default: page
       - label: Social Media/Searching
         name: meta
         widget: object
@@ -193,7 +193,7 @@ collections:
       - label: Type
         name: type
         widget: hidden
-        value: news
+        default: news
       - label: Draft
         name: draft
         widget: boolean
@@ -215,6 +215,10 @@ collections:
         name: summary
         required: false
         hint: If left blank, will use the beginning of the blog post
+      - label: Attachments
+        name: attachments
+        required: false
+        widget: file
       - label: Social Media/Searching
         name: meta
         widget: object
@@ -252,7 +256,7 @@ collections:
       - label: Type
         name: type
         widget: hidden
-        value: blog
+        default: blog
       - label: Draft
         name: draft
         widget: boolean

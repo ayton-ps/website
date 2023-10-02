@@ -34,7 +34,7 @@ collections:
       - label: Type
         name: author
         widget: hidden
-        value: PFA
+        default: PFA
       - label: Social Media/Searching
         name: meta
         widget: object

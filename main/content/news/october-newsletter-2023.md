@@ -2,6 +2,7 @@
 title: October Newsletter 2023
 author: Louise McAskill
 publishDate: 2023-09-28T13:22:39.410Z
+type: news
 ---
 **Attendance**
 If your child is unable to attend school for whatever reason, please contact the main school office using telephone phone number 018907 81350 or send us a message using Xpressions. If your child is absent from school please notify the school office as soon as you can. If not you will receive a Groupcall message. If your child is booked in for a lunch on ParentPay please ensure the meal is cancelled online, or you may be charged.

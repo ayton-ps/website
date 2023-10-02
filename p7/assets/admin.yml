@@ -29,11 +29,11 @@ collections:
       - label: Type
         name: type
         widget: hidden
-        value: blog
+        default: blog
       - label: Draft
         name: draft
         widget: hidden
-        value: true
+        default: true
       - label: Publish date
         name: publishDate
         widget: datetime

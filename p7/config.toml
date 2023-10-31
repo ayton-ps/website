@@ -1,4 +1,4 @@
-baseURL = 'https://p7.aytonprimary.com'
+baseURL = 'https://ninjas.aytonprimary.com'
 languageCode = 'en-gb'
 title = 'Digital Ninjas'
 disableKinds = ["taxonomy", "taxonomyTerm", "home"]

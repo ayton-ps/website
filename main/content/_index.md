@@ -23,41 +23,54 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      ### Tuesday 3rd October
-
-      Parents Consultations
-
-      ### Wednesday 4th October
-
-      Parents Consultations
-
-      ### Friday 6th October
-
-      Harvest Assembly in School Hall
-
-      ### Monday 9th to Friday 13th October
-
-      October Holiday
-
-      ### Monday 16th October
-
-      Staff In-service Day – school closed to pupils
-
-      ### Tuesday 17th October
-
-      Pupils resume
-
-      ### Friday 27th October
-
-      Curriculum Overviews issued to parents / carers.
-
-      ### Friday 27th October
-
-      PFA Halloween Disco. P1-4 6pm-7pm. P5-7 7.30pm-8.30pm 
-
       ### Monday 30th October
 
       P5-6 – Bikeability Week
+
+
+      ### Wednesday 1st November
+
+      P1-3 Fitness and Fun Games starts, 3:15pm–4pm
+
+      ### Thursday 2nd November
+
+      Library van visiting
+
+      ### Monday 6th November
+
+      Poppy collection starts
+
+      ### Monday 20th November
+
+      Splash – Soup making
+
+      ### Monday 13th to Friday 17th November
+
+      Book Week Scotland
+
+      ### Tuesday 14th November
+
+      NHS Flu Vaccinations for children P1-P7
+
+      ### Friday 17th November
+
+      BBC Children in Need Day
+
+      ### Monday 20th to Friday 24th November
+
+      Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
+
+      ### Monday 27th November
+
+      School closed – St Andrews Day holiday
+
+      ### Tuesday 28th November
+
+      School closed – Eyemouth Learning Community casual holiday.
+
+      ### Thursday 30th November
+
+      St Andrews Day - wear something tartan
   - type: text
     content: >-
       ## School timings 🕣

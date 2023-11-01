@@ -29,10 +29,12 @@ collections:
       - label: Type
         name: type
         widget: hidden
+        required: true
         default: blog
       - label: Draft
         name: draft
         widget: hidden
+        required: true
         default: true
       - label: Publish date
         name: publishDate

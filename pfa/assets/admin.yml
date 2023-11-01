@@ -34,6 +34,7 @@ collections:
       - label: Type
         name: author
         widget: hidden
+        required: true
         default: PFA
       - label: Social Media/Searching
         name: meta
@@ -103,6 +104,7 @@ collections:
       - label: Type
         name: type
         widget: hidden
+        required: true
         default: pfa-minutes
       - label: Content
         name: body

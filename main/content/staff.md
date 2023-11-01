@@ -17,7 +17,7 @@ menu:
 
 ### Principal teachers
 
-Danielle Macleod 
+[Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk)
 
 ### Reception
 
@@ -27,8 +27,8 @@ Danielle Macleod
 
 [Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–3 teacher)\
 [Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P4–5 teacher)\
-Mrs MacLeod (P6–7 teacher)\
-Miss Morton (P6–7 teacher on Wednesdays)\
+[Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher)\
+Miss Anna Tait (P6–7 teacher on Wednesdays while Miss Morton is on maternity leave)\
 Miss Katherine Bridgewater (PE specialist)
 
 ### ANAs

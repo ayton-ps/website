@@ -7,7 +7,7 @@ type: news
 
 ## Staffing Update
 
->  Mrs Macleod will be returning to work in the coming weeks. As a change to her previous role working across 3 schools (Ayton, Coldingham and Co’path), Mrs Macleod will be based at Ayton Primary where she is needed to take on a class teaching responsibility.
+>  Mrs MacLeod will be returning to work in the coming weeks. As a change to her previous role working across 3 schools (Ayton, Coldingham and Co’path), Mrs MacLeod will be based at Ayton Primary where she is needed to take on a class teaching responsibility.
 >
 >  <cite>James Bewsey  
 >  Quality Improvement Officer  
@@ -54,7 +54,7 @@ On Monday 13th and Wednesday 15th March, Generation Science Workshops will be co
 
 P1-4 are going for a few trips this month. On the 6th March, they are walking down to the Castle 12.45pm -3pm. On Wednesday 15th March, they are going to the church 12.45pm – 3pm and on the 29th of March, they are going on a bus trip to Paxton House. EV2s will be issued shortly. If any parent helpers are available on these dates, can you please let the school know.
 
-P7 are going to visit Torness on the morning of the 15th of March with Mr Swan and Mrs Macleod, EV2s will be sent home shortly. P5-6 class trip will be next term.
+P7 are going to visit Torness on the morning of the 15th of March with Mr Swan and Mrs MacLeod, EV2s will be sent home shortly. P5-6 class trip will be next term.
 
 ## Red Nose Day
 

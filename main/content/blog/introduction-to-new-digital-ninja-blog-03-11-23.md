@@ -2,7 +2,7 @@
 title: Introduction to new Digital Ninja Blog 03.11.23
 author: Lawson, Hugh, Emily and Daniel
 type: blog
-draft: true
+draft: false
 publishDate: 2023-11-03T09:59:03.391Z
 cover_photo: /i/blog/img_1456.jpeg
 summary: "Our first blog 2023. "

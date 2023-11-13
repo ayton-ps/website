@@ -5,7 +5,7 @@
     {{ with .Params.author }}{{ . }}, {{ end }}{{ time.Format "2 Jan 2006" .PublishDate }}
   </div>
   {{ with .Params.cover_photo }}
-    <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 Smart" | resources.Fingerprint "md5").RelPermalink }}"></div>
+    <div class="cover-photo"><img src="{{ ((resources.GetMatch .).Fill "2000x1000 webp Smart" | resources.Fingerprint "md5").RelPermalink }}"></div>
   {{ end }}
   {{ .Content }}
   <div class="other-posts">

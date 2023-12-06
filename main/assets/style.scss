@@ -673,3 +673,71 @@ a.no-text-decoration {
   text-decoration: inherit;
   color: inherit;
 }
+
+div.thermometer {
+  $h: 20em;
+  $w: 3em;
+  $t: 0.2em;
+  height: $h;
+  width: $w;
+  position: relative;
+  margin-top: $lineHeight * 1em;
+  margin-left: $w/2;
+  margin-right: $w/2 + 4.5em;
+  margin-bottom: $w*1.5;
+  border: $t solid #000;
+  border-radius: $w;
+
+  &:after {
+    content: '';
+    position: absolute;
+    width: $w*2;
+    height: $w*2;
+    border-radius: $w*2;
+    border: $t solid #000;
+    background-color: $red;
+    position: absolute;
+    bottom: $w*-1.5;
+    left: ($w+$t)/-2;
+    z-index: 1;
+  }
+
+  div.aim {
+    font-weight: bold;
+    position: absolute;
+    left: 100%;
+    bottom: 100%;
+    border-bottom: $t solid #000;
+    padding-left: $w/2;
+  }
+
+  div.at {
+    position: absolute;
+    left: 100%;
+    padding-left: $w/2;
+    margin-bottom: $lineHeight * -1em;
+    border-top: $t solid #000;
+  }
+
+  div.mercury-container {
+    overflow: hidden;
+    border-radius: $w;
+    width: $w;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  div.mercury {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: $red;
+    z-index: 2;
+    border-top: $t solid #000;
+  }
+}

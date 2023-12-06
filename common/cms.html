@@ -54,6 +54,36 @@ end -}}
         toBlock: asideToHtml,
         toPreview: asideToHtml
       });
+      var thermometerToHtml = function (obj) {
+        return '{{ print "{{" }}<thermometer at="' + obj.at + '" aim="' + obj.aim + '" prefix="£">{{ print "}}" }}\n';
+      };
+      CMS.registerEditorComponent({
+        id: 'thermometer',
+        label: 'Thermometer',
+        fields: [{
+          name: 'at',
+          label: 'At',
+          widget: 'number',
+          value_type: 'int',
+          default: 0,
+          required: true
+        }, {
+          name: 'aim',
+          label: 'Aim',
+          widget: 'number',
+          value_type: 'int',
+          required: true
+        }],
+        pattern: /{{ print "{{" }}<thermometer at="([0-9]+)" aim="([0-9]+)" prefix="£">{{ print "}}" }}\n/,
+        fromBlock: function (match) {
+          return {
+            at: match[1],
+            aim: match[2]
+          };
+        },
+        toBlock: thermometerToHtml,
+        toPreview: thermometerToHtml
+      });
     }
   </script>
 </head>

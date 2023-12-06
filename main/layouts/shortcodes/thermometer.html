@@ -1,0 +1,6 @@
+{{ $num := mul 100 (math.Min 1.0 (div (float (.Get "at")) (float (.Get "aim")))) -}}
+<div class="thermometer">
+  <div class="aim">{{ .Get "prefix" }}{{ .Get "aim" }}</div>
+  <div class="at" style="bottom:{{ $num }}%">{{ .Get "prefix" }}{{ .Get "at" }}</div>
+  <div class="mercury-container"><div class="mercury" style="height:{{ $num }}%"></div></div>
+</div>

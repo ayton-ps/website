@@ -28,13 +28,10 @@ After: Now, envision a vibrant Trim Trail, a wonderland of fixed and loose parts
 
 The Mission: The Parents and Friends of Ayton Primary School (PFA) are on a mission to raise £20,000. Every penny brings us closer to giving our kids the playground they deserve – a place where they can soar, dream, and grow.
 
-# [Donate now](https://www.justgiving.com/crowdfunding/AytonSchoolTrimTrail)
+# [Donate now](https://www.justgiving.com/crowdfunding/AytonSchoolTrimTrail) via JustGiving
 
 And if you want to know how vital this is…
 
 1. Social and Emotional Growth: Outdoor play enhances social skills and emotional well-being, but its absence can lead to increased anxiety and hinder social development.
-
 2. Cognitive Development: Outdoor Play is essential for cognitive growth, aiding children in processing the world. Lack of play can impede learning and lead to emotional and mental health concerns like depression.
-
 3. Physical Health: Active outdoor play is crucial for physical health and development. During periods of restricted play, such as the pandemic, limited physical activity led to heightened anxiety and a shift in behaviours, impacting overall well-being.
-

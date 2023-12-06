@@ -24,7 +24,7 @@ Before: Picture our playground now: a blank canvas, a bit grey, vacant. Our ener
 
 After: Now, envision a vibrant Trim Trail, a wonderland of fixed and loose parts play equipment. This isn't just a playground; it's a launchpad for creativity, a gym for young explorers, a haven for developing minds and bodies.
 
-The Mission: The Parents and Friends of Ayton Primary School (PFA) are on a mission to raise £20,000 (we have raised £2100 to date). Every penny brings us closer to giving our kids the playground they deserve – a place where they can soar, dream, and grow.
+The Mission: The Parents and Friends of Ayton Primary School (PFA) are on a mission to raise £20,000. Every penny brings us closer to giving our kids the playground they deserve – a place where they can soar, dream, and grow.
 
 # [Donate now](https://www.justgiving.com/crowdfunding/AytonSchoolTrimTrail)
 

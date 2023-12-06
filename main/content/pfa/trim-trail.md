@@ -16,6 +16,8 @@ menu:
 
 {{<aside side="right">}}
 {{<thermometer at="2110" aim="20000" prefix="£">}}
+
+*Our progress so far*
 {{</aside>}}
 
 Imagine a playground where where every jump sparks joy, and where climbing ignites imaginations. That's the dream at Ayton Primary School – and you can help make it a reality!

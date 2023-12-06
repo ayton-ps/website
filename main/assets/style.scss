@@ -684,7 +684,7 @@ div.thermometer {
   margin-top: $lineHeight * 1em;
   margin-left: $w/2;
   margin-right: $w/2 + 4.5em;
-  margin-bottom: $w*1.5;
+  margin-bottom: ($lineHeight*1em + $w*1.5);
   border: $t solid #000;
   border-radius: $w;
 

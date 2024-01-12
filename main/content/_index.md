@@ -23,54 +23,74 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      ### Monday 30th October
+      
 
-      P5-6 – Bikeability Week
+      **Monday 8th January**  
+      All resume
+      
 
+      **Tuesday 16th January**  
+      P1 and P7 Dental Inspection
+      
 
-      ### Wednesday 1st November
+      **Wednesday 17th January**  
+      P4–5 Youth Theatre Workshop begins
+      
 
-      P1-3 Fitness and Fun Games starts, 3:15pm–4pm
+      **Thursday 18th January**  
+      Library Van
+      
 
-      ### Thursday 2nd November
+      **Friday 19th January**  
+      Curriculum Overviews to be issued
+      
 
-      Library van visiting
+      **Thursday 25th January**  
+      Robert Burns Celebration — wear something tartan
+      
 
-      ### Monday 6th November
+      **Monday 29th January, Tuesday 30th January and Wednesday 31st January**  
+      Stay and Play for P1s
+      
 
-      Poppy collection starts
+      **Thursday 1st February**  
+      P7 Information Evening at Eyemouth High School at 6:30pm
+      
 
-      ### Monday 20th November
+      **Monday 5th February and Tuesday 6th February**  
+      Additional dates for P1 Stay and Play
+      
 
-      Splash – Soup making
+      **Tuesday 6th February**  
+      PFA Meeting in school — 6:30pm
+      
 
-      ### Monday 13th to Friday 17th November
+      **Monday 12th to Friday 16th February**  
+      School closed to ALL — February break
+      
 
-      Book Week Scotland
+      **Monday 19th February**  
+      In Service Day, school closed to pupils
+      
 
-      ### Tuesday 14th November
+      **Tuesday 20th February**  
+      School open to all
+      
 
-      NHS Flu Vaccinations for children P1-P7
+      **Thursday 7th March**  
+      World Book Day
+      
 
-      ### Friday 17th November
+      **Friday 22nd March**  
+      P1–7 School Reports to be issued
+      
 
-      BBC Children in Need Day
+      **Thursday 28th March**  
+      Last day of term for Easter holidays
+      
 
-      ### Monday 20th to Friday 24th November
-
-      Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
-
-      ### Monday 27th November
-
-      School closed – St Andrews Day holiday
-
-      ### Tuesday 28th November
-
-      School closed – Eyemouth Learning Community casual holiday.
-
-      ### Thursday 30th November
-
-      St Andrews Day - wear something tartan
+      **Monday 15th April**  
+      School open to all staff and pupils
   - type: text
     content: >-
       ## School timings 🕣

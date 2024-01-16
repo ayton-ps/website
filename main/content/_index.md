@@ -121,7 +121,7 @@ sections:
       ## Breakfast club 🥣
 
 
-      Breakfast club runs from 08:00 to 08:30, and costs 50p. Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+      Breakfast club runs from 08:00 to 08:30, and costs 50p (payable via [ParentPay](https://www.parentpay.com)). Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
 
       ## School handbook & plans 📚
 

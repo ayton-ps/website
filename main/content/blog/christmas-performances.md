@@ -2,7 +2,7 @@
 title: Christmas performances.
 author: Digital Ninjas
 type: blog
-draft: true
+draft: false
 publishDate: 2024-01-12T09:21:35.600Z
 cover_photo: /i/blog/img_1492.jpeg
 ---

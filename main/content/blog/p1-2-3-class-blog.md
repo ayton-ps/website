@@ -2,7 +2,7 @@
 title: P1/2/3 Class Blog
 author: "Digital ninjas "
 type: blog
-draft: true
+draft: false
 publishDate: 2024-01-12T09:32:09.594Z
 cover_photo: /i/blog/img_0189.jpeg
 ---

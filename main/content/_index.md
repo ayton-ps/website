@@ -25,34 +25,6 @@ sections:
 
       
 
-      **Monday 8th January**  
-      All resume
-      
-
-      **Tuesday 16th January**  
-      P1 and P7 Dental Inspection
-      
-
-      **Wednesday 17th January**  
-      P4–5 Youth Theatre Workshop begins
-      
-
-      **Thursday 18th January**  
-      Library Van
-      
-
-      **Friday 19th January**  
-      Curriculum Overviews to be issued
-      
-
-      **Thursday 25th January**  
-      Robert Burns Celebration — wear something tartan
-      
-
-      **Monday 29th January, Tuesday 30th January and Wednesday 31st January**  
-      Stay and Play for P1s
-      
-
       **Thursday 1st February**  
       P7 Information Evening at Eyemouth High School at 6:30pm
       
@@ -64,33 +36,51 @@ sections:
       **Tuesday 6th February**  
       PFA Meeting in school — 6:30pm
       
+      **Wednesday 7th February**  
+      Showbie information session 3:30pm-4:00pm in school
 
       **Monday 12th to Friday 16th February**  
       School closed to ALL — February break
       
 
       **Monday 19th February**  
-      In Service Day, school closed to pupils
+      In-service day, school closed to pupils
       
 
       **Tuesday 20th February**  
-      School open to all
-      
+      School open to all  
+      STEM sessions for all classes 
+
+
+      **Thursday 29th February**  
+      Cross Country for P5, 6 and 7 at Eyemouth Primary School 10.00am – 12 noon.
+
 
       **Thursday 7th March**  
       World Book Day
       
 
+      **Friday 15th March**  
+      Red Nose Day – More information to follow 
+
+
       **Friday 22nd March**  
       P1–7 School Reports to be issued
+
+
+      **Monday 25th March**  
+      Numeracy Open Event 2:15pm-3pm. More details to follow.
       
 
       **Thursday 28th March**  
+      Easter Assembly 1:30pm in school hall. All welcome.  
       Last day of term for Easter holidays
-      
+
 
       **Monday 15th April**  
       School open to all staff and pupils
+
+
   - type: text
     content: >-
       ## School timings 🕣

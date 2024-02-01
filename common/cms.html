@@ -23,6 +23,28 @@ end -}}
   </style>
   <script>
     function setupEditorComponents() {
+      var youtubeToHtml = function (obj) {
+        return '{{ print "{{" }}<youtube ' + obj.vid + '>{{ print "}}" }}';
+      };
+      CMS.registerEditorComponent({
+        id: 'youtube',
+        label: 'YouTube',
+        fields: [{
+          name: 'vid',
+          label: 'Video ID',
+          widget: 'string',
+          hint: 'The bit that comes after https://www.youtube.com/watch?v=, e.g. NpEaa2P7qZI',
+          default: 'NpEaa2P7qZI'
+        }],
+        pattern: /{{ print "{{" }}<youtube ([a-zA-Z0-9]*)>{{ print "}}" }}/,
+        fromBlock: function (match) {
+          return {
+            vid: match[1]
+          };
+        },
+        toBlock: youtubeToHtml,
+        toPreview: youtubeToHtml
+      });
       var asideToHtml = function (obj) {
         return '{{ print "{{" }}<aside side="' + obj.side + '">{{ print "}}" }}\n' + obj.content + '\n{{ print "{{" }}</aside>{{ print "}}" }}';
       };

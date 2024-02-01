@@ -24,8 +24,8 @@ Sessions run from 3:15pm to 4:15pm every Monday school is open, unless otherwise
 
 Pickleball was created almost 60 years ago by families looking to play a racquet sport that could be enjoyed by all members of the family, regardless of age and ability. It is often described as a cross between tennis, badminton and table tennis, and its rules are designed to create long rallies. It has gained a lot of popularity in the last few years.
 
-{{< youtube kqLRRNOpe8U >}}
+{{<youtube kqLRRNOpe8U>}}
 
 &nbsp;
 
-{{< youtube fTvPYdKZqO0 >}}
+{{<youtube fTvPYdKZqO0>}}

@@ -687,7 +687,7 @@ div.thermometer {
   margin-right: $w/2 + 4.5em;
   margin-bottom: ($lineHeight*1em + $w*1.5);
   border: $t solid #000;
-  border-radius: $w;
+  border-radius: $w $w 0 0;
 
   &:after {
     content: '';
@@ -698,7 +698,7 @@ div.thermometer {
     border: $t solid #000;
     background-color: $red;
     position: absolute;
-    bottom: $w*-1.5;
+    bottom: $w*-1.7;
     left: ($w+$t)/-2;
     z-index: 1;
   }
@@ -722,7 +722,7 @@ div.thermometer {
 
   div.mercury-container {
     overflow: hidden;
-    border-radius: $w;
+    border-radius: $w $w 0 0;
     width: $w;
     height: 100%;
     position: absolute;

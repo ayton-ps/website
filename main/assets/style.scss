@@ -742,3 +742,56 @@ div.thermometer {
     border-top: $t solid #000;
   }
 }
+
+@media print {
+
+  nav,
+  #toc-wrapper,
+  footer {
+    display: none !important;
+  }
+
+  p {
+    orphans: 2;
+  }
+
+  header#header {
+    justify-content: start;
+
+    a:nth-of-type(1) {
+      margin-right: 1em;
+    }
+
+    img {
+      height: 4cm !important;
+    }
+  }
+
+  main {
+    padding: 0;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding-top: 0 !important;
+    break-before: auto;
+    break-after: avoid;
+    page-break-after: avoid;
+
+    +p {
+      page-break-before: avoid;
+    }
+  }
+
+  table {
+    break-inside: avoid;
+  }
+}

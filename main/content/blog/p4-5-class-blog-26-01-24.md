@@ -1,8 +1,8 @@
 ---
-title: P4-5 class blog 26.01.24
+title: P4-5 class blog
 author: "Digital ninjas Hugh and Lawson "
 type: blog
-draft: true
+draft: false
 publishDate: 2024-01-26T11:55:16.514Z
 cover_photo: /i/blog/img_0506.jpeg
 meta:

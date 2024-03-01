@@ -23,46 +23,23 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      
-
-      **Thursday 1st February**  
-      P7 Information Evening at Eyemouth High School at 6:30pm
-      
-
-      **Monday 5th February and Tuesday 6th February**  
-      Additional dates for P1 Stay and Play
-      
-
-      **Tuesday 6th February**  
-      PFA Meeting in school — 6:30pm
-      
-      **Wednesday 7th February**  
-      Showbie information session 3:30pm-4:00pm in school
-
-      **Monday 12th to Friday 16th February**  
-      School closed to ALL — February break
-      
-
-      **Monday 19th February**  
-      In-service day, school closed to pupils
-      
-
-      **Tuesday 20th February**  
-      School open to all  
-      STEM sessions for all classes 
-
-
-      **Thursday 29th February**  
-      Cross Country for P5, 6 and 7 at Eyemouth Primary School 10.00am – 12 noon.
-
-
       **Thursday 7th March**  
       World Book Day
-      
+
+      **Monday 11th March**  
+      Group A - P7 going to High School with Miss Simm and Mrs McNeil
+
 
       **Friday 15th March**  
-      Red Nose Day – More information to follow 
+      Red Nose Day
 
+
+      **Monday 18th March**  
+      Group B - P7 going to High School with Miss Simm and Mrs McNeil
+
+
+      **Thursday 21st March**  
+      Library Van
 
       **Friday 22nd March**  
       P1–7 School Reports to be issued
@@ -70,11 +47,12 @@ sections:
 
       **Monday 25th March**  
       Numeracy Open Event 2:15pm-3pm. More details to follow.
-      
+
 
       **Thursday 28th March**  
       Easter Assembly 1:30pm in school hall. All welcome.  
-      Last day of term for Easter holidays
+      Last day of term for Easter holidays  
+      Easter Egg Competition entries due
 
 
       **Monday 15th April**  

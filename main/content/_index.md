@@ -48,6 +48,8 @@ sections:
       **Monday 25th March**  
       Numeracy Open Event 2:15pm-3pm. More details to follow.
 
+      **Wednesday 27th March**  
+      2:15–3:00pm P1–5 Enterprise Fair, school hall
 
       **Thursday 28th March**  
       Easter Assembly 1:30pm in school hall. All welcome.  

@@ -11,7 +11,7 @@ menu:
 ---
 # Our staff
 
-### Interim Head Teacher
+### Head Teacher
 
 [Mrs Jill Horsburgh](mailto:Jill.Horsburgh@scotborders.gov.uk)
 
@@ -28,8 +28,9 @@ menu:
 [Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–3 teacher)\
 [Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P4–5 teacher)\
 [Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher)\
-Miss Anna Tait (P6–7 teacher on Wednesdays while Miss Morton is on maternity leave)\
 Miss Katherine Bridgewater (PE specialist)
+
+Miss Tracy Renton is teaching Support for Learning and doing some team teaching on a Tuesday and a Wednesday. Mrs Jill Nottingham is teaching P6/7 on a Tuesday and a Wednesday to cover Mrs MacLeod’s management time.
 
 ### ANAs
 

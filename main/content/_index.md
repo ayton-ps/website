@@ -41,6 +41,9 @@ sections:
       **Tuesday 7th May**  
       In-service Day – school closed to pupils
 
+      **Wednesday 15th May**  
+      PFA Meeting, 6-7pm
+
       **Monday 20th May**  
       Walk to School Week
 

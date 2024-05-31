@@ -2,7 +2,7 @@
 title: P4/5 Countryside Day
 author: Digital ninjas
 type: blog
-draft: true
+draft: false
 publishDate: 2024-05-31T11:22:00.000Z
 cover_photo: /i/blog/img_0861.jpeg
 meta:

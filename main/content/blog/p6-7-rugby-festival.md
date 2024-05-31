@@ -2,7 +2,7 @@
 title: "P6/7 Rugby Festival "
 author: Digital Ninjas
 type: blog
-draft: true
+draft: false
 publishDate: 2024-05-31T11:11:00.000Z
 cover_photo: /i/blog/img_2122.jpeg
 meta:

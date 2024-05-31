@@ -8,4 +8,4 @@ cover_photo: /i/blog/img_2122.jpeg
 meta:
   image: /i/blog/img_2123.jpeg
 ---
-P6/7 Went down to Eyemouth high school for the Rugby Festival, they all enjoyed competing against other schools, even though it was very wet! Everyone at Ayton showed great sportsmanship!
+P6/7 Went down to Eyemouth High School for the Rugby Festival, they all enjoyed competing against other schools, even though it was very wet! Everyone at Ayton showed great sportsmanship!

@@ -2,7 +2,7 @@
 title: World Book Day
 author: Digital Ninjas
 type: blog
-draft: true
+draft: false
 publishDate: 2024-03-22T11:42:39.588Z
 cover_photo: /i/blog/img_0412.jpeg
 ---

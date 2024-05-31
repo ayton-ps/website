@@ -2,7 +2,7 @@
 title: Red nose day
 author: Digital Leaders
 type: blog
-draft: true
+draft: false
 publishDate: 2024-03-15T11:21:00.000Z
 cover_photo: /i/blog/img_1064.jpeg
 meta:

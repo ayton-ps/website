@@ -5,7 +5,7 @@ HUGO_ENV:=production
 all: main p7 pfa
 
 main p7 pfa:
-	hugo --minify --environment=$(HUGO_ENV) --source=$@
+	hugo --minify --environment=$(HUGO_ENV) --source=$@ --buildFuture
 
 clean: clean_main clean_p7 clean_pfa
 
@@ -15,6 +15,6 @@ clean_main clean_p7 clean_pfa:
 dev:
 	npx run-pty % \
 		npx netlify-cms-proxy-server % \
-		hugo server --buildDrafts --port=1313 --source=main % \
+		hugo server --buildDrafts --buildFuture --port=1313 --source=main % \
 		hugo server --port=1314 --source=p7 % \
 		hugo server --port=1315 --source=pfa

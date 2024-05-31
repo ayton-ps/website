@@ -2,7 +2,7 @@
 title: Soup making with Splash
 author: Lawson
 type: blog
-draft: true
+draft: false
 publishDate: 2023-11-24T10:42:09.113Z
 cover_photo: /i/blog/img_0131.jpeg
 ---

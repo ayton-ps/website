@@ -16,9 +16,7 @@ menu:
 
 Ayton PS Pickleball Club is run by two parents of the school, with generous support from [BAVS](https://www.bavs.org.uk) for setting up the group, and help from [Active Schools](https://sportscotland.org.uk/schools/active-schools/) in organisation and admin.
 
-Sessions run from 3:15pm to 4:15pm every Monday school is open, unless otherwise stated. We are currently at capacity, but registration is open for future spaces.
-
-### [Register here](https://form.jotform.com/221362733415349)
+The club is not currently running due to lack of space in the hall. Efforts are being made to start a cluster club at Eyemouth HS.
 
 ## What is pickleball?
 

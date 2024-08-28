@@ -26,7 +26,6 @@ menu:
 ### Teachers
 
 **[Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–2 teacher)**
-
 **Miss Carly Thom (P3-4 teacher)**\
 **[Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P5 teacher)**\
 **[Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher)**\
@@ -38,4 +37,5 @@ Miss Tracy Renton is teaching Support for Learning and doing some team teaching 
 
 Miss Rachel Davidson\
 Mrs Katy Virtue\
-Miss Dawn Sword and Miss Justyna Duncan
+Miss Dawn Sword\
+Miss Justyna Duncan

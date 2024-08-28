@@ -25,10 +25,12 @@ menu:
 
 ### Teachers
 
-[Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–3 teacher)\
-[Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P4–5 teacher)\
-[Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher)\
-Miss Katherine Bridgewater (PE specialist)
+**[Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–2 teacher)**
+
+**Miss Carly Thom (P3-4 teacher)**\
+**[Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P5 teacher)**\
+**[Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher)**\
+**Miss Katherine Bridgewater (PE specialist)**
 
 Miss Tracy Renton is teaching Support for Learning and doing some team teaching on a Tuesday and a Wednesday. Mrs Jill Nottingham is teaching P6/7 on a Tuesday and a Wednesday to cover Mrs MacLeod’s management time.
 
@@ -36,4 +38,4 @@ Miss Tracy Renton is teaching Support for Learning and doing some team teaching 
 
 Miss Rachel Davidson\
 Mrs Katy Virtue\
-Miss Dawn Sword
+Miss Dawn Sword and Miss Justyna Duncan

@@ -73,6 +73,12 @@ The majority of the forms have now been returned to school, if you have not
 returned the form please do so ASAP as the nursing team will collect them the
 week beginning 2nd September.
 
+## Parent Council
+
+There will be Parent Council meeting held in the school hall on Wednesday 25th
+September 6:00–7:00pm. All parents and carers are welcome to attend. An AGM date
+will be agreed at this first initial meeting of the new school session.
+
 ## Fundraising
 
 Last terms sponsored walk around the castle raised a wonderful £939.21. The
@@ -140,7 +146,7 @@ playground/shared outdoor learning area.
 ## P1 to P7 Parents Consultations
 
 Our next Parent Consultation will be held on Monday 7th October, 3:15–5:00pm and
-Wednesday 9th October 5:00pm–7:00pm. Consultations will be held in school and
+Wednesday 9th October 5:00pm–7:30pm. Consultations will be held in school and
 appointments should be made through the Parent Evening Booking System online.
 
 The system will go live on Monday 16th September at 09:00am and will close
@@ -163,8 +169,9 @@ navigate the teachers in the quickest and most efficient manner.
 
 * **Wednesday 4th September:** School Open Evening, 6-7pm
 * **Monday 16th September:** Parents Evening Booking System (PEBS) goes live at 9am
+* **Wednesday 25th September:** PFA meeting in school, 6-7pm
 * **Thursday 3rd October:** P5 Rugby & P6/7 Hockey Festival
-* **Friday 4th October:** PEBS closes for parents evening bookings at 12.30pm
+* **Friday 4th October:** PEBS closes for parents evening bookings at 12:30pm
 * **Monday 7th October:** Parents Consultations 3.15pm-5pm
 * **Wednesday 9th October:** Parents Consultations 5pm-7pm
 * **Friday 11th October:** Harvest Assembly in School Hall

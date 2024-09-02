@@ -76,9 +76,9 @@ sections:
       ## Term dates 🗓️
 
 
-      * [2023–24 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
+      * [2024–25 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/2)
 
-      * [2024–25 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
+      * [2025–26 term dates](https://www.scotborders.gov.uk/info/20009/schools_and_learning/621/term_holiday_and_closure_dates/3)
 
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*

@@ -29,9 +29,6 @@ sections:
       **Monday 16th September**  
       Parents Evening Booking System (PEBS) goes live at 9am
 
-      **Wednesday 25th September**  
-      PFA meeting in school, 6:30–7:30pm
-
       **Thursday 3rd October**  
       P5 Rugby & P6/7 Hockey Festival
 

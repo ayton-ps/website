@@ -15,7 +15,7 @@ menu:
 # Weʼre raising £20,000 to transform Ayton Primary's Playground
 
 {{<aside side="right">}}
-{{<thermometer at="29000" aim="20000" prefix="£">}}
+{{<thermometer at="35459" aim="20000" prefix="£">}}
 
 *Our progress so far*
 {{</aside>}}

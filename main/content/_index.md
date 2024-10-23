@@ -23,39 +23,21 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      **Wednesday 4th September**  
-      School Open Evening, 6–7pm
 
-      **Monday 16th September**  
-      Parents Evening Booking System (PEBS) goes live at 9am
+      **Friday 25th October**  
+      Halloween Disco. P1-4 6pm-7pm. P5-7 7:15pm-8:15pm 
 
-      **Wednesday 25th September**  
-      PFA meeting in school, 6:00–7:00pm
+      **Monday 28th October**  
+      PFA AGM 6pm in school hall
 
-      **Thursday 3rd October**  
-      P5 Rugby & P6/7 Hockey Festival
+      **Tuesday 1st November**  
+      Curriculum Overviews issued to parents/carers
 
-      **Friday 4th October**  
-      PEBS closes for parents evening bookings at 12:30pm
+      **Monday 2nd December**  
+      School closed – St Andrews Day holiday
 
-      **Monday 7th October**  
-      Parents Consultations 3:15pm–5pm
-
-      **Wednesday 9th October**  
-      Parents Consultations 5pm–7pm
-
-      **Friday 11th October**  
-      Harvest Assembly in School Hall
-
-      **Monday 14th to Friday 18th October**  
-      October Holiday
-
-      **Monday 21st October**  
-      Staff In-service Day – school closed to pupils
-
-      **Tuesday 22nd October**  
-      Pupils resume
-
+      **Tuesday 3rd December**  
+      School closed – Eyemouth Cluster Casual Holiday
 
   - type: text
     content: >-

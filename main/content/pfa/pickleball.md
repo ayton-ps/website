@@ -7,7 +7,7 @@ meta:
 menu:
   pfa:
     name: Pickleball club
-    weight: 30
+    weight: 999
 ---
 
 # Pickleball Club

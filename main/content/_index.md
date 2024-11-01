@@ -24,20 +24,74 @@ sections:
       ## Dates for your diary 🗓️
 
 
-      **Friday 25th October**  
-      Halloween Disco. P1-4 6pm-7pm. P5-7 7:15pm-8:15pm 
+      **Friday 1st November**  
+      Curriculum Overviews will be issued
 
-      **Monday 28th October**  
-      PFA AGM 6pm in school hall
+      **Friday 1st November**  
+      Poppy collection starts today
 
-      **Tuesday 1st November**  
-      Curriculum Overviews issued to parents/carers
+      **Wednesday 6th November**  
+      School photographer in school
+
+      **Wednesday 13th November**  
+      Flu vaccinations for P1-7
+
+      **Friday 15th November**  
+      P7 Residential payment due
+
+      **Friday 15th November**  
+      Children in Need. Pupils can wear something spotty or dress down.
+
+      **Monday 18thth–Friday 22nd November**  
+      Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
+
+      **Monday 18th–Friday 22nd November**  
+      Book Week Scotland
+
+      **Monday 25th November**  
+      PFA Meeting in school 6pm
+
+      **Wednesday 27th November**  
+      P7 Pupils and parents – Knowing me, Knowing you. 9am – 2.45pm
+
+      **Friday 29th November**  
+      St Andrews Day Celebration – Wear something tartan
 
       **Monday 2nd December**  
       School closed – St Andrews Day holiday
 
       **Tuesday 3rd December**  
-      School closed – Eyemouth Cluster Casual Holiday
+      School closed – Eyemouth Learning Community casual holiday.
+
+      **Monday 9th December**  
+      P1-4 “The Fleece Force” Performance – 6pm
+
+      **Tuesday 10th December**  
+      P1-4 “The Fleece Force” Performance – 1.30pm
+
+      **Wednesday 11th December**  
+      P5-7 “Christmas Around the World” Performance – 6pm
+
+      **Thursday 12th December**  
+      P5-7 “Christmas Around the World” Performance – 1.30pm
+
+      **Monday 16th December**  
+      P5 Christmas Party – am
+
+      **Monday 16th December**  
+      P1-4 Christmas Parties – pm
+
+      **Wednesday 18th December**  
+      Church Service – 9.30am. All welcome
+
+      **Wednesday 18th December**  
+      P6/7 Christmas Party – pm
+
+      **Thursday 19th December**  
+      Christmas Lunch
+
+      **Friday 20th December**  
+      Last day of term. School reopens on Monday 6th January.
 
   - type: text
     content: >-

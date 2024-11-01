@@ -15,10 +15,9 @@ menu:
 [hello@pfa.aytonprimary.com](mailto:hello@pfa.aytonprimary.com)
 
 
-* Chair: Amy Meek ([chairs@pfa.aytonprimary.com](mailto:chairs@pfa.aytonprimary.com))
-* Vice chair: Tracey Dick ([chairs@pfa.aytonprimary.com](mailto:chairs@pfa.aytonprimary.com))
-* Secretary: Jo Roberts ([secretary@pfa.aytonprimary.com](mailto:secretary@pfa.aytonprimary.com))
-* Treasurer: Ellie Moriarty ([treasurer@pfa.aytonprimary.com](mailto:treasurer@pfa.aytonprimary.com))
+* Chair: Joanna Stewart ([chair@pfa.aytonprimary.com](mailto:chairs@pfa.aytonprimary.com))
+* Secretary: Louise Birkitt ([secretary@pfa.aytonprimary.com](mailto:secretary@pfa.aytonprimary.com))
+* Treasurer: Toby Foster ([treasurer@pfa.aytonprimary.com](mailto:treasurer@pfa.aytonprimary.com))
 
 ---
 

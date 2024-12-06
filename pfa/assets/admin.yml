@@ -100,7 +100,7 @@ collections:
         default: true
       - label: Date held
         name: date
-        widget: date
+        widget: datetime
       - label: Type
         name: type
         widget: hidden
@@ -109,6 +109,24 @@ collections:
       - label: Content
         name: body
         widget: markdown
+        default: |-
+          ## Attendance
+
+          **Present:**
+
+          **Apologies:**
+
+          ## Minutes from last meeting
+
+          ## Matters arising from last meeting
+
+          ## Treasurer’s Update
+
+          ## Headteacher’s Update
+
+          ## AOB
+
+          ## Date of the next PFA meeting
       - label: Social Media/Searching
         name: meta
         widget: object
@@ -119,8 +137,10 @@ collections:
             widget: image
             hint: Used when sharing on social media
             required: false
+            default: /i/pfa/logo.png
           - label: Description
             name: description
             widget: string
             required: false
             hint: Text used in search enginges and when sharing links on social media
+            default: Parents & Friends Associations (PFAs) are constituted bodies, which support the school and the broader community. They are independent from the school and the local authority.

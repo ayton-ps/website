@@ -2,7 +2,7 @@
 title: Goblin car p6
 author: Zackary B
 type: blog
-draft: true
+draft: false
 publishDate: 2025-02-28T09:10:00.000Z
 cover_photo: /i/blog/img_0562.jpeg
 meta:

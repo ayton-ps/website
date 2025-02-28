@@ -1,7 +1,7 @@
 baseURL = 'https://ninjas.aytonprimary.com'
 languageCode = 'en-gb'
 title = 'Digital Ninjas'
-disableKinds = ["taxonomy", "taxonomyTerm", "home"]
+disableKinds = ["taxonomy", "home"]
 disableHugoGeneratorInject = true
 [module]
 [[module.mounts]]

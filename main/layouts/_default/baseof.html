@@ -7,7 +7,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <title>{{ .Title }}</title>
   {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed" "enableSourceMap" false) -}}
-  {{- $style := resources.Get "style.scss" | resources.ExecuteAsTemplate "main.scss" . | resources.ToCSS $options | resources.Fingerprint "md5" -}}
+  {{- $style := resources.Get "style.scss" | resources.ExecuteAsTemplate "main.scss" . | css.Sass $options | resources.Fingerprint "md5" -}}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="all">
   <meta property="og:title" content="{{ .Page.Title }}">
   <meta property="og:site_name" content="Ayton Primary School">

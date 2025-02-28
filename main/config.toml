@@ -2,7 +2,7 @@ baseURL = 'https://aytonprimary.com'
 languageCode = 'en-gb'
 disableHugoGeneratorInject = true
 title = 'Ayton Primary School'
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 summaryLength = 25
 [permalinks]
 pfa-minutes = '/pfa/minutes/:year-:month-:day'

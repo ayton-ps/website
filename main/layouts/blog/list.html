@@ -4,6 +4,7 @@
     {{ range .Pages }}
       <li>
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="date">{{ .Date | time.Format "2 Jan 2006" }}</p>
         <a href="{{ .RelPermalink }}">
           {{- $img := false -}}
           {{- with .Params.cover_photo }}{{ $img = resources.GetMatch . -}}

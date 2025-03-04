@@ -3,8 +3,6 @@ title: Welcome to Ayton Primary School!
 sections:
   - type: text
     content: "![A photo of our school](/i/school.jpg)"
-  - type: news
-    title: News from school 📚
   - type: text
     content: >-
       ## 👋
@@ -17,81 +15,55 @@ sections:
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
+  - type: news
+    title: News from school 📚
   - type: blog
     title: Digital Ninjas blog 🥷💻
   - type: text
     content: |-
       ## Dates for your diary 🗓️
 
+      **Wednesday 5th March**  
+      P5 Tree planting at Ayton Castle.
 
-      **Friday 1st November**  
-      Curriculum Overviews will be issued
+      **Thursday 6th March**  
+      World Book Day.
 
-      **Friday 1st November**  
-      Poppy collection starts today
+      **Monday 10th March**  
+      PFA Meeting – 3.15pm in school.
 
-      **Wednesday 6th November**  
-      School photographer in school
-
-      **Wednesday 13th November**  
-      Flu vaccinations for P1-7
-
-      **Friday 15th November**  
+      **Friday 14th March**  
       P7 Residential payment due
 
-      **Friday 15th November**  
-      Children in Need. Pupils can wear something spotty or dress down.
+      **Wednesday 19th March**  
+      Library Van.
 
-      **Monday 18thth–Friday 22nd November**  
-      Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
+      **Friday 21st March**  
+      Red Nose Day
 
-      **Monday 18th–Friday 22nd November**  
-      Book Week Scotland
+      **Tuesday 25th March**  
+      Dance Festival at Eyemouth Primary School
 
-      **Monday 25th November**  
-      PFA Meeting in school 6pm
+      **Wednesday 26th March**  
+      Scotland’s Got Historical Talent — 2:15pm
 
-      **Wednesday 27th November**  
-      P7 Pupils and parents – Knowing me, Knowing you. 9am – 2.45pm
+      **Friday 28th March**  
+      P1-7 School Reports Issued
 
-      **Friday 29th November**  
-      St Andrews Day Celebration – Wear something tartan
+      **Monday 31st March**  
+      P1-4 Generation Science “Our Changing Climate”
 
-      **Monday 2nd December**  
-      School closed – St Andrews Day holiday
+      **Friday 4th April**  
+      P5 Open Assembly – 9.15am. P5 Parents and carers are welcome to attend.
 
-      **Tuesday 3rd December**  
-      School closed – Eyemouth Learning Community casual holiday.
+      **Friday 4th April**  
+      Last day of term for pupils and staff for Easter holidays.
 
-      **Monday 9th December**  
-      P1-4 “The Fleece Force” Performance – 6pm
+      **Monday 21st April**  
+      All resume.
 
-      **Tuesday 10th December**  
-      P1-4 “The Fleece Force” Performance – 1.30pm
-
-      **Wednesday 11th December**  
-      P5-7 “Christmas Around the World” Performance – 6pm
-
-      **Thursday 12th December**  
-      P5-7 “Christmas Around the World” Performance – 1.30pm
-
-      **Monday 16th December**  
-      P5 Christmas Party – am
-
-      **Monday 16th December**  
-      P1-4 Christmas Parties – pm
-
-      **Wednesday 18th December**  
-      Church Service – 9.30am. All welcome
-
-      **Wednesday 18th December**  
-      P6/7 Christmas Party – pm
-
-      **Thursday 19th December**  
-      Christmas Lunch
-
-      **Friday 20th December**  
-      Last day of term. School reopens on Monday 6th January.
+      **Wednesday 12th March**  
+      P6 Euroquiz
 
   - type: text
     content: >-

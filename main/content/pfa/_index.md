@@ -16,6 +16,8 @@ Our parent council is called *Parents and Friends Association of Ayton Primary S
 
 We have a WhatsApp community that can be joined using [this link](https://chat.whatsapp.com/IMIKw6mAWwPLwtnA9n79B4).
 
-## Next meeting: 3:10pm, Monday 10 March 2025
+## Next meeting: TBC, 8pm May 2025
+
+We will be holding our next meeting in May at 8pm, at a date that works best for as many as possible. You will be able to join online. Please [join the WhatsApp](https://chat.whatsapp.com/IMIKw6mAWwPLwtnA9n79B4) for more info.
 
 ### [Minutes from previous meetings](/pfa/minutes/)

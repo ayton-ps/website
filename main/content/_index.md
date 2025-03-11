@@ -23,15 +23,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      **Wednesday 5th March**  
-      P5 Tree planting at Ayton Castle.
-
-      **Thursday 6th March**  
-      World Book Day.
-
-      **Monday 10th March**  
-      PFA Meeting – 3.15pm in school.
-
       **Friday 14th March**  
       P7 Residential payment due
 

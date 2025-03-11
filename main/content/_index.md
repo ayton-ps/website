@@ -90,11 +90,11 @@ sections:
 
       ## School handbook & plans 📚
 
-      * [School handbook](/i/ayton-primary-school-handbook-23-24-002-.54cd4ff304b08d63457d51cf175d5793.pdf)
+      * [School handbook ’24/’25](/i/ayton-primary-school-handbook-24-25.pdf)
 
-      * [School improvement plan](/i/final-ayton-sip-2023-2024-pdf.55d6c53b878b29592136ce2690c8fe54.pdf)
+      * [School improvement plan ’23/’24](/i/final-ayton-sip-2023-2024-pdf.pdf)
 
-      * [School improvement report](/i/ayton-sbc-sir-2022-23.55a5772b96b38de31114e826d9435eea.pdf)
+      * [School improvement report ’23/’24](/i/ayton-sbc-sir-2022-23.pdf)
 type: homepage
 meta:
   image: /i/og.jpg

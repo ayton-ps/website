@@ -14,9 +14,7 @@ menu:
 
 *Approved at February 2023 meeting*
 
-## A Role with the School and the Community
-
-### Our aims
+## Our aims
 
 The aims of the PFA of Ayton Primary School are to:
 

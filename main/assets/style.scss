@@ -751,6 +751,9 @@ div.thermometer {
 }
 
 @media print {
+  body {
+    font-size: 14pt;
+  }
 
   nav,
   #toc-wrapper,

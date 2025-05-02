@@ -23,38 +23,30 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      **Friday 14th March**  
-      P7 Residential payment due
-
-      **Wednesday 19th March**  
-      Library Van.
-
-      **Friday 21st March**  
-      Red Nose Day
-
-      **Tuesday 25th March**  
-      Dance Festival at Eyemouth Primary School
-
-      **Wednesday 26th March**  
-      Scotland’s Got Historical Talent — 2:15pm
-
-      **Friday 28th March**  
-      P1-7 School Reports Issued
-
-      **Monday 31st March**  
-      P1-4 Generation Science “Our Changing Climate”
-
-      **Friday 4th April**  
-      P5 Open Assembly – 9.15am. P5 Parents and carers are welcome to attend.
-
-      **Friday 4th April**  
-      Last day of term for pupils and staff for Easter holidays.
-
-      **Monday 21st April**  
-      All resume.
-
-      **Wednesday 12th March**  
-      P6 Euroquiz
+      - **Monday 5th May:** Bank Holiday Monday – school closed to pupils and staff
+      - **Tuesday 6th May:** In-service Day – school closed to pupils
+      - **Wednesday 7th to Friday 9th May:** P7 Residential
+      - **Wednesday 14th, 21st & 28th May:** New P1 pupils to visit their new classroom
+      - **Thursday 15th May:** P5-7 Open afternoon, parents / carers are welcome in class 2.30pm – 3pm
+      - **Monday 19th May:** Walk to school week
+      - **Tuesday 20th May:** Parent consultations for P1-7, 5pm – 7pm
+      - **Tuesday 20th May:** P5 Countryside Day at Springwood Park, Kelso
+      - **Wednesday 22nd May:** Parent consultations for P1-7, 3.15pm – 5.15pm
+      - **Monday 26th May:** 1pm Sponsored walk
+      - **Tuesday 27th May:** P6 pupils Inspire Learning Day at Springwood Park, Kelso
+      - **Wednesday 28th May:** Library van
+      - **Thursday 29th May:** Generation Science P5-7. Fizz, Boom, Bang! Workshop.
+      - **Thursday 5th June:** Information session for parents / carers of new P1 pupils 3.15pm
+      - **Thursday 5th June:** P7 information evening at Eyemouth High School, 6.30pm
+      - **Tuesday 10th June:** P6 Priory Live at Coldingham
+      - **Tuesday 10th & Wednesday 11th June:** P7 formal transition days at Eyemouth High School
+      - **Tuesday 10th June:** P1-2 Open afternoon 2.30pm
+      - **Friday 13th June:** P3-4 Open assembly 2.30pm
+      - **Thursday 19th June:** 12.45pm Sports day
+      - **Monday 23rd June:** Leavers assembly 2pm. Parents and carers of P7’s welcome.
+      - **Wednesday 25th June:** Last day of term
+      - **Monday 18th & Tuesday 19th August:** School open to staff only – in-service days
+      - **Wednesday 20th August:** School open to pupils and staff
 
   - type: text
     content: >-
@@ -104,4 +96,5 @@ menu:
     name: Welcome
     weight: 1
 ---
+
 # Welcome to Ayton Primary School!

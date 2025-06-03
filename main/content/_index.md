@@ -23,30 +23,20 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Monday 5th May:** Bank Holiday Monday – school closed to pupils and staff
-      - **Tuesday 6th May:** In-service Day – school closed to pupils
-      - **Wednesday 7th to Friday 9th May:** P7 Residential
-      - **Wednesday 14th, 21st & 28th May:** New P1 pupils to visit their new classroom
-      - **Thursday 15th May:** P5-7 Open afternoon, parents / carers are welcome in class 2.30pm – 3pm
-      - **Monday 19th May:** Walk to school week
-      - **Tuesday 20th May:** Parent consultations for P1-7, 5pm – 7pm
-      - **Tuesday 20th May:** P5 Countryside Day at Springwood Park, Kelso
-      - **Wednesday 22nd May:** Parent consultations for P1-7, 3.15pm – 5.15pm
-      - **Monday 26th May:** 1pm Sponsored walk
-      - **Tuesday 27th May:** P6 pupils Inspire Learning Day at Springwood Park, Kelso
-      - **Wednesday 28th May:** Library van
-      - **Thursday 29th May:** Generation Science P5-7. Fizz, Boom, Bang! Workshop.
       - **Thursday 5th June:** Information session for parents / carers of new P1 pupils 3.15pm
-      - **Thursday 5th June:** P7 information evening at Eyemouth High School, 6.30pm
-      - **Tuesday 10th June:** P6 Priory Live at Coldingham
-      - **Tuesday 10th & Wednesday 11th June:** P7 formal transition days at Eyemouth High School
-      - **Tuesday 10th June:** P1-2 Open afternoon 2.30pm
-      - **Friday 13th June:** P3-4 Open assembly 2.30pm
-      - **Thursday 19th June:** 12.45pm Sports day
-      - **Monday 23rd June:** Leavers assembly 2pm. Parents and carers of P7’s welcome.
+      - **Thursday 5th June:** Information session for parents / carers of new S1 pupils at Eyemouth High School, 6:30–7:15pm
+      - **Tuesday 10th & Wednesday 11th June:** Primary 7 pupils at Eyemouth High School – transition days
+      - **Tuesday 10th June:** Primary 6 pupils at Coldingham for their Priory live event
+      - **Tuesday 10th June :** P1-2 Open afternoon starting at 2:30pm
+      - **Friday 13th June:** P3-4 open assembly at 9.15am
+      - **Monday 16th June :** Library Van will be visiting school to collect books
+      - **Thursday 19th June:** Sports Day in the school field – 12:45pm start
+      - **Thursday 19th June:** PFA bake sale – 12:45pm
+      - **Monday 23rd June :** P7 Leavers Assembly at 2:00pm
       - **Wednesday 25th June:** Last day of term
-      - **Monday 18th & Tuesday 19th August:** School open to staff only – in-service days
-      - **Wednesday 20th August:** School open to pupils and staff
+      - **Monday 18th August :** In-service day for staff
+      - **Tuesday 19th August :** In-service day for staff
+      - **Wednesday 20th August :** New session starts for pupils
 
   - type: text
     content: >-

@@ -24,33 +24,56 @@ sections:
       ## Dates for your diary 🗓️
 
 
-      - **Thursday 5th June:** Information session for parents / carers of new P1 pupils 3.15pm
 
-      - **Thursday 5th June:** Information session for parents / carers of new S1 pupils at Eyemouth High School, 6:30–7:15pm
+      **Wednesday 17th September**  School Open Afternoon, 2-3pm
 
-      - **Tuesday 10th & Wednesday 11th June:** Primary 7 pupils at Eyemouth High School – transition days
 
-      - **Tuesday 10th June:** Primary 6 pupils at Coldingham for their Priory live event
+       
 
-      - **Tuesday 10th June :** P1-2 Open afternoon starting at 2:30pm
 
-      - **Friday 13th June:** P3-4 open assembly at 9.15am
+      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am
 
-      - **Monday 16th June :** Library Van will be visiting school to collect books
 
-      - **Thursday 19th June:** Sports Day in the school field – 12:45pm start
+       
 
-      - **Thursday 19th June:** PFA bake sale – 12:45pm
 
-      - **Monday 23rd June :** P7 Leavers Assembly at 2:00pm
+      **Friday 3rd October**     PEBS closes for parents evening bookings at 12.30pm
 
-      - **Wednesday 25th June:** Last day of term
 
-      - **Monday 18th August :** In-service day for staff
+       
 
-      - **Tuesday 19th August :** In-service day for staff
 
-      - **Wednesday 20th August :** New session starts for pupils
+      **Monday 6th October**    Parents Consultations 6-7.30pm
+
+
+       
+
+
+      **Thursday 9th October**   Parents Consultations 3.30-6pm
+
+
+       
+
+
+      **Thursday 9th October**   Harvest Assembly in School Hall 
+
+
+       
+
+
+      **Monday 13th to Friday 17th October**     October Holiday
+
+
+       
+
+
+      **Monday 20th October**   Staff In-service Day – school closed to pupils
+
+
+       
+
+
+      **Tuesday 21st October**   Pupils resume
   - type: text
     content: >-
       ## School timings 🕣

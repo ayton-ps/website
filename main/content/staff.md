@@ -25,15 +25,15 @@ menu:
 
 ### Teachers
 
-**[Mrs Iona Pearson](mailto:gw22pearsoniona@glow.sch.uk) (P1–3 teacher)**\
-**[Mrs Pauline Lannagan](mailto:gw17lannaganpauline@glow.sch.uk) (P3-6 teacher)**\
-**[Mrs Danielle MacLeod](mailto:Danielle.MacLeod@scotborders.gov.uk) (P6–7 teacher Mon/Tues/Fri)**
+**Mrs Iona Pearson** **(P1–3 teacher)**\
+**Mrs Pauline Lannagan** **(P3-6 teacher)**\
+**Mrs Danielle MacLeod (P6–7 teacher Mon/Tues/Fri)**
 
 **Mrs Jill  Nottingham (P6/7 teacher Wed/Thurs)**\
 **Miss Katherine Bridgewater (PE specialist)**\
 **Miss Rebecca Morton (Pupil Support teacher)**
 
-### ANAs
+### Pupil Support Assistants
 
 Miss Rachel Davidson\
 Mrs Katy Virtue\

@@ -21,6 +21,10 @@ menu:
 
 Mrs Jill Horsburgh  ([Jill.Horsburgh@scotborders.gov.uk](mailto:Jill.Horsburgh@scotborders.gov.uk))
 
+### Principal Teacher
+
+Mrs Danielle MacLeod  (danielle.macleod@scotborders.gov.uk 
+
 ### Reception
 
 Mrs Louise McAskill ([louise.mcaskill1@scotborders.gov.uk](mailto:louise.mcaskill1@scotborders.gov.uk))

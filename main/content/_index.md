@@ -11,7 +11,7 @@ sections:
       Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our head teacher is Mrs Horsburgh, who is also the head teacher of neighbouring [Reston Primary School](https://restonprimaryschool.wordpress.com).
 
 
-      For the 2023–24 academic year we will have three classes: P1–3, P4–5, and P6–7. See our [staff page](/staff) for more information.
+      For the 2025-2026 academic year we will have three classes: P1–3, P3–6, and P6–7. See our [staff page](/staff) for more information.
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
@@ -20,24 +20,37 @@ sections:
   - type: blog
     title: Digital Ninjas blog 🥷💻
   - type: text
-    content: |-
+    content: >-
       ## Dates for your diary 🗓️
 
-      - **Thursday 5th June:** Information session for parents / carers of new P1 pupils 3.15pm
-      - **Thursday 5th June:** Information session for parents / carers of new S1 pupils at Eyemouth High School, 6:30–7:15pm
-      - **Tuesday 10th & Wednesday 11th June:** Primary 7 pupils at Eyemouth High School – transition days
-      - **Tuesday 10th June:** Primary 6 pupils at Coldingham for their Priory live event
-      - **Tuesday 10th June :** P1-2 Open afternoon starting at 2:30pm
-      - **Friday 13th June:** P3-4 open assembly at 9.15am
-      - **Monday 16th June :** Library Van will be visiting school to collect books
-      - **Thursday 19th June:** Sports Day in the school field – 12:45pm start
-      - **Thursday 19th June:** PFA bake sale – 12:45pm
-      - **Monday 23rd June :** P7 Leavers Assembly at 2:00pm
-      - **Wednesday 25th June:** Last day of term
-      - **Monday 18th August :** In-service day for staff
-      - **Tuesday 19th August :** In-service day for staff
-      - **Wednesday 20th August :** New session starts for pupils
 
+      - **Thursday 5th June:** Information session for parents / carers of new P1 pupils 3.15pm
+
+      - **Thursday 5th June:** Information session for parents / carers of new S1 pupils at Eyemouth High School, 6:30–7:15pm
+
+      - **Tuesday 10th & Wednesday 11th June:** Primary 7 pupils at Eyemouth High School – transition days
+
+      - **Tuesday 10th June:** Primary 6 pupils at Coldingham for their Priory live event
+
+      - **Tuesday 10th June :** P1-2 Open afternoon starting at 2:30pm
+
+      - **Friday 13th June:** P3-4 open assembly at 9.15am
+
+      - **Monday 16th June :** Library Van will be visiting school to collect books
+
+      - **Thursday 19th June:** Sports Day in the school field – 12:45pm start
+
+      - **Thursday 19th June:** PFA bake sale – 12:45pm
+
+      - **Monday 23rd June :** P7 Leavers Assembly at 2:00pm
+
+      - **Wednesday 25th June:** Last day of term
+
+      - **Monday 18th August :** In-service day for staff
+
+      - **Tuesday 19th August :** In-service day for staff
+
+      - **Wednesday 20th August :** New session starts for pupils
   - type: text
     content: >-
       ## School timings 🕣
@@ -68,9 +81,14 @@ sections:
       ## [Breakfast club 🥣](/pfa/breakfast-club)
 
 
-      Breakfast club runs from 08:00 to 08:30, and costs 50p (payable via [ParentPay](https://www.parentpay.com)). Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+      Breakfast club runs from 08:15 to 08:30, and costs 50p (payable via [ParentPay](https://www.parentpay.com)). Please pay in advance for this service. 
+
+
+      Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+
 
       ## School handbook & plans 📚
+
 
       * [School handbook ’24/’25](/i/ayton-primary-school-handbook-24-25.pdf)
 

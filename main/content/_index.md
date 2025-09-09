@@ -31,7 +31,7 @@ sections:
        
 
 
-      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am
+      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am. PFA meeting 8pm on Zoom.
 
 
        

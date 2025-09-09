@@ -24,53 +24,31 @@ sections:
       ## Dates for your diary 🗓️
 
 
-
       **Wednesday 17th September**  School Open Afternoon, 2-3pm
 
 
-       
+      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am.
 
 
-      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am. PFA meeting 8pm on Zoom.
-
-
-       
+      **Monday 22nd September**    PFA meeting 8pm on Zoom.
 
 
       **Friday 3rd October**     PEBS closes for parents evening bookings at 12.30pm
 
 
-       
-
-
       **Monday 6th October**    Parents Consultations 6-7.30pm
-
-
-       
 
 
       **Thursday 9th October**   Parents Consultations 3.30-6pm
 
 
-       
-
-
       **Thursday 9th October**   Harvest Assembly in School Hall 
-
-
-       
 
 
       **Monday 13th to Friday 17th October**     October Holiday
 
 
-       
-
-
       **Monday 20th October**   Staff In-service Day – school closed to pupils
-
-
-       
 
 
       **Tuesday 21st October**   Pupils resume

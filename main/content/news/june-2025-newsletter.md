@@ -1,7 +1,7 @@
 ---
 title: June 2025 Newsletter
 author: Louise McAskill
-publishDate: 2024-06-01T11:13:24.048Z
+publishDate: 2025-06-01T11:13:24.048Z
 type: news
 ---
 

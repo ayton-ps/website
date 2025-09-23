@@ -12,7 +12,7 @@ menu:
 
 # Breakfast club 🥣
 
-With the help of some fantastic volunteers, the school runs a breakfast club every school day from 08:00 to 08:30.
+With the help of some fantastic staff and volunteers, the school runs a breakfast club every school day from 08:15 to 08:30.
 Please book and pay for your child’s place on [ParentPay](https://www.parentpay.com).
 It costs 50p, or is free if you are eligible for Free School Meals.
 

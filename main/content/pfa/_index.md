@@ -14,7 +14,13 @@ menu:
 
 Our Parent Council body is called _Parents and Friends Association of Ayton Primary School_. You can email us at **<hello@pfa.aytonprimary.com>** and join our WhatsApp community with [this link](https://chat.whatsapp.com/IMIKw6mAWwPLwtnA9n79B4). We regularly meet as a group and with staff to chat about the school. All parents and guardians are part of the Parent Forum and are welcome to attend! We would love for you to get involved.
 
-**The next meeting will be the AGM on 28 October 2025 at 6:30pm in school.**
+## Upcoming meetings
+
+- 8:00pm, 18 November 2025 on Teams
+- 6:30pm, 10 February 2026 at school
+- 8:00pm, 19 May 2026 on Teams
+- 6:30pm, 8 September 2026 at school
+- 6:30pm, 27 October 2026 at school—AGM
 
 ## Links
 

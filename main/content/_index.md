@@ -20,38 +20,24 @@ sections:
   - type: blog
     title: Digital Ninjas blog 🥷💻
   - type: text
-    content: >-
+    content: |-
       ## Dates for your diary 🗓️
 
-
-      **Wednesday 17th September**  School Open Afternoon, 2-3pm
-
-
-      **Monday 22nd September**    Parents Evening Booking System (PEBS) goes live at 9am.
-
-
-      **Monday 22nd September**    PFA meeting 8pm on Zoom.
-
-
-      **Friday 3rd October**     PEBS closes for parents evening bookings at 12.30pm
-
-
-      **Monday 6th October**    Parents Consultations 6-7.30pm
-
-
-      **Thursday 9th October**   Parents Consultations 3.30-6pm
-
-
-      **Thursday 9th October**   Harvest Assembly in School Hall 
-
-
-      **Monday 13th to Friday 17th October**     October Holiday
-
-
-      **Monday 20th October**   Staff In-service Day – school closed to pupils
-
-
-      **Tuesday 21st October**   Pupils resume
+      - **Monday 3rd November:** Curriculum Overviews will be issued
+      - **Monday 3rd November:** Poppy collection starts today
+      - **Monday 3rd November :** School photographer in school to take individual, sibling and class photographs
+      - **Wednesday 5th November :** NHS Flu Vaccinations for children in P1-P7
+      - **Friday 14th November:** BBC Children in Need Day
+      - **Tuesday 11th November:** P1 and P7 Dental health screening
+      - **Monday 17th to Friday 21st November:** Book Week Scotland
+      - **Monday 17th to Friday 21st November:** Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
+      - **Tuesday 18th November:** PFA Meeting 8:00pm on Teams
+      - **Friday 22nd November:** Primary 7 residential payment due today
+      - **Friday 28th November:** St Andrews Day – children can wear something tartan with their uniform
+      - **Monday 1st December:** School closed – St Andrews Day holiday
+      - **Tuesday 2nd December:** School closed – Eyemouth Learning Community casual holiday.
+      - **Friday 19th December:** Last day of term for Christmas holidays
+      - **Monday 5th January 2026:** School open to all staff and pupils
   - type: text
     content: >-
       ## School timings 🕣

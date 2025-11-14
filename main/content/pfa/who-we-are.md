@@ -73,15 +73,12 @@ like to discuss any aspect of school.
 Our current PFA members are:
 
 - **Chair:** Joanna Stewart
-- **Secretary:** Louise Birkett
+- **Vice-chair:** Laura Cooksey
+- **Secretary:** Katie Aitchison
 - **Treasurer:** Toby Foster
-- Katie Aitchison
-- Laura Cooksey
-- Rachel Davidson
-- Amy Meek
-- Ellie Moriarty
-- Jo Roberts
+- Louise Birkett
 - Andrea Thacker
+- Ruth von Krause
 
 ## What we do
 

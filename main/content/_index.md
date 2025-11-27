@@ -23,21 +23,17 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Monday 3rd November:** Curriculum Overviews will be issued
-      - **Monday 3rd November:** Poppy collection starts today
-      - **Monday 3rd November :** School photographer in school to take individual, sibling and class photographs
-      - **Wednesday 5th November :** NHS Flu Vaccinations for children in P1-P7
-      - **Friday 14th November:** BBC Children in Need Day
-      - **Tuesday 11th November:** P1 and P7 Dental health screening
-      - **Monday 17th to Friday 21st November:** Book Week Scotland
-      - **Monday 17th to Friday 21st November:** Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
-      - **Tuesday 18th November:** PFA Meeting 8:00pm on Teams
-      - **Friday 22nd November:** Primary 7 residential payment due today
-      - **Friday 28th November:** St Andrews Day – children can wear something tartan with their uniform
-      - **Monday 1st December:** School closed – St Andrews Day holiday
-      - **Tuesday 2nd December:** School closed – Eyemouth Learning Community casual holiday.
-      - **Friday 19th December:** Last day of term for Christmas holidays
-      - **Monday 5th January 2026:** School open to all staff and pupils
+      - **Sunday 30th November:** Christmas Light Switch on at The Crofts entrance. 3.30pm All welcome to join in with community Carol singing.
+      - **Monday 1st December:** St Andrews Day holiday
+      - **Tuesday 2nd December:** Eyemouth Learning Community casual holiday
+      - **Tuesday 9th December:** P1 to P7 Christmas Show 1.30pm
+      - **Wednesday 9th December :** P1 to P7 Christmas Show 1.30pm
+      - **Wednesday 9th December:** P1 to P7 Christmas Show 6:00pm. Please bring pupils back to school from 5.:30pm to get ready for their evening performance.
+      - **Monday 15th December:** Christmas Parties for the whole school from 1:00pm
+      - **Wednesday 17th December:** Christmas Lunch 🎅 Children can wear something Christmassy if they wish to.
+      - **Thursday 18th December:** Church Service at Ayton Parish Church 1.30pm
+      - **Friday 19th December:** Last day of term.
+      - **5th January:** School resumes
   - type: text
     content: >-
       ## School timings 🕣

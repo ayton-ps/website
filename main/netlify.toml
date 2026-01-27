@@ -20,14 +20,14 @@ compress = true
     immutable'''
 
 [[headers]]
-  for = "/i/*/*.*.*"
+  for = "/i/*/*\\.*\\.*"
   [headers.values]
     cache-control = '''
     max-age=31536000,
     immutable'''
 
 [[headers]]
-  for = "/style.*.css"
+  for = "/style\\.*\\.css"
   [headers.values]
     cache-control = '''
     max-age=31536000,

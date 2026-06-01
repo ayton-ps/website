@@ -16,7 +16,7 @@ Our Parent Council body is called _Parents and Friends Association of Ayton Prim
 
 ## Upcoming meetings
 
-- 8:00pm, 19 May 2026 online
+- 8:00pm, 1 June 2026 online
 - 6:30pm, 8 September 2026 at school
 - 6:30pm, 27 October 2026 at school—AGM
 

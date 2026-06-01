@@ -23,17 +23,23 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Sunday 30th November:** Christmas Light Switch on at The Crofts entrance. 3.30pm All welcome to join in with community Carol singing.
-      - **Monday 1st December:** St Andrews Day holiday
-      - **Tuesday 2nd December:** Eyemouth Learning Community casual holiday
-      - **Tuesday 9th December:** P1 to P7 Christmas Show 1.30pm
-      - **Wednesday 9th December :** P1 to P7 Christmas Show 1.30pm
-      - **Wednesday 9th December:** P1 to P7 Christmas Show 6:00pm. Please bring pupils back to school from 5.:30pm to get ready for their evening performance.
-      - **Monday 15th December:** Christmas Parties for the whole school from 1:00pm
-      - **Wednesday 17th December:** Christmas Lunch 🎅 Children can wear something Christmassy if they wish to.
-      - **Thursday 18th December:** Church Service at Ayton Parish Church 1.30pm
-      - **Friday 19th December:** Last day of term.
-      - **5th January:** School resumes
+      - **Tuesday 2nd June:** PFA Meeting, all welcome. Online, 8:00pm
+      - **Wednesday 3rd June:** P6 Inspire Learning at Kelso
+      - **Thursday 4th June:** New P1 visits 2:00pm – 3:00pm
+      - **Thursday 4th June:** P7 Parent Information Session – EYHS 5:30pm – 6:00pm
+      - **Tuesday 9th June and Wednesday 10th June:** Transition days to EHS for P7 pupils
+      - **Tuesday 9th June:** P6 Priory Live at Coldingham
+      - **Friday 12th June:** Pupil Council Bake Sale
+      - **Tuesday 16th June:** Inspire Learning Information Session for parents of next year’s P4. EYPS 6-7pm
+      - **Thursday 18th June:** Open afternoon 2:00pm – 3:00pm – Parents/carers welcome
+      - **Thursday 25th June:** Sports Day 1:00pm start
+      - **Thursday 25th June:** PFA Bake Sale at Sports Day
+      - **Monday 29th June:** Whole school trip to Northumberland Zoo
+      - **Tuesday 30th June:** P7 Leavers Assembly – 9.15am P7 parents/carers welcome
+      - **Thursday 2nd July:** Last day of term
+      - **Monday 17th August:** In-service day for staff
+      - **Tuesday 18th August:** In-service day for staff
+      - **Wednesday 19th August:** New session starts for pupils.
   - type: text
     content: >-
       ## School timings 🕣

@@ -9,6 +9,7 @@ menu:
     name: Staff
     weight: 70
 ---
+
 # Our staff
 
 ### Head Teacher
@@ -25,11 +26,12 @@ menu:
 
 ### Teachers
 
-**Mrs Iona Pearson** **(P1–3 teacher)**\
-**Mrs Pauline Lannagan** **(P3-6 teacher)**\
-**Mrs Danielle MacLeod (P6–7 teacher Mon/Tues/Fri)**
+For 2026/27 academic year:
 
-**Mrs Jill  Nottingham (P6/7 teacher Wed/Thurs)**\
+**Ms Amy Patterson (P1–3 teacher)\
+Mrs Pauline Lannagan (P4–5 teacher)\
+Mrs Jill Nottingham (P6–7)**\
+
 **Miss Katherine Bridgewater (PE specialist)**\
 **Miss Rebecca Morton (Pupil Support teacher)**
 

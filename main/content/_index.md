@@ -23,12 +23,6 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Tuesday 2nd June:** PFA Meeting, all welcome. Online, 8:00pm
-      - **Wednesday 3rd June:** P6 Inspire Learning at Kelso
-      - **Thursday 4th June:** New P1 visits 2:00pm – 3:00pm
-      - **Thursday 4th June:** P7 Parent Information Session – EYHS 5:30pm – 6:00pm
-      - **Tuesday 9th June and Wednesday 10th June:** Transition days to EHS for P7 pupils
-      - **Tuesday 9th June:** P6 Priory Live at Coldingham
       - **Friday 12th June:** Pupil Council Bake Sale
       - **Tuesday 16th June:** Inspire Learning Information Session for parents of next year’s P4. EYPS 6-7pm
       - **Thursday 18th June:** Open afternoon 2:00pm – 3:00pm – Parents/carers welcome

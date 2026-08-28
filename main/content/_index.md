@@ -8,13 +8,18 @@ sections:
       ## 👋
 
 
-      Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our head teacher is Mrs Horsburgh, who is also the head teacher of neighbouring [Reston Primary School](https://restonprimaryschool.wordpress.com).
+      Our school is for children in P1-P7 for children from Ayton and the surrounding area. Our head
+      teacher is Mrs Horsburgh, who is also the head teacher of neighbouring [Reston Primary
+      School](https://restonprimaryschool.wordpress.com).
 
 
-      For the 2025-2026 academic year we will have three classes: P1–3, P3–6, and P6–7. See our [staff page](/staff) for more information.
+      For the 2025-2026 academic year we will have three classes: P1–3, P3–6, and P6–7. See our
+      [staff page](/staff) for more information.
 
 
-      We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton, Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth High School.
+      We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton,
+      Coldingham, Cockburnspath, Eyemouth and Reston primary schools move up together to Eyemouth
+      High School.
   - type: news
     title: News from school 📚
   - type: blog
@@ -23,17 +28,16 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Friday 12th June:** Pupil Council Bake Sale
-      - **Tuesday 16th June:** Inspire Learning Information Session for parents of next year’s P4. EYPS 6-7pm
-      - **Thursday 18th June:** Open afternoon 2:00pm – 3:00pm – Parents/carers welcome
-      - **Thursday 25th June:** Sports Day 1:00pm start
-      - **Thursday 25th June:** PFA Bake Sale at Sports Day
-      - **Monday 29th June:** Whole school trip to Northumberland Zoo
-      - **Tuesday 30th June:** P7 Leavers Assembly – 9.15am P7 parents/carers welcome
-      - **Thursday 2nd July:** Last day of term
-      - **Monday 17th August:** In-service day for staff
-      - **Tuesday 18th August:** In-service day for staff
-      - **Wednesday 19th August:** New session starts for pupils.
+      - **Saturday 5th September :** Ayton Show 1pm – 4pm
+      - **Tuesday 8th September :** PFA Meeting in School 6.30pm – 7.30pm
+      - **Wednesday 24th September:** Parents Evening Booking System (PEBS) goes live at 9am
+      - **Thursday 1st October:** PEBS closes for parents evening bookings at 12.30pm
+      - **Thursday 1st October :** P5 Rugby and P7 Hockey Festival at Eyemouth High School 10am – 12pm
+      - **Wednesday 7th October:** Parents Consultations 5pm – 7pm
+      - **Thursday 8th October:** Parents Consultations 3.15 – 5.15pm
+      - **Monday 12th to Friday 16th October:** October Holiday
+      - **Monday 19th October:** Staff In-service Day – school closed to pupils
+      - **Tuesday 20th October:** Pupils resume
   - type: text
     content: >-
       ## School timings 🕣
@@ -53,9 +57,12 @@ sections:
       ## Term dates 🗓️
 
 
-      * [2026–27 term dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/2)
-      * [2027–28 term dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/3)
-      * [2028–29 term dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/4)
+      * [2026–27 term
+      dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/2) *
+      [2027–28 term
+      dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/3) *
+      [2028–29 term
+      dates](https://www.scotborders.gov.uk/schools-learning/term-holiday-closure-dates/4)
 
 
       *Note the additional holidays listed under the 'Eyemouth' section of 'Casual Holidays'*
@@ -64,10 +71,12 @@ sections:
       ## [Breakfast club 🥣](/pfa/breakfast-club)
 
 
-      Breakfast club runs from 08:15 to 08:30, and costs 50p (payable via [ParentPay](https://www.parentpay.com)). Please pay in advance for this service. 
+      Breakfast club runs from 08:15 to 08:30, and costs 50p (payable via
+      [ParentPay](https://www.parentpay.com)). Please pay in advance for this service. 
 
 
-      Please make sure you receive messages from the school via email or Xpressions for any updates to the schedule.
+      Please make sure you receive messages from the school via email or Xpressions for any updates
+      to the schedule.
 
 
       ## School handbook & plans 📚

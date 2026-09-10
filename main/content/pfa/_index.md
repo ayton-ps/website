@@ -14,9 +14,9 @@ menu:
 
 Our Parent Council body is called _Parents and Friends Association of Ayton Primary School_. You can
 email us at **<hello@pfa.aytonprimary.com>** and join our WhatsApp community with
-[this link](https://chat.whatsapp.com/IMIKw6mAWwPLwtnA9n79B4). We regularly meet as a group and with
-staff to chat about the school. All parents and guardians are part of the Parent Forum and are
-welcome to attend! We would love for you to get involved.
+[this link](/pfa/wa). We regularly meet as a group and with staff to chat about the school. All
+parents and guardians are part of the Parent Forum and are welcome to attend! We would love for you
+to get involved.
 
 ## Upcoming meetings
 
@@ -25,7 +25,7 @@ welcome to attend! We would love for you to get involved.
 
 ## Links
 
-- [Our WhatsApp community](https://chat.whatsapp.com/IMIKw6mAWwPLwtnA9n79B4)
+- [Our WhatsApp community](/pfa/wa)
 - [Our constitution](/pfa/constitution)
 - [Who we are](/pfa/who-we-are)
 - [Minutes from PFA meetings](/pfa/minutes)

@@ -13,8 +13,8 @@ sections:
       School](https://restonprimaryschool.wordpress.com).
 
 
-      For the 2025-2026 academic year we will have three classes: P1–3, P3–6, and P6–7. See our
-      [staff page](/staff) for more information.
+      For the 2026-2027 academic year we have three classes: P1–3, P4–5, and P6–7. See our [staff
+      page](/staff) for more information.
 
 
       We are part of the Eyemouth Learning Community (“Eyemouth cluster”) – children from Ayton,
@@ -28,16 +28,24 @@ sections:
     content: |-
       ## Dates for your diary 🗓️
 
-      - **Saturday 5th September :** Ayton Show 1pm – 4pm
-      - **Tuesday 8th September :** PFA Meeting in School 6.30pm – 7.30pm
-      - **Wednesday 24th September:** Parents Evening Booking System (PEBS) goes live at 9am
-      - **Thursday 1st October:** PEBS closes for parents evening bookings at 12.30pm
-      - **Thursday 1st October :** P5 Rugby and P7 Hockey Festival at Eyemouth High School 10am – 12pm
-      - **Wednesday 7th October:** Parents Consultations 5pm – 7pm
-      - **Thursday 8th October:** Parents Consultations 3.15 – 5.15pm
-      - **Monday 12th to Friday 16th October:** October Holiday
-      - **Monday 19th October:** Staff In-service Day – school closed to pupils
-      - **Tuesday 20th October:** Pupils resume
+      - **Monday 2nd November:** Curriculum Overviews will be issued
+      - **Monday 2nd November:** Poppy collection starts today
+      - **Monday 2nd November:** School photographer in school to take individual, sibling and class photographs
+      - **Wednesday 4th November:** NHS Flu Vaccinations for children in P1-P7
+      - **Thursday 5th November:** P7 Small Schools Netball Tournament at Berwickshire High School
+      - **Friday 13th November:** BBC Children in Need Day
+      - **Monday 16th to Friday 20th November:** Reading Schools Week
+      - **Monday 16th to Friday 20th November:** Enrolment week for ELC, Primary 1, Placement requests and deferred entry to Primary 1
+      - **Friday 20th November:** Primary 7 residential payment due today
+      - **Monday 30th November:** School closed – St Andrews Day holiday
+      - **Tuesday 1st December:** School closed – Eyemouth Learning Community casual holiday
+      - **Thursday 3rd December:** P1 and P7 Dental health screening
+      - **Tuesday 15th December:** Christmas lunch
+      - **Wednesday 16th December:** Christmas Show 1.30pm – 2.30pm
+      - **Thursday 17th December:** Christmas Show 6.00pm – 7.00pm
+      - **Tuesday 22nd December:** Church Service 9.30am – 10.30am
+      - **Wednesday 23rd December:** Last day of term for Christmas holidays
+      - **Wednesday 6th January 2027:** School open to all staff and pupils
   - type: text
     content: >-
       ## School timings 🕣
